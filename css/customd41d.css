@@ -81,7 +81,7 @@ footer a:hover, footer a:focus {
     z-index: -1;
 }
 .background-anim {
-    background: url('../images/background-anim.gif') no-repeat center;
+    /*background: url('../images/background-anim.gif') no-repeat center;*/
 }
 .background-stat {
     background: url('../images/background-stat.png') no-repeat center;
