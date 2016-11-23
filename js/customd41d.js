@@ -3,7 +3,7 @@ $(document).ready(function(){
     //Check to see if the window is top if not then display button
     $(window).scroll(function(){
         var nav = $('#nav');
-        if ($('header').height() <$(this).scrollTop())
+        if (/*$('header').height()*/$('#nav.navbar-default').height() <$(this).scrollTop())
         {
             if(!nav.hasClass('fixed'))
             {
@@ -24,7 +24,7 @@ $(document).ready(function(){
                 //nav.removeClass('fixed');
             }
         }
-        if ($(this).scrollTop() > 100) {
+        if ($(this).scrollTop() > 70) {
             $('.scroll-to-top').fadeIn();
         } else {
             $('.scroll-to-top').fadeOut();
