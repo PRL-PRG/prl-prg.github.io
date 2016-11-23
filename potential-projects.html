@@ -1,0 +1,206 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<!-- Mirrored from ctu-prague-web.dev.catchx.cz/contact.php by HTTrack Website Copier/3.x [XR&CO'2014], Wed, 21 Sep 2016 09:58:32 GMT -->
+<!-- Added by HTTrack --><meta http-equiv="content-type" content="text/html;charset=UTF-8" /><!-- /Added by HTTrack -->
+<head>
+    <meta charset="utf-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+    <title>introduction - Programming Research Laboratory - CVUT</title>
+
+    <!--Fonts-->
+<link href='http://fonts.googleapis.com/css?family=Ubuntu:300' rel='stylesheet' type='text/css'>
+<link href='http://fonts.googleapis.com/css?family=PT+Sans' rel='stylesheet' type='text/css'>
+
+<!-- Bootstrap -->
+<!-- Loader css -->
+<!-- Jquery FlexSlider http://flexslider.woothemes.com -->
+<!-- Custom css -->
+        <link href="css/bootstrap.mind41d.css?" rel="stylesheet">
+        <link href="css/assestsd41d.css?" rel="stylesheet">
+        <link href="css/flexsliderd41d.css?" rel="stylesheet">
+        <link href="css/animated41d.css?" rel="stylesheet">
+        <link href="css/customd41d.css?" rel="stylesheet">
+
+
+
+<!-- For IE 9 and below. ICO should be 32x32 pixels in size -->
+<!--[if IE]><link rel="shortcut icon" href="/images/favicon/favicon-32x32.ico"><![endif]-->
+
+<!-- Firefox, Chrome, Safari, IE 11+ and Opera. 96x96 pixels in size. -->
+<link rel="icon" sizes="96x96" href="images/favicon/favicon-96x9677ae.png?ver=2">
+
+<!-- Apple. 76x76 and 180x180 pixels in size. -->
+<link rel="apple-touch-icon" sizes="76x76" href="images/favicon/apple-icon-76x76.png">
+<link rel="apple-touch-icon" sizes="180x180" href="images/favicon/apple-icon-180x180.png">
+<!-- Android. 192x192 pixels in size. -->
+<link rel="icon" type="image/png" sizes="192x192"  href="images/favicon/android-icon-192x192.png">
+
+    <!-- HTML5 shim and Respond.js for IE8 support of HTML5 elements and media queries -->
+<!-- WARNING: Respond.js doesn't work if you view the page via file:// -->
+<!--[if lt IE 9]>
+<script src="https://oss.maxcdn.com/html5shiv/3.7.2/html5shiv.min.js"></script>
+<script src="https://oss.maxcdn.com/respond/1.4.2/respond.min.js"></script>
+<![endif]--></head>
+
+<body>
+<div id="background" class="background-stat"></div>
+<!--Menu fixed top-->
+<nav class="navbar-default navbar-inverse noslider" id="nav">
+    <div class="container-fluid">
+        <div class="row">
+            <div class="navbar-header">
+                <button type="button" class="navbar-toggle collapsed" data-toggle="collapse" data-target="#navbar" aria-expanded="false" aria-controls="navbar">
+                    <span class="sr-only">Toggle navigation</span>
+                    <span class="icon-bar"></span>
+                    <span class="icon-bar"></span>
+                    <span class="icon-bar"></span>
+                </button>
+            </div>
+            <div id="navbar" class="navbar-collapse collapse text-center">
+                <ul class="nav navbar-nav">
+                    <li ><a href="index.html">Home</a></li>
+                    <li ><a href="philosophy.html">Philosophy</a></li>
+                    <li class="active" ><a href="potential-projects.html">Potential projects</a></li>
+                    <li ><a href="people.html">People</a></li>
+                    <!-- 
+                    <li ><a href="teaching.html">Teaching</a></li>
+                    <li ><a href="seminars.html">Seminars</a></li>
+                    <li ><a href="software.html">Software</a></li>
+                    <li ><a href="publications.html">Publications</a></li>
+                    <li ><a href="new-members.html">New Members</a></li>-->
+                    <li ><a href="contact.html">Contact</a></li>
+                    <!--<li ><a href="blog.html">Blog</a></li>-->
+                </ul>
+            </div><!--/.navbar-collapse -->
+        </div>
+    </div>
+</nav><!--Header-->
+<header class="container-fluid header-padding">
+</header>
+<!-- Content-->
+<div class="container-fluid main-container" id="philosophy">
+    <div class="row block-content text-center">
+        <div class="container">
+            <div class="row">
+                <div class="col-md-12">
+                      <span class="big-header">Potential projects</span>
+                </div>
+            </div>
+        </div>
+    </div>
+        
+    <div class="row block-content bg-1">
+        <div class="container">
+            <div class="row">
+                <div class="col-md-12 font-17">
+                    <h2>Interpreter Design and Implementation</h2> 
+                    <strong>Description:</strong> Design and implement an interpreter for a functional, lazy programming language with high-level vectorized operations. The interpreter will work on a multi-level stack-based intermediate representation called RIR.
+                    <p>
+                        <strong>Interest:</strong> low-level C++ programming.
+                    </p>
+                    <strong>Reading list:</strong>
+                    <ul> 
+                        <li><a href="http://trac.webkit.org/changeset/108309" target="_blank">http://trac.webkit.org/changeset/108309</a></li>
+                        <li><a href="https://www.jilp.org/vol5/v5paper12.pdf" target="_blank">https://www.jilp.org/vol5/v5paper12.pdf</a></li>
+                    </ul>
+                    <h2>Super Optimization</h2> 
+                    <p>
+                        <strong>Description:</strong> Study how to improve the performance of the code of a language implementation, such as an interpreter core loop, with the use of a stochastic optimizer. A stochastic optimizer, such as STOKE, uses random search to  generate extremely efficient versions of short code snippets.
+                    </p>
+                    <p>
+                        <strong>Interest:</strong> assembly language, language implementation
+                    </p>
+                    <strong>Reading list:</strong>
+                    <ul>
+                        <li><a href="https://github.com/StanfordPL/stoke" target="_blank">https://github.com/StanfordPL/stoke</a></li>
+                    </ul>
+                    <h2>Debugging Vectorized Code</h2>  
+                    <p>
+                        <strong>Description:</strong> Add support for debugging a vector language to an interpreter. This work can be extended with integration to an IDE. Support for breakpoints and watchpoint.
+                    </p>
+                    <p>
+                        <strong>Interest:</strong> C++ programming
+                    </p> 
+                    <strong>Reading list:</strong>
+                    <ul>
+                        <li><a href="https://pdfs.semanticscholar.org/c239/80c56ec63ca1c3eacdbecd388df47d4c926a.pdf" target="_blank">https://pdfs.semanticscholar.org/c239/80c56ec63ca1c3eacdbecd388df47d4c926a.pdf</a></li>
+                    </ul>
+                    
+                    <h2>Record & Replay Debugging</h2> 
+                    <p>
+                        <strong>Description:</strong> Implement a debugger for the RIR interpreter that is able to record and replay executions deterministically with minimal overhead.
+                    </p>
+                    <p>
+                        <strong>Interest:</strong> C++ programming
+                    </p>
+                    <strong>Reading list:</strong>
+                    <ul>
+                        <li><a href="http://rr-project.org" target="_blank">http://rr-project.org</a></li>
+                        <li><a href="http://citeseerx.ist.psu.edu/viewdoc/download?doi=10.1.1.338.3420&rep=rep1&type=pdfAnal" target="_blank">http://citeseerx.ist.psu.edu/viewdoc/download?doi=10.1.1.338.3420&rep=rep1&type=pdfAnal</a></li>
+                    </ul>
+                    
+                    <h2>Design of a Regression Benchmark Framework</h2> 
+                    <p>
+                        <strong>Description:</strong> Engineer a framework for running regression benchmarks, and visualize the results on each commit of a system. Track performance and memory footprint, as well as other health indicators.
+                    </p>
+                    <p>
+                        <strong>Interest:</strong> Scripting, System programming, JavaScript
+                    </p>
+                    
+                    <h2>Semantics Specification</h2>
+                    <p>  
+                        <strong>Description:</strong> Write down the formal semantics of a subset of the R language using a lightweight semantic specification tool such as Redex. Define the semantics of features such as objects and lazy evaluation. Implement a test suite that validates the correctness of the semantics.
+                    </p> 
+                    <p>
+                        <strong>Interest:</strong> programming languages
+                    </p>
+                    <strong>Reading list:</strong>
+                    <ul>
+                        <li><a href="https://redex.racket-lang.org" target="_blank">https://redex.racket-lang.org</a></li>
+                        <li><a href="http://r.cs.purdue.edu/pub/ecoop12.pdf" target="_blank">Evaluating the Design of the R Language</a></li> 
+                        <li><a href="https://github.com/reactorlabs/core-r/blob/master/core-r.rkt" target="_blank">https://github.com/reactorlabs/core-r/blob/master/core-r.rkt</a></li>
+                    </ul>
+                    
+                    <h2>Executable Semantics</h2>
+                    <p>
+                        <strong>Description:</strong> Starting with a semantics written in the Redex toolkit, convert that semantics to an abstract syntax tree interpreter in the Truffle/Graal format. Evaluate the performance of the original interpreter and the Truffle variant.
+                    </p>
+                    <p>
+                        <strong>Interest:</strong> Java, programming language semantics
+                    </p>
+                    <strong>Reading list:</strong>
+                    <ul>
+                        <li><a href="https://redex.racket-lang.org" target="_blank">https://redex.racket-lang.org</a></li>
+                        <li><a href="http://cesquivias.github.io/blog/2014/12/02/writing-a-language-in-truffle-part-2-using-truffle-and-graal" target="_blank">http://cesquivias.github.io/blog/2014/12/02/writing-a-language-in-truffle-part-2-using-truffle-and-graal</a></li>
+                    </ul>
+
+                </div>
+            </div>
+        </div>
+    </div>
+</div>
+
+<!--Footer-->
+<footer class="container-fluid">
+    <p>© Copyright Czech technical university in Prague 2016-2017 | made by <a href="http://www.catchexception.cz/" target="_blank">Catchexception s.r.o.</a></p>
+</footer>
+
+<!--Scroll to top button-->
+<a href="#" class="scroll-to-top"><span class="glyphicon glyphicon-menu-up"></span></a>
+
+<!-- jQuery (necessary for Bootstrap's JavaScript plugins) -->
+<!-- Include all compiled plugins (below), or include individual files as needed -->
+<!-- Jquery FlexSlider http://flexslider.woothemes.com -->
+<!-- Custom scripts -->
+        <script src="js/jquery-2.2.4.mind41d.js?"></script>
+        <script src="js/bootstrap.mind41d.js?"></script>
+        <script src="js/jquery.flexsliderd41d.js?"></script>
+        <script src="js/customd41d.js?"></script>
+
+
+</body>
+
+<!-- Mirrored from ctu-prague-web.dev.catchx.cz/contact.php by HTTrack Website Copier/3.x [XR&CO'2014], Wed, 21 Sep 2016 09:58:32 GMT -->
+</html>
