@@ -17,6 +17,11 @@
     position: absolute;
     z-index: 11;
 }
+
+.navbar-inverse.noslider {
+    background-color: rgba(0,0,0,0.6);
+}    
+    
 .navbar-inverse .navbar-nav>li>a {
     color: white;
     padding: 7px 29px;
@@ -42,7 +47,7 @@
     padding-bottom: 15px;
 }
 footer {
-    background-color: #4B5978;
+    background-color: #666;
     padding-top: 15px;
     text-align: center;
 }
@@ -238,4 +243,8 @@ body {
 
 .font-17{
     font-size: 17px;
+}
+
+.header-padding{
+  padding-top: 50px;
 }
