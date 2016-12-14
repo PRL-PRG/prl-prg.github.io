@@ -37,7 +37,7 @@ $(document).ready(function(){
         setNavbar();
     });
     
-    setNavbar();
+    //setNavbar();
     
     //Click event to scroll to top
     $('.scroll-to-top').click(function(){
