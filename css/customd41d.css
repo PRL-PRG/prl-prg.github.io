@@ -191,7 +191,7 @@ body {
 }
 .flags {
     position: absolute;
-    width:300px;
+    width:340px;
     height: 65px;
     z-index: 3;
     /*bottom: 15px;*/
@@ -201,7 +201,7 @@ body {
 .flags img {
     height: 100%;
     float: right;
-    margin-left: 25px;
+    margin-left: 20px;
 }
 @media (max-width: 1200px) {
     .main-logo{
