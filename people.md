@@ -51,6 +51,17 @@ people:
     - PhD, Poznań University of Technology, 2017
     note: "I am interested in contributing to programming language research, which is a new field to me. I have a background in distributed computing, concurrency, and transactional memory. I am currently exploring the R language, its compilation and static analysis."
 
+  - type: researcher
+    name: Paley Li
+    photo: paley_li.jpg
+    title: Post-doctoral researcher
+    email: paley.li@fit.cvut.cz
+    bio:
+    - Joined Czech Technical University, 2017
+    - Post-doc at Northeastern University, 2016-2017
+    - PhD, Victoria University of Wellington, 2016
+    note: "My research interests is in programming languages, specifically type theory, ownership types, and local reasoning for memory management. Most recently, I have been working on formalising object cloning for ownership types."
+
   - type: student
     name: Jan Ječmen
     photo: jan_jecmen.jpg
