@@ -58,8 +58,8 @@ people:
     email: paley.li@fit.cvut.cz
     bio:
     - Joined Czech Technical University, 2017
-    - Post-doc at Northeastern University, 2016-2017
-    - PhD, Victoria University of Wellington, 2016
+    - Post-doc at Northeastern University, 2015-2017
+    - PhD, Victoria University of Wellington, 2015
     note: "My research interests is in programming languages, specifically type theory, ownership types, and local reasoning for memory management. Most recently, I have been working on formalising object cloning for ownership types."
 
   - type: student
