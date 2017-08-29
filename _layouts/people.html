@@ -1,0 +1,19 @@
+{% include header.html %}
+
+{% assign research_staff = page.people | where:'type', 'researcher' %}
+{% assign students = page.people | where:'type', 'student' %}
+{% assign alumnis = page.people | where:'type', 'alumni' %}
+{% assign admins = page.people | where:'type', 'admin' %}
+
+<!-- Content-->
+<div class="container-fluid main-container" id="people">
+    {% include people-listing.html title="Research staff" people=research_staff %}
+
+    {% include people-listing.html title="Students" people=students %}
+
+    {% include people-listing.html title="Alumni and Former Members" people=alumnis %}
+
+    {% include people-listing.html title="Administrative Staff" people=admins %}
+</div>
+
+{% include footer.html %}

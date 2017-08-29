@@ -1,0 +1,46 @@
+<!-- Content-->
+<div class="row block-content text-center">
+    <div class="container">
+        <div class="row">
+            <div class="col-md-12">
+                <span class="big-header">{{ include.title }}</span>
+            </div>
+        </div>
+    </div>
+</div>
+
+<div class="row block-content bg-1">
+    <div class="container">
+        {% for p in include.people %}
+        <div class="row">
+            <div class="col-sm-3">
+                <div class="img-wrapper">
+                    <img src="images/people/{{ p.photo }}" />
+                </div>
+            </div>
+            <div class="col-sm-9">
+                <div class="col-sm-4">
+                    <span class="pn-name">{{ p.name }}</span><br>
+                    {{ p.title }}<br>
+                    <a href="mailto:{{ p.email }}">{{ p.email }}</a><br>
+                    <a href="{{ p.web }}">{{ p.web }}</a>
+                </div>
+                <div class="col-sm-5 pn-muted col-sm-offset-3">
+                    {% for line in p.bio %}
+                    {{ line }}
+                    {% if forloop.last == false %}
+                    <br/>
+                    {% endif %}
+                    {% endfor %}
+                </div>
+                <div class="col-sm-12 pn-bio">
+                    <p>{{ p.note }}</p>
+                </div>
+            </div>
+        </div>
+        {% if forloop.last == false %}
+        <hr>
+        {% endif %}
+        {% endfor %}
+    </div>
+</div>

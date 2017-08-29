@@ -1,13 +1,13 @@
 <!DOCTYPE html>
 <html lang="en">
 
-<!-- Mirrored from ctu-prague-web.dev.catchx.cz/new-members.php by HTTrack Website Copier/3.x [XR&CO'2014], Wed, 21 Sep 2016 09:58:32 GMT -->
+<!-- Mirrored from ctu-prague-web.dev.catchx.cz/ by HTTrack Website Copier/3.x [XR&CO'2014], Wed, 21 Sep 2016 09:51:48 GMT -->
 <!-- Added by HTTrack --><meta http-equiv="content-type" content="text/html;charset=UTF-8" /><!-- /Added by HTTrack -->
 <head>
     <meta charset="utf-8">
     <meta http-equiv="X-UA-Compatible" content="IE=edge">
     <meta name="viewport" content="width=device-width, initial-scale=1">
-    <title>People - Programming Research Laboratory - CVUT</title>
+    <title>{{ page.title }} - Programming Research Laboratory - CVUT</title>
 
     <!--Fonts-->
 <link href='http://fonts.googleapis.com/css?family=Ubuntu:300' rel='stylesheet' type='text/css'>
@@ -46,8 +46,8 @@
 
 <body>
 <div id="background" class="background-stat"></div>
-<!--Menu fixed top-->
-<nav class="navbar-default navbar-inverse" id="nav">
+    <!--Menu fixed top-->
+    <nav class="navbar-default navbar-inverse noslider" id="nav">
     <div class="container-fluid">
         <div class="row">
             <div class="navbar-header">
@@ -60,21 +60,19 @@
             </div>
             <div id="navbar" class="navbar-collapse collapse text-center">
                 <ul class="nav navbar-nav">
-                    <li ><a href="index.html">Home</a></li>
-                    <li ><a href="people.html">People</a></li>
-                    <li ><a href="teaching.html">Teaching</a></li>
-                    <li ><a href="seminars.html">Seminars</a></li>
-                    <li ><a href="software.html">Software</a></li>
-                    <li ><a href="publications.html">Publications</a></li>
-                    <li class="active"><a href="new-members.html">New Members</a></li>
-                    <li ><a href="contact.html">Contact</a></li>
-                    <li ><a href="blog.html">Blog</a></li>
+                    <li{% if page.title == "Home" %} class="active"{% endif %}><a href="index.html">Home</a></li>
+                    <li{% if page.title == "People" %} class="active"{% endif %}><a href="people.html">People</a></li>
+                    <li{% if page.title == "Projects" %} class="active"{% endif %}><a href="projects.html">Projects</a></li>
+                    <li{% if page.title == "Publications" %} class="active"{% endif %}><a href="publications.html">Publications</a></li>
+                    <li{% if page.title == "Events" %} class="active"{% endif %}><a href="events.html">Events</a></li>
+                    <li{% if page.title == "Student projects" %} class="active"{% endif %}><a href="student-projects.html">Student projects</a></li>
+                    <li{% if page.title == "Contact" %} class="active"{% endif %}><a href="contact.html">Contact</a></li>
                 </ul>
             </div><!--/.navbar-collapse -->
         </div>
     </div>
-</nav><!--Header-->
-<header class="container-fluid">
+</nav>    <!--Header-->
+    <header class="container-fluid">
     <div class="row">
         <div class="flexslider">
             <img class="main-logo" src="images/prl-final-2.png">
@@ -83,37 +81,9 @@
                 <a href="https://www.cvut.cz/en" target="_blank"><img src="images/LogoCVUT-en.png"></a>
             </div>
 
-
             <ul class="slides">
                 <li style="display:block">
-                    <img src="images/carousel/picture-1.png" />
-                    <div class="flex-caption">
-                        <h2></h2>
-                        <!--<span></span>-->
-                        <p></p>
-                        <p><a href="#"></a></p>
-                    </div>
-                </li>
-                <li>
-                    <img src="images/carousel/picture-2.png" />
-                    <div class="flex-caption">
-                        <h2></h2>
-                        <!--<span></span>-->
-                        <p></p>
-                        <p><a href="#"></a></p>
-                    </div>
-                </li>
-                <li>
-                    <img src="images/carousel/picture-3.png" />
-                    <div class="flex-caption">
-                        <h2></h2>
-                        <!--<span></span>-->
-                        <p></p>
-                        <p><a href="#"></a></p>
-                    </div>
-                </li>
-                <li>
-                    <img src="images/carousel/picture-4.png" />
+                    <img src="images/carousel/picture-1.jpg" />
                     <div class="flex-caption">
                         <h2></h2>
                         <!--<span></span>-->
@@ -125,38 +95,3 @@
         </div>
     </div>
 </header>
-<!-- Content-->
-<div class="container-fluid main-container" id="people">
-    <div class="row block-content">
-    <div class="container">
-        <div class="row">
-            <div class="col-md-12 text-center">
-                <h1>This site is under construction</h1>
-                <img class="img-responsive center" src="images/under-construction.gif">
-            </div>
-        </div>
-    </div>
-</div></div>
-
-<!--Footer-->
-<footer class="container-fluid">
-    <p>© Copyright Czech technical university in Prague 2016-2017 | made by <a href="http://www.catchexception.cz/" target="_blank">Catchexception s.r.o.</a></p>
-</footer>
-
-<!--Scroll to top button-->
-<a href="#" class="scroll-to-top"><span class="glyphicon glyphicon-menu-up"></span></a>
-
-<!-- jQuery (necessary for Bootstrap's JavaScript plugins) -->
-<!-- Include all compiled plugins (below), or include individual files as needed -->
-<!-- Jquery FlexSlider http://flexslider.woothemes.com -->
-<!-- Custom scripts -->
-        <script src="js/jquery-2.2.4.mind41d.js?"></script>
-        <script src="js/bootstrap.mind41d.js?"></script>
-        <script src="js/jquery.flexsliderd41d.js?"></script>
-        <script src="js/customd41d.js?"></script>
-
-
-</body>
-
-<!-- Mirrored from ctu-prague-web.dev.catchx.cz/new-members.php by HTTrack Website Copier/3.x [XR&CO'2014], Wed, 21 Sep 2016 09:58:32 GMT -->
-</html>

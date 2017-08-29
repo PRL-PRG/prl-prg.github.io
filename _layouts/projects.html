@@ -1,0 +1,32 @@
+{% include header.html %}
+
+<!-- Content-->
+<div class="container-fluid main-container" id="philosophy">
+    <div class="row block-content text-center">
+        <div class="container">
+            <div class="row">
+                <div class="col-md-12">
+                    <span class="big-header">Projects</span>
+                </div>
+            </div>
+        </div>
+    </div>
+    <div class="row block-content bg-1">
+        <div class="container">
+            {% for p in page.projects %}
+            <div class="row">
+                <div class="col-md-12 font-17">
+                    <h2>{{ p.name }}</h2>
+                    <p>
+                    {{ p.description }}
+                    </p>
+                    <strong>Project webpage:</strong> <a href="{{ p.web }}" target="_blank">{{ p.web }}</a> .
+                    </p>
+                </div>
+            </div>
+            {% endfor %}
+        </div>
+    </div>
+</div>
+
+{% include footer.html %}

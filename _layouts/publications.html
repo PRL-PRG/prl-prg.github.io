@@ -1,0 +1,39 @@
+{% include header.html %}
+
+{% assign year2017 = page.publications | where:'year', '2017' %}
+
+<!-- Content-->
+<div class="container-fluid main-container" id="philosophy">
+    <div class="row block-content text-center">
+        <div class="container">
+            <div class="row">
+                <div class="col-md-12">
+                    <span class="big-header">Publications</span>
+                </div>
+            </div>
+        </div>
+    </div>
+    <div class="row block-content bg-1">
+        <div class="container">
+            <h2>2017</h2>
+            {% for p in year2017 %}
+            <div class="row">
+                <div class="col-md-12">
+                <ul>
+                    <li>
+                        <strong>{{ p.title }}</strong><br/>
+                        {{ p.author }}<br/>
+                        {{ p.publication }}<br/>
+                        {% for link in p.links %}
+                        <a href="{{ link.url }}">[{{ link.name  }}]</a>
+                        {% endfor %}
+                    </li>
+                </ul>
+                </div>
+            </div>
+            {% endfor %}
+        </div>
+    </div>
+</div>
+
+{% include footer.html %}
