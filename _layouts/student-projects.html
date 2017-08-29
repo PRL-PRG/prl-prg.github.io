@@ -1,5 +1,7 @@
 {% include header.html %}
 
+<!--Header-->
+<header class="container-fluid header-padding"></header>
 <!-- Content-->
 <div class="container-fluid main-container" id="philosophy">
     <div class="row block-content text-center">
@@ -11,9 +13,15 @@
             </div>
         </div>
     </div>
-
-    The projects listed below are dedicated towards masters (MS) and bachelor (BS) students. Please <a href="contant.html">contact</a> us if you are interested in any of these projects.
-
+    <div class="row block-content">
+        <div class="container">
+            <div class="row">
+                <div class="col-md-12 font-17">
+                    The projects listed below are dedicated towards masters (MS) and bachelor (BS) students. Please <a href="contant.html">contact</a> us if you are interested in any of these projects.
+                </div>
+            </div>
+        </div>
+    </div>
     <div class="row block-content bg-1">
         <div class="container">
             {% for p in page.projects %}
