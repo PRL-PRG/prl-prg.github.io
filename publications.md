@@ -21,4 +21,9 @@ publications:
       url: http://drops.dagstuhl.de/opus/volltexte/2017/7139 
     - name: doi
       url: http://dx.doi.org/10.4230/DARTS.3.1.1
+
+  - year: 2017
+    title: "Helenos: A Realistic Benchmark for Distributed Transactional Memory"
+    author: "Jan Baranowski, Paweł Kobyliński, Konrad Siek and Paweł T. Wojciechowski"
+    publication: "<i>To appear</i> in Software: Practice and Experience"
 ---

@@ -49,7 +49,7 @@ people:
     bio:
     - Joined Czech Technical University, 2017
     - PhD, Poznań University of Technology, 2017
-    note: "I am interested in contributing to programming language research, which is a new field to me. I have a background in distributed computing, concurrency, and transactional memory. I am currently exploring the R language, its compilation and static analysis."
+    note: "I am interested in contributing to programming language research, which is a new field to me. I have a background in distributed computing, concurrency, and transactional memory. I am currently exploring the R language, its compilation, tracing, and static analysis."
 
   - type: researcher
     name: Paley Li
