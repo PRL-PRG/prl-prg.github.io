@@ -5,6 +5,8 @@
 {% assign alumnis = page.people | where:'type', 'alumni' %}
 {% assign admins = page.people | where:'type', 'admin' %}
 
+<!--Header-->
+<header class="container-fluid header-padding"></header>
 <!-- Content-->
 <div class="container-fluid main-container" id="people">
     {% include people-listing.html title="Research staff" people=research_staff %}

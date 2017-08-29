@@ -2,6 +2,8 @@
 
 {% assign year2017 = page.publications | where:'year', '2017' %}
 
+<!--Header-->
+<header class="container-fluid header-padding"></header>
 <!-- Content-->
 <div class="container-fluid main-container" id="philosophy">
     <div class="row block-content text-center">
@@ -18,7 +20,7 @@
             <h2>2017</h2>
             {% for p in year2017 %}
             <div class="row">
-                <div class="col-md-12">
+                <div class="col-md-12 font-17">
                 <ul>
                     <li>
                         <strong>{{ p.title }}</strong><br/>

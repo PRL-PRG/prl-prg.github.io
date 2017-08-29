@@ -1,0 +1,38 @@
+{% include header.html %}
+<!--Header-->
+<header class="container-fluid">
+    <div class="row">
+        <div class="flexslider">
+            <img class="main-logo" src="images/prl-final-2.png">
+            <div class="flags">
+                <img src="images/eu-eug.gif">
+                <a href="https://www.cvut.cz/en" target="_blank"><img src="images/LogoCVUT-en.png"></a>
+            </div>
+
+            <ul class="slides">
+                <li style="display:block">
+                    <img src="images/carousel/picture-1.jpg" />
+                    <div class="flex-caption">
+                        <h2></h2>
+                        <!--<span></span>-->
+                        <p></p>
+                        <p><a href="#"></a></p>
+                    </div>
+                </li>
+            </ul>
+        </div>
+    </div>
+</header>
+<!-- Content-->
+<div class="container-fluid main-container">
+    <div class="row main-content">
+        <div class="container">
+            <div class="row">
+                <div class="col-md-12 font-17">
+                    {{ content }}
+                </div>
+            </div>
+        </div>
+    </div>
+</div>
+{% include footer.html %}
