@@ -3,6 +3,11 @@ layout: publications
 title: Publications
 publications:
   - year: 2017
+    title: "Deja-vu: A Map of Code Duplicates on GitHub"
+    author: Cristina V. Lopez, Petr Maj, Pedro Martins, Vaibhav Saini, Di Yang, Jakub Zitny, Hitesh Sajnani, Jan Vitek
+    publication: "<i>to appear</i> in Object-Oriented Programming, Systems, Languages & Applications (OOPSLA) 2017"
+
+  - year: 2017
     title: "Hadoop-Benchmark: Rapid Prototyping and Evaluation of Self-Adaptive Behaviors in Hadoop Clusters"
     author: Bo Zhang, Filip Krikava, Romain Rouvoy and Lionel Seinturier
     publication: In 12th International Symposium on Software Engineering for Adaptive and Self-Managing Systems (SEAMS’17)

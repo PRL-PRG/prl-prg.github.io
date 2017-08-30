@@ -21,7 +21,7 @@ sudo gem install jekyll bundler      # if you do not have jekyll and bundler
 ```sh
 git clone https://github.com/PRL-PRG/prl-prg.github.io.git
 cd prl-prg.github.io
-budle install
+bundle install
 bundle exec jekyll serve
 ```
 
