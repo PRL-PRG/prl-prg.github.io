@@ -23,6 +23,16 @@ publications:
       url: http://dx.doi.org/10.4230/DARTS.3.1.1
 
   - year: 2017
+    title: "Making Android Run on Time"
+    author: Yin Yan, Karthik Dantu, Steven Y. Ko, Jan Vitek, Lukasz Ziarek
+    publication: In Real-time
+    links:
+    - name: pdf
+      url: http://janvitek.org/pubs/rtas17.pdf      
+    - name: doi
+      url: https://doi.org/10.1109/RTAS.2017.38
+
+  - year: 2017
     title: "Helenos: A Realistic Benchmark for Distributed Transactional Memory"
     author: "Jan Baranowski, Paweł Kobyliński, Konrad Siek and Paweł T. Wojciechowski"
     publication: "<i>To appear</i> in Software: Practice and Experience"
