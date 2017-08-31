@@ -3,6 +3,8 @@ layout: index
 title: Home
 ---
 
+## About
+
 > We believe that writing computer programs is the fundamental act of computer
 > science, and that programming languages are therefore our fundamental tool.
 
@@ -61,3 +63,22 @@ application that have given rise to dedicated language technologies:
 > worth knowing. ❞
 
 ‒Alan Perlis
+
+
+## News
+
+- July 2017 -
+  **Jan Vitek joined Bioconductor Advisory Board**,
+  [more ...](https://www.bioconductor.org/about/advisory-board/)
+
+- May 2017 - 
+  **Organizing Programming Language Implementation Summer School 2017 in Bertinoro, Italy**,
+  [more ...](https://prl-prg-ss.github.io.)
+
+- December 2016 - 
+  **Tomáš Kalibera joined R core team**,
+  [more...](https://stat.ethz.ch/pipermail/r-announce/2016/000610.html) 
+
+- November 2016 - 
+  **Tomáš Kalibera joined R foundation**,
+  [more...](https://stat.ethz.ch/pipermail/r-announce/2016/000609.html) 
