@@ -1,0 +1,47 @@
+<div class="col-md-6">
+  <div class="map-holder">
+    <div class="google-map-canvas" id="map-canvas" style="height: 250px;"></div>
+  </div>
+</div>
+
+<script type="text/javascript">
+
+ function initialize() {
+     var myLatlng = new google.maps.LatLng(50.1049306, 14.38998);
+     var markerLatlng = new google.maps.LatLng(50.1049306, 14.38998);
+     /*var markerLatlng = new google.maps.LatLng(50.1392978, 14.0954);*/
+
+     var mapOptions = {
+		 scrollwheel: false,
+         zoom: 17,
+         center: markerLatlng
+     };
+
+     var map = new google.maps.Map(document.getElementById('map-canvas'),
+                                   mapOptions);
+
+     var marker = new google.maps.Marker({
+         position: markerLatlng,
+         map: map,
+         /*label: 'PRL-PRG',*/
+         /*animation: google.maps.Animation.DROP,*/
+         title: 'PRL-PRG'
+     });
+ }
+
+ function loadScript() {
+     var script = document.createElement('script');
+     script.type = 'text/javascript';
+     script.src = 'https://maps.googleapis.com/maps/api/js?v=3.exp&' +
+                  'callback=initialize&key=AIzaSyC9HM4VTq6fmNiS6VdBhXLpt8zJZ7AWZus&language=en&region=EN';
+     document.body.appendChild(script);
+ }
+
+ window.onload = loadScript;
+
+ $(document).keyup(function(e) {
+     if (e.keyCode == 27) { // escape key maps to keycode `27`
+         $('#myModal').modal('hide');
+     }
+ });
+</script>
