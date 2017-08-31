@@ -97,7 +97,16 @@ people:
     bio:
     - Joined Czech Technical University, 2016
     note: "I am interested in programming languages, virtual machines, C++ language and low-level programming. Currently I am focused on R language, it's interpretation and optimization. I've got some experience with embedded systems and malware analysis."
-    
+
+  - type: alumni
+    name: Filippo Ghibellini
+    photo: filippo_ghibellini.jpg
+    title: BSc student
+    email: f.ghibellini@gmail.com
+    bio:
+    - Joined Czech Technical University, 2016
+    note: "While I was an intern in the PRG lab, I spent six months in Boston at Northeastern working on genthat, a tool for automated test generation for R packages."
+
   - type: alumni
     name: Jakub Žitný
     photo: jakub_zitny.jpg
