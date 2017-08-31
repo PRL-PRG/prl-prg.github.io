@@ -30,12 +30,13 @@ make areas of computing faster and easier.
 
 If you are interested in programming languages and would like to try your hand
 at programming language research, we encourage you to contact us at
-j.vitek@neu.edu.
+[j.vitek@neu.edu](mailto:j.vitek@neu.edu).
 
 We are constantly looking for smart and ethusiastic people, and may have
 openings for Bachelor, Master, PhD students, and Post-Doc researchers
 
-You can find more details regarding interesting project ideas here.
+You can find more details regarding interesting project ideas
+[here](student-projects.html).
 
 ## News
 
