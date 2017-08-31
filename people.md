@@ -102,10 +102,10 @@ people:
     name: Jakub Žitný
     photo: jakub_zitny.jpg
     title: MSc student
-    email: zitnyja@fit.cvut.cz
+    email: jakub.zitny@gmail.com
     bio:
     - Joined Czech Technical University, 2016
-    note: "I'm working on analysis of large software repositories. Curently exploring the properties of JavaScript projects on GitHub, searching for clones within the projects and looking for a ways to apply machine learning techniques to improve security and performance of JavaScript code without executing it."
+    note: "I worked on an analysis of large software repositories. This included exploring properties of JavaScript projects on GitHub, searching for clones within the projects and looking for ways to apply machine learning techniques to improve security and performance of JavaScript code without executing it."
     
   - type: admin
     name: Lucie Lerch
