@@ -33,7 +33,7 @@ at programming language research, we encourage you to contact us at
 [j.vitek@neu.edu](mailto:j.vitek@neu.edu).
 
 We are constantly looking for smart and ethusiastic people, and may have
-openings for Bachelor, Master, PhD students, and Post-Doc researchers
+openings for Bachelor, Master, PhD students, and Post-Doc researchers.
 
 You can find more details regarding interesting project ideas
 [here](student-projects.html).
