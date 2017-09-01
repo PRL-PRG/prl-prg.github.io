@@ -81,6 +81,21 @@ people:
     note: "I worked on an analysis of large software repositories. This included exploring properties of JavaScript projects on GitHub, searching for clones within the projects and looking for ways to apply machine learning techniques to improve security and performance of JavaScript code without executing it."
     
   - type: alumni
+    name: Michal Vacha
+    title: BSc student
+    bio:
+    - February - May 2016
+
+  - type: alumni
+    name: Filippo Ghibellini
+    photo: filippo_ghibellini.jpg
+    title: BSc student
+    email: f.ghibellini@gmail.com
+    bio:
+    - August - May 2016
+    note: "While I was an intern in the PRG lab, I spent six months in Boston at Northeastern working on genthat, a tool for automated test generation for R packages."
+
+  - type: alumni
     name: Alena Sochůrková
     photo: alena_sochurkova.jpg
     title: PhD student
@@ -106,15 +121,6 @@ people:
     bio:
     - October 2016 - May 2017
     note: ""
-
-  - type: alumni
-    name: Filippo Ghibellini
-    photo: filippo_ghibellini.jpg
-    title: BSc student
-    email: f.ghibellini@gmail.com
-    bio:
-    - August - December 2016
-    note: "While I was an intern in the PRG lab, I spent six months in Boston at Northeastern working on genthat, a tool for automated test generation for R packages."
 
   - type: admin
     name: Lucie Lerch
