@@ -81,10 +81,13 @@ people:
     note: "I worked on an analysis of large software repositories. This included exploring properties of JavaScript projects on GitHub, searching for clones within the projects and looking for ways to apply machine learning techniques to improve security and performance of JavaScript code without executing it."
     
   - type: alumni
-    name: Michal Vacha
+    name: Michal Vácha
+    photo: michal_vacha.jpg
     title: BSc student
+    email: vachamic@fit.cvut.cz
     bio:
     - February - May 2016
+    note: "I worked in PRL-PRG lab on my bachelors thesis. My assignment was to implement serialization of closures in genthat, an automatic test generator for R."
 
   - type: alumni
     name: Filippo Ghibellini
