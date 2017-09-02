@@ -7,7 +7,24 @@ title: Publications
 
 - **Deja-vu: A Map of Code Duplicates on GitHub**,
   Cristina V. Lopez, Petr Maj, Pedro Martins, Vaibhav Saini, Di Yang, Jakub Zitny, Hitesh Sajnani, Jan Vitek, 
-  In Object-Oriented Programming, Systems, Languages & Applications (OOPSLA) 2017 (_to appear_)
+  In Object-Oriented Programming, Systems, Languages & Applications (OOPSLA'17)
+  [[PDF]](http://janvitek.org/pubs/oopsla17b.pdf)
+
+- **Orca: GC and Type System Co-Design for Actor Languages**,
+  Sylvain Clebsch, Juliana Franco, Sophia Drossopoulou, Albert Mingkun Yang, Tobias Wrigstad, Jan Vitek,
+  In Object-Oriented Programming, Systems, Languages & Applications (OOPSLA'17)
+  [[PDF]](http://janvitek.org/pubs/oopsla17a.pdf)
+
+- **Parallelizing Julia with a Non-invasive DSL**,
+  Todd Anderson, Hai Liu, Lindsey Kuper, Ehsan Totoni, Jan Vitek, Tatiana Shpeisman,
+  In European Conference on Object-Oriented Programming (ECOOP'17)
+  [[PDF]](http://janvitek.org/pubs/ecoop17.pdf)
+  [[DOI]](http://dx.doi.org/10.4230/LIPIcs.ECOOP.2017.4)
+
+- **Verifying a Concurrent Garbage Collector using a Rely-Guarantee Methodology**,
+  Yannick Zakowski, David Cachera, Delphine Demange, Gustavo Petri, David Pichardie, Suresh Jagannathan, Jan Vitek,
+  In International Conference on Interactive Theorem Proving (ITP'17)
+  [[PDF]](http://janvitek.org/pubs/ITP17.pdf)
 
 - **Hadoop-Benchmark: Rapid Prototyping and Evaluation of Self-Adaptive Behaviors in Hadoop Clusters**,
   Bo Zhang, Filip Krikava, Romain Rouvoy and Lionel Seinturier,
@@ -23,7 +40,7 @@ title: Publications
 
 - **Making Android Run on Time**,
   Yin Yan, Karthik Dantu, Steven Y. Ko, Jan Vitek, Lukasz Ziarek,
-  In Real-tim
+  In Real-time and Embedded Technology and Application Symposium (RTAS'17)
   [[PDF]](http://janvitek.org/pubs/rtas17.pdf)
   [[DOI]](https://doi.org/10.1109/RTAS.2017.38)
 
