@@ -61,6 +61,16 @@ people:
     - Joined Czech Technical University, 2017
     - PhD, Poznań University of Technology, 2017
     note: "I am interested in contributing to programming language research, which is a new field to me. I have a background in distributed computing, concurrency, and transactional memory. I am currently exploring the R language, its compilation, tracing, and static analysis."
+    
+  - type: researcher
+    name: Julia Belyakova
+    photo: julia_belyakova.jpeg
+    title: Research assistant
+    email: julbinb@gmail.com
+    bio:
+    - Joined Czech Technical University, 2017
+    - MSc, Southern Federal University, 2014
+    note: "I am interested in programming languages, type theory, generic programming, and theorem proving. I was working on a better support for generic programming in object-oriented languages, and now work around the Julia programming language."
 
   - type: student
     name: Jan Ječmen
