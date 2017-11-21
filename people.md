@@ -81,6 +81,15 @@ people:
     - Joined Czech Technical University, 2016
     note: "I am a master's student at FIT CTU. I am interested in implementation of programming languages."
 
+  - type: student
+    name: Borja Lorente
+    photo: borja_lorente.jpg
+    title: Research intern
+    email: blorente.me@gmail.com
+    bio:
+    - Joined Czech Technical University, 2017
+    note: "I am interested in contributing to the design and implementation of languages. Specifically, I would like to explore the growth and evolution patterns of language communities and ecosystems."
+
   - type: alumni
     name: Jakub Žitný
     photo: jakub_zitny.jpg
