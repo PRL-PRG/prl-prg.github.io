@@ -8,7 +8,16 @@ title: Publications
 - **Deja-vu: A Map of Code Duplicates on GitHub**,
   Cristina V. Lopez, Petr Maj, Pedro Martins, Vaibhav Saini, Di Yang, Jakub Zitny, Hitesh Sajnani, Jan Vitek, 
   In Object-Oriented Programming, Systems, Languages & Applications (OOPSLA'17)
-  [[PDF]](http://janvitek.org/pubs/oopsla17b.pdf)
+  [[PDF]](http://janvitek.org/pubs/oopsla17b.pdf)[[Talk]](https://www.youtube.com/watch?v=4M-ASEpVOaY).
+  
+  Appeared in:    
+  [The Morning Paper](http://blog.acolyer.org/2017/11/20/dejavu-a-map-of-code-duplicates-on-github),
+  [Slashdot](https://developers.slashdot.org/story/17/11/23/2352233/more-than-half-of-github-is-duplicate-code-researchers-find),
+  [TheRegister.co.uk](https://www.theregister.co.uk/2017/11/21/github_duplicate_code/),
+  [Developpez.com](https://www.developpez.com/actu/175363/GitHub-des-chercheurs-estiment-que-plus-de-la-moitie-des-codes-ecrits-en-Java-Python-C-Cplusplus-et-JavaScript-sont-dupliques/) (French),
+  [opennet.ru](https://www.opennet.ru/opennews/art.shtml?num=47596) (Russian),
+  [toutiao](https://www.toutiao.com/a6491879685222302221/) (Chinese) 
+  and [sohu](http://www.sohu.com/a/206363660_114760) (Chinese).
 
 - **Orca: GC and Type System Co-Design for Actor Languages**,
   Sylvain Clebsch, Juliana Franco, Sophia Drossopoulou, Albert Mingkun Yang, Tobias Wrigstad, Jan Vitek,
