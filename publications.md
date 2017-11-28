@@ -9,6 +9,7 @@ title: Publications
   Cristina V. Lopez, Petr Maj, Pedro Martins, Vaibhav Saini, Di Yang, Jakub Zitny, Hitesh Sajnani, Jan Vitek, 
   In Object-Oriented Programming, Systems, Languages & Applications (OOPSLA'17)
   [[PDF]](http://janvitek.org/pubs/oopsla17b.pdf)[[Talk]](https://www.youtube.com/watch?v=4M-ASEpVOaY).
+  Distinguished [Artifact](http://mondego.ics.uci.edu/projects/dejavu/) Award.
   
   Appeared in:    
   [The Morning Paper](http://blog.acolyer.org/2017/11/20/dejavu-a-map-of-code-duplicates-on-github),
