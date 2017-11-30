@@ -72,6 +72,17 @@ people:
     - MSc, Southern Federal University, 2014
     note: "I am interested in programming languages, type theory, generic programming, and theorem proving. I was working on a better support for generic programming in object-oriented languages, and now work around the Julia programming language."
 
+  - type: researcher
+    name: Artem Pelenitsyn
+    photo: artem_pelenitsyn.jpg
+    title: Research assistant
+    email: a.pelenitsyn@gmail.com
+    bio:
+    - Joined Czech Technical University, 2017
+    - MSc, Southern Federal University, 2009
+    - BSc, Southern Federal University, 2007
+    note: "I am interested in typed functional programming languages, type theory, mathematics of program construction. In the past I worked for better software engineering principles of building a computer algebra software in C++, especially using what C++ world knows as generic programming. For now I'm mostly working on principled approach to the Julia programming language."
+
   - type: student
     name: Jan Ječmen
     photo: jan_jecmen.jpg
