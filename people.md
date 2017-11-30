@@ -57,6 +57,7 @@ people:
     photo: konrad_siek.jpg
     title: Post-doctoral researcher
     email: siekkonr@fit.cvut.cz
+    web: https://kondziu.github.io
     bio:
     - Joined Czech Technical University, 2017
     - PhD, Poznań University of Technology, 2017
