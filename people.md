@@ -77,11 +77,12 @@ people:
     photo: artem_pelenitsyn.jpg
     title: Research assistant
     email: a.pelenitsyn@gmail.com
+    web: http://mmcs.sfedu.ru/~ulysses/index.en.html
     bio:
     - Joined Czech Technical University, 2017
     - MSc, Southern Federal University, 2009
     - BSc, Southern Federal University, 2007
-    note: "I am interested in typed functional programming languages, type theory, mathematics of program construction. In the past I worked for better software engineering principles of building a computer algebra software in C++, especially using what C++ world knows as generic programming. For now I'm mostly working on principled approach to the Julia programming language."
+    note: "I am interested in typed functional programming languages, type theory, mathematics of program construction. In the past I worked for better software engineering principles of building a computer algebra software in C++, especially using what C++ world knows as generic programming. For now I'm mostly working on a principled approach to the Julia programming language."
 
   - type: student
     name: Jan Ječmen
