@@ -11,5 +11,3 @@ The instructions below will help you get started.
 - add your MAC address to ICT
 - set your eduroam password at [usermap.cvut.cz](http://usermap.cvut.cz)
 - set up a [printer](https://ict.fit.cvut.cz/~web/current/web/tisk/?_locale=cs)
-
-More comprehensive guide is maintained on [this wiki page](https://github.com/PRL-PRG/prl-prg.github.io/wiki).
