@@ -85,6 +85,18 @@ people:
     - BSc, Southern Federal University, 2007
     note: "I am interested in typed functional programming languages, type theory, mathematics of program construction. In the past I worked for better software engineering principles of building a computer algebra software in C++, especially using what C++ world knows as generic programming. For now I'm mostly working on a principled approach to the Julia programming language."
 
+  - type: researcher
+    name: Ryan Culpepper
+    photo: ryan_culpepper.jpg
+    title: Researcher
+    email: culperya@fit.cvut.cz
+    bio:
+    - Joined Czech Technical University, 2017
+    - Research scientist at Northeastern University, 2012-2017
+    - Post-doctoral researcher at University of Utah, 2010-2012
+    - PhD, Northeastern University, 2010
+    note: "I work on the design, implementation, and semantics of programming languages, especially languages with powerful syntactic abstraction and extension capabilities. Much of my work in that area involves tools and libraries for the Racket macro system. I have also worked on the semantics of probabilistic programming languages."
+
   - type: student
     name: Jan Ječmen
     photo: jan_jecmen.jpg
