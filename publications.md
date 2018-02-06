@@ -56,7 +56,7 @@ title: Publications
 
 - **Helenos: A Realistic Benchmark for Distributed Transactional Memory**,
   Jan Baranowski, Paweł Kobyliński, Konrad Siek and Paweł T. Wojciechowski,  
-  In Software: Practice and Experience, volume 48, issue 3. March 2018.
+  In Software: Practice and Experience, volume 48, issue 3.
   [[HTML]](http://onlinelibrary.wiley.com/doi/10.1002/spe.2548/full)
   [[PDF]](https://arxiv.org/abs/1603.07899)
   [[DOI]](http://dx.doi.org/10.1002/spe.2548)
