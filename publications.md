@@ -36,6 +36,12 @@ title: Publications
   In International Conference on Interactive Theorem Proving (ITP'17)
   [[PDF]](http://janvitek.org/pubs/ITP17.pdf)
 
+- **Contracts-Based Control Integration into Software Systems**,
+  Filip Krikava, Philippe Collet, Romain Rouvoy, and Lionel Seinturier
+  In R. de Lemos et al. book Self-Adaptive Systems III, LNCS 9640
+  [[PDF]](https://link.springer.com/content/pdf/10.1007%2F978-3-319-74183-3_9.pdf)
+  [[DOI]](https://doi.org/10.1007/978-3-319-74183-3)
+
 - **Hadoop-Benchmark: Rapid Prototyping and Evaluation of Self-Adaptive Behaviors in Hadoop Clusters**,
   Bo Zhang, Filip Krikava, Romain Rouvoy and Lionel Seinturier,
   In 12th International Symposium on Software Engineering for Adaptive and Self-Managing Systems (SEAMS’17)
