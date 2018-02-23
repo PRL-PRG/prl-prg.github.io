@@ -3,6 +3,13 @@ layout: default
 title: Publications
 ---
 
+## 2018
+
+
+- **Soundness of a Correct Collector for Actors**,
+  Juliana Franco, Sylvain Clebsch, Sophia Drossopoulou, Jan Vitek, Tobias Wrigstad,
+  In European Symposium on Programming (ESOP'18)
+
 ## 2017
 
 - **Deja-vu: A Map of Code Duplicates on GitHub**,
