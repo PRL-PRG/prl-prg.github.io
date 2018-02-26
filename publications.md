@@ -9,6 +9,7 @@ title: Publications
 - **Soundness of a Correct Collector for Actors**,
   Juliana Franco, Sylvain Clebsch, Sophia Drossopoulou, Jan Vitek, Tobias Wrigstad,
   In European Symposium on Programming (ESOP'18)
+  [[PDF]](http://janvitek.org/pubs/esop18.pdf)
 
 ## 2017
 
