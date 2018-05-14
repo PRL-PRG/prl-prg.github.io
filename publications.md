@@ -5,6 +5,10 @@ title: Publications
 
 ## 2018
 
+- **Handling Recursion in Generic Programming Using Closed Type Families**,
+  Anna Bolotina, Artem Pelenitsyn,
+  In Trends in Functional Programming (TFP'18)
+  [[PDF]](http://staff.mmcs.sfedu.ru/~ulysses/Papers/2018-TFP-dgp-recursion.pdf)
 
 - **Soundness of a Correct Collector for Actors**,
   Juliana Franco, Sylvain Clebsch, Sophia Drossopoulou, Jan Vitek, Tobias Wrigstad,
