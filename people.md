@@ -126,6 +126,15 @@ people:
     - Joined Czech Technical University, 2017
     note: "I am interested in contributing to the design and implementation of languages. Specifically, I would like to explore the growth and evolution patterns of language communities and ecosystems."
 
+- type: student
+    name: Chakshu Goyal
+    photo: chakshu_goyal.jpg
+    title: Research intern
+    email: chakshugoyal97@gmail.com
+    bio:
+    - Joined Czech Technical University, 2018
+    note: "I'm a third year dual degree (B.Tech + M.Tech) student at IIT Delhi. My project concerns the analysis of the eval function in R."
+    
   - type: alumni
     name: Jakub Žitný
     photo: jakub_zitny.jpg
