@@ -78,7 +78,7 @@ people:
     photo: artem_pelenitsyn.jpg
     title: Research assistant
     email: a.pelenitsyn@gmail.com
-    web: http://mmcs.sfedu.ru/~ulysses/index.en.html
+    web: http://mmcs.sfedu.ru/~ulysses
     bio:
     - Joined Czech Technical University, 2017
     - MSc, Southern Federal University, 2009
