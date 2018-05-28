@@ -100,7 +100,7 @@ people:
   - type: student
     name: Jan Ječmen
     photo: jan_jecmen.jpg
-    title: MSc student
+    title: PhD student
     email: jan.jecmen@gmail.com
     bio:
     - Joined Czech Technical University, 2016
