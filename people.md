@@ -126,7 +126,7 @@ people:
     - Joined Czech Technical University, 2017
     note: "I am interested in contributing to the design and implementation of languages. Specifically, I would like to explore the growth and evolution patterns of language communities and ecosystems."
 
-- type: student
+  - type: student
     name: Chakshu Goyal
     photo: chakshu_goyal.jpg
     title: Research intern
