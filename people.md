@@ -130,6 +130,7 @@ people:
     title: Post-doctoral researcher
     email: paley.li@fit.cvut.cz
     bio:
+    - Left Czech Technical University, 2018
     - Joined Czech Technical University, 2017
     - Post-doc at Northeastern University, 2015-2017
     - PhD, Victoria University of Wellington, 2015
