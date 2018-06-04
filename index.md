@@ -56,7 +56,7 @@ You can find more details regarding interesting project ideas
   [more ...](https://2018.splashcon.org/track/meta-2018/)
 
 - November 2018 - 
-  **Jan Vitek, Filip Křikava, Paley Li, and Konrad Siek co-organized SPLASH 2018**
+  **Jan Vitek, Filip Křikava, Paley Li, and Konrad Siek co-organized SPLASH**
   [more ...](https://2018.splashcon.org/committee/splash-2018-organizing-committee)
 
 - July 2018 - 
@@ -68,7 +68,7 @@ You can find more details regarding interesting project ideas
   [more ...](https://conf.researchr.org/track/ecoop-issta-2018/ecoop-issta-2018-doctoral-symposium/)
 
 - July 2018 -
-  **Jan Vitek and Filip Křikava co-organized Curry On 2018**
+  **Jan Vitek and Filip Křikava co-organized Curry On**
   [more ...](http://curry-on.org/2018/)
 
 - June 2018 - 
@@ -77,21 +77,24 @@ You can find more details regarding interesting project ideas
 -->
 
 <!-- 2017 -->
+- October 2017
+  **"Deja-vu: A Map of Code Duplicates on GitHub" received a Distinguished Artifact Award at OOPSLA**
+  [more ...](http://mondego.ics.uci.edu/projects/dejavu/)
 
 - July 2017 - 
   **Filip Křikava co-organized the 10th Transformation Tool Contest (part of STAF)**
   [more ...](https://www.transformation-tool-contest.eu/2017/)
 
 - June 2017 -
-  **Jan Vitek and Filip Křikava co-organized Curry On 2017**
+  **Jan Vitek and Filip Křikava co-organized Curry On**
   [more ...](http://curry-on.org/2018/)
 
 - April 2017 -
-  **Julia Belyakova and Artem Pelenitsyn co-organized the 1st Russian Conference on the Programming Languages and Compilers 2017**
+  **Julia Belyakova and Artem Pelenitsyn co-organized the 1st Russian Conference on Programming Languages and Compilers**
   [more ...](http://plc.sfedu.ru/)
 
 - July 2017 -
-  **Jan Vitek joined Bioconductor Advisory Board**,
+  **Jan Vitek joined Bioconductor Advisory Board**
   [more ...](https://www.bioconductor.org/about/advisory-board/)
 
 - May 2017 - 
