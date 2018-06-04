@@ -107,15 +107,6 @@ people:
     note: "I am a master's student at FIT CTU. I am interested in implementation of programming languages."
 
   - type: student
-    name: Borja Lorente
-    photo: borja_lorente.jpg
-    title: Research intern
-    email: blorente.me@gmail.com
-    bio:
-    - Joined Czech Technical University, 2017
-    note: "I am interested in contributing to the design and implementation of languages. Specifically, I would like to explore the growth and evolution patterns of language communities and ecosystems."
-
-  - type: student
     name: Chakshu Goyal
     photo: chakshu_goyal.jpg
     title: Research intern
@@ -123,6 +114,16 @@ people:
     bio:
     - Joined Czech Technical University, 2018
     note: "I'm a third year dual degree (B.Tech + M.Tech) student at IIT Delhi. My project concerns the analysis of the eval function in R."
+
+  - type: alumni
+    name: Borja Lorente
+    photo: borja_lorente.jpg
+    title: Research intern
+    email: blorente.me@gmail.com
+    bio:
+    - Joined Czech Technical University, 2017
+    - Left Czech Technical University, 2018
+    note: "I am interested in contributing to the design and implementation of languages. Specifically, I would like to explore the growth and evolution patterns of language communities and ecosystems."
 
   - type: alumni
     name: Paley Li
