@@ -44,7 +44,7 @@ You can find more details regarding interesting project ideas
 
 <!--
 - April 2019 - 
-  **Jan Vitek, Paley Li, Ryan Culpepper, and Artem Pelenitsyn co-organized ETAPS 2019**
+  **Jan Vitek, Paley Li, Ryan Culpepper, and Artem Pelenitsyn co-organized ETAPS 2019**,
   [more ...](https://conf.researchr.org/committee/etaps-2019/etaps-2019-organizing-committee/)
 -->
 
@@ -52,49 +52,49 @@ You can find more details regarding interesting project ideas
 
 <!--
 - November 2018 - 
-  **Guido Chari co-organized META'18 : Workshop on Meta-Programming Techniques and Reflection (part of SPLASH)** 
+  **Guido Chari co-organized META'18 : Workshop on Meta-Programming Techniques and Reflection (part of SPLASH)**,
   [more ...](https://2018.splashcon.org/track/meta-2018/)
 
 - November 2018 - 
-  **Jan Vitek, Filip Křikava, Paley Li, and Konrad Siek co-organized SPLASH**
+  **Jan Vitek, Filip Křikava, Paley Li, and Konrad Siek co-organized SPLASH**,
   [more ...](https://2018.splashcon.org/committee/splash-2018-organizing-committee)
 
 - July 2018 - 
-  **Artem Pelenitsyn co-organized the 2nd International Workshop on Machine Learning techniques for Programming Languages (co-located with ECOOP)**
+  **Artem Pelenitsyn co-organized the 2nd International Workshop on Machine Learning techniques for Programming Languages (co-located with ECOOP)**,
   [more ...](https://conf.researchr.org/track/ecoop-issta-2018/ML4PL-2018-papers/)
 
 - July 2018 -
-  **Julia Belyakova co-organized the ECOOP and ISSTA Doctoral Symposium**
+  **Julia Belyakova co-organized the ECOOP and ISSTA Doctoral Symposium**,
   [more ...](https://conf.researchr.org/track/ecoop-issta-2018/ecoop-issta-2018-doctoral-symposium/)
 
 - July 2018 -
-  **Jan Vitek and Filip Křikava co-organized Curry On**
+  **Jan Vitek and Filip Křikava co-organized Curry On**,
   [more ...](http://curry-on.org/2018/)
 
 - June 2018 - 
-  **Filip Křikava co-organized the 11th Transformation Tool Contest (part of STAF)**
+  **Filip Křikava co-organized the 11th Transformation Tool Contest (part of STAF)**,
   [more ...](https://www.transformation-tool-contest.eu/)
 -->
 
 <!-- 2017 -->
 - October 2017
-  **"Deja-vu: A Map of Code Duplicates on GitHub" received a Distinguished Artifact Award at OOPSLA**
+  **"Deja-vu: A Map of Code Duplicates on GitHub" received a Distinguished Artifact Award at OOPSLA**,
   [more ...](http://mondego.ics.uci.edu/projects/dejavu/)
 
 - July 2017 - 
-  **Filip Křikava co-organized the 10th Transformation Tool Contest (part of STAF)**
+  **Filip Křikava co-organized the 10th Transformation Tool Contest (part of STAF)**,
   [more ...](https://www.transformation-tool-contest.eu/2017/)
 
 - June 2017 -
-  **Jan Vitek and Filip Křikava co-organized Curry On**
+  **Jan Vitek and Filip Křikava co-organized Curry On**,
   [more ...](http://curry-on.org/2018/)
 
 - April 2017 -
-  **Julia Belyakova and Artem Pelenitsyn co-organized the 1st Russian Conference on Programming Languages and Compilers**
+  **Julia Belyakova and Artem Pelenitsyn co-organized the 1st Russian Conference on Programming Languages and Compilers**,
   [more ...](http://plc.sfedu.ru/)
 
 - July 2017 -
-  **Jan Vitek joined Bioconductor Advisory Board**
+  **Jan Vitek joined Bioconductor Advisory Board**,
   [more ...](https://www.bioconductor.org/about/advisory-board/)
 
 - May 2017 - 
