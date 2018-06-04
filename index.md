@@ -40,6 +40,56 @@ You can find more details regarding interesting project ideas
 
 ## News
 
+<!-- 2019 -->
+
+<!--
+- April 2019 - 
+  **Jan Vitek, Paley Li, Ryan Culpepper, and Artem Pelenitsyn co-organized ETAPS 2019**
+  [more ...](https://conf.researchr.org/committee/etaps-2019/etaps-2019-organizing-committee/)
+-->
+
+<!-- 2018 -->
+
+<!--
+- November 2018 - 
+  **Guido Chari co-organized META'18 : Workshop on Meta-Programming Techniques and Reflection (part of SPLASH)** 
+  [more ...](https://2018.splashcon.org/track/meta-2018/)
+
+- November 2018 - 
+  **Jan Vitek, Filip Křikava, Paley Li, and Konrad Siek co-organized SPLASH 2018**
+  [more ...](https://2018.splashcon.org/committee/splash-2018-organizing-committee)
+
+- July 2018 - 
+  **Artem Pelenitsyn co-organized the 2nd International Workshop on Machine Learning techniques for Programming Languages (co-located with ECOOP)**
+  [more ...](https://conf.researchr.org/track/ecoop-issta-2018/ML4PL-2018-papers/)
+
+- July 2018 -
+  **Julia Belyakova co-organized the ECOOP and ISSTA Doctoral Symposium**
+  [more ...](https://conf.researchr.org/track/ecoop-issta-2018/ecoop-issta-2018-doctoral-symposium/)
+
+- July 2018 -
+  **Jan Vitek and Filip Křikava co-organized Curry On 2018**
+  [more ...](http://curry-on.org/2018/)
+
+- June 2018 - 
+  **Filip Křikava co-organized the 11th Transformation Tool Contest (part of STAF)**
+  [more ...](https://www.transformation-tool-contest.eu/)
+-->
+
+<!-- 2017 -->
+
+- July 2017 - 
+  **Filip Křikava co-organized the 10th Transformation Tool Contest (part of STAF)**
+  [more ...](https://www.transformation-tool-contest.eu/2017/)
+
+- June 2017 -
+  **Jan Vitek and Filip Křikava co-organized Curry On 2017**
+  [more ...](http://curry-on.org/2018/)
+
+- April 2017 -
+  **Julia Belyakova and Artem Pelenitsyn co-organized the 1st Russian Conference on the Programming Languages and Compilers 2017**
+  [more ...](http://plc.sfedu.ru/)
+
 - July 2017 -
   **Jan Vitek joined Bioconductor Advisory Board**,
   [more ...](https://www.bioconductor.org/about/advisory-board/)
@@ -47,6 +97,8 @@ You can find more details regarding interesting project ideas
 - May 2017 - 
   **Organizing Programming Language Implementation Summer School 2017 in Bertinoro, Italy**,
   [more ...](https://prl-prg-ss.github.io.)
+
+<!-- 2016 -->
 
 - December 2016 - 
   **Tomáš Kalibera joined R core team**,
