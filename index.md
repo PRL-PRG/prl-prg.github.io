@@ -77,7 +77,7 @@ You can find more details regarding interesting project ideas
 -->
 
 <!-- 2017 -->
-- October 2017
+- October 2017 -
   **"Deja-vu: A Map of Code Duplicates on GitHub" received a Distinguished Artifact Award at OOPSLA**,
   [more ...](http://mondego.ics.uci.edu/projects/dejavu/)
 
