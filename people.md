@@ -121,8 +121,7 @@ people:
     title: Research intern
     email: blorente.me@gmail.com
     bio:
-    - Joined Czech Technical University, 2017
-    - Left Czech Technical University, 2018
+    - 2017 - 2018
     note: "I am interested in contributing to the design and implementation of languages. Specifically, I would like to explore the growth and evolution patterns of language communities and ecosystems."
 
   - type: alumni
@@ -131,10 +130,7 @@ people:
     title: Post-doctoral researcher
     email: paley.li@fit.cvut.cz
     bio:
-    - Left Czech Technical University, 2018
-    - Joined Czech Technical University, 2017
-    - Post-doc at Northeastern University, 2015-2017
-    - PhD, Victoria University of Wellington, 2015
+    - 2017 - 2018
     note: "My research interests is in programming languages, specifically type theory, ownership types, and local reasoning for memory management. Most recently, I have been working on formalising object cloning for ownership types."
 
   - type: alumni
