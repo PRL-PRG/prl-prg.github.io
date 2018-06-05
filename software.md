@@ -3,6 +3,12 @@ layout: default
 title: Software
 ---
 
+## RIR
+
+A back-end for R. It explores just-in-time compilation and speculative optimizations of the R language.
+
+More information at [https://github.com/reactorlabs/rir](https://github.com/reactorlabs/rir)
+
 ## R Dynamic Tracing (RDT)
 
 A dynamic tracing framework for R. It instruments the execution of R code with custom programmable hooks.
