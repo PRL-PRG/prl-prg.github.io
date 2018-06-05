@@ -36,7 +36,8 @@ We are constantly looking for smart and ethusiastic people, and may have
 openings for Bachelor, Master, PhD students, and Post-Doc researchers.
 
 You can find more details regarding interesting project ideas
-[here](student-projects.html).
+[here](student-projects.html), or let us know if you have a PL project you
+would like to work on.
 
 ## News
 

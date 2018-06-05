@@ -9,7 +9,6 @@ title: Publications
 - **Tests from Traces: Automated Unit Test Extraction for R**  <!-- new line -->  
   Filip Křikava, Jan Vitek <!-- new line -->  
   In International Symposium on Software Testing and Analysis (ISSTA'18) <!-- new line -->  
-  (to appear)
 <!--
   [[PDF]]()
   [[DOI]]()
@@ -20,7 +19,6 @@ title: Publications
 - **KafKa: Gradual Typing for Objects** <!-- new line -->  
   Benjamin Chung, Paley Li, Francesco Zappa Nardelli, and Jan Vitek <!-- new line -->  
   In European Conference on Object-Oriented Programming (ECOOP'18) <!-- new line -->  
-  (to appear)
 <!--
   [[PDF]]()
   [[DOI]]()
