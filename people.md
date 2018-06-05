@@ -130,7 +130,7 @@ people:
     title: Post-doctoral researcher
     email: paley.li@fit.cvut.cz
     bio:
-    - April 2017 - May 2018
+    - May 2017 - May 2018
     note: "My research interests is in programming languages, specifically type theory, ownership types, and local reasoning for memory management. Most recently, I have been working on formalising object cloning for ownership types."
 
   - type: alumni
