@@ -77,6 +77,16 @@ You can find more details regarding interesting project ideas
 -->
 
 <!-- 2017 -->
+- November 2017 - 
+  **"Deja-vu: A Map of Code Duplicates on GitHub" is covered by 
+  [The Morning Paper](https://blog.acolyer.org/2017/11/20/dejavu-a-map-of-code-duplicates-on-github/), 
+  [Slashdot](https://developers.slashdot.org/story/17/11/23/2352233/more-than-half-of-github-is-duplicate-code-researchers-find), 
+  [The Register](https://www.theregister.co.uk/2017/11/21/github_duplicate_code/), 
+  [Developpez](https://www.developpez.com/actu/175363/GitHub-des-chercheurs-estiment-que-plus-de-la-moitie-des-codes-ecrits-en-Java-Python-C-Cplusplus-et-JavaScript-sont-dupliques/), 
+  [OpenNet](https://www.opennet.ru/opennews/art.shtml?num=47596),
+  [Toutiao](https://www.toutiao.com/a6491879685222302221/), 
+  [Sohu](http://www.sohu.com/a/206363660_114760)**
+
 - October 2017 -
   **"Deja-vu: A Map of Code Duplicates on GitHub" receives a Distinguished Artifact Award at OOPSLA**,
   [more ...](http://mondego.ics.uci.edu/projects/dejavu/)
