@@ -6,7 +6,7 @@ title: Publications
 ## 2018
 
 <!-- July 16-18 -->
-- **Tests from Traces: Automated Unit Test Extraction for R** <!-- new line -->  
+- **Tests from Traces: Automated Unit Test Extraction for R**  <!-- new line -->  
   Filip Křikava, Jan Vitek <!-- new line -->  
   In International Symposium on Software Testing and Analysis (ISSTA'18) <!-- new line -->   
 <!--
@@ -66,7 +66,7 @@ title: Publications
   [[Artifact]](http://mondego.ics.uci.edu/projects/dejavu/)
   [[DOI]](https://doi.org/10.1145/3133908)   
   
-  Received Distinguished Artifact Award.
+  *Distinguished Artifact Award*
   
   Appeared in:    
   [The Morning Paper](http://blog.acolyer.org/2017/11/20/dejavu-a-map-of-code-duplicates-on-github),
