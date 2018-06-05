@@ -8,7 +8,8 @@ title: Publications
 <!-- July 16-18 -->
 - **Tests from Traces: Automated Unit Test Extraction for R**  <!-- new line -->  
   Filip Křikava, Jan Vitek <!-- new line -->  
-  In International Symposium on Software Testing and Analysis (ISSTA'18) <!-- new line -->   
+  In International Symposium on Software Testing and Analysis (ISSTA'18) <!-- new line -->  
+  (to appear)
 <!--
   [[PDF]]()
   [[DOI]]()
@@ -19,6 +20,7 @@ title: Publications
 - **KafKa: Gradual Typing for Objects** <!-- new line -->  
   Benjamin Chung, Paley Li, Francesco Zappa Nardelli, and Jan Vitek <!-- new line -->  
   In European Conference on Object-Oriented Programming (ECOOP'18) <!-- new line -->  
+  (to appear)
 <!--
   [[PDF]]()
   [[DOI]]()
@@ -39,17 +41,20 @@ title: Publications
   [[HTML]](https://ieeexplore.ieee.org/document/8307099/)
   [[DOI]](https://doi.org/10.1109/TSE.2018.2812715)
 
+<!-- 11-13 June -->
 - **Handling Recursion in Generic Programming Using Closed Type Families** <!-- new line -->  
   Anna Bolotina, Artem Pelenitsyn <!-- new line -->  
   In Trends in Functional Programming (TFP'18) <!-- new line -->  
   [[PDF]](http://staff.mmcs.sfedu.ru/~ulysses/Papers/2018-TFP-dgp-recursion.pdf)
 
+<!-- 14-20 April -->
 - **Soundness of a Correct Collector for Actors** <!-- new line -->  
   Juliana Franco, Sylvain Clebsch, Sophia Drossopoulou, Jan Vitek, and Tobias Wrigstad <!-- new line -->  
   In European Symposium on Programming (ESOP'18) <!-- new line -->  
   [[PDF]](http://janvitek.org/pubs/esop18.pdf)
   [[DOI]](https://dx.doi.org/10.1007/978-3-319-89884-1_31)
 
+<!-- 7 - 13 January -->
 - **Correctness of Speculative Optimizations with Dynamic Deoptimization** <!-- new line -->  
   Olivier Fluckiger, Gabriel Scherer, Ming-Ho Yee, Aviral Goel, Amal Ahmed, and Jan Vitek <!-- new line -->  
   In Principles of Programming Languages (POPL'18) <!-- new line -->  
@@ -82,6 +87,12 @@ title: Publications
   In Object-Oriented Programming, Systems, Languages & Applications (OOPSLA'17)
   [[PDF]](http://janvitek.org/pubs/oopsla17a.pdf)
   [[DOI]](https://doi.org/10.1145/3133896)
+
+- **Generic Approach to Certified Static Checking of Module-like Constructs** <!-- new line -->  
+  Julia Belyakova <!-- new line -->  
+  In Workshop on Formal Techniques for Java-like Programs (FTFJP'17) <!-- new line -->  
+  [[HTML]](https://dl.acm.org/citation.cfm?id=3104045)
+  [[DOI]](https://doi.org/10.1145/3103111.3104045)
 
 - **Parallelizing Julia with a Non-invasive DSL** <!-- new line -->  
   Todd Anderson, Hai Liu, Lindsey Kuper, Ehsan Totoni, Jan Vitek, and Tatiana Shpeisman <!-- new line -->  
