@@ -6,8 +6,8 @@ title: Publications
 ## 2018
 
 <!-- July 16-18 
-- **Tests from Traces: Automated Unit Test Extraction for R**,
-  Filip Křikava, Jan Vitek, 
+- **Tests from Traces: Automated Unit Test Extraction for R**  
+  Filip Křikava, Jan Vitek  
   In International Symposium on Software Testing and Analysis (ISSTA'18)
   [[PDF]]()
   [[DOI]]()
@@ -15,51 +15,51 @@ title: Publications
 -->
 
 <!-- July 15-21 
-- **KafKa: Gradual Typing for Objects**,
-  Benjamin Chung, Paley Li, Francesco Zappa Nardelli, and Jan Vitek,
+- **KafKa: Gradual Typing for Objects**  
+  Benjamin Chung, Paley Li, Francesco Zappa Nardelli, and Jan Vitek  
   In European Conference on Object-Oriented Programming (ECOOP'18)
   [[PDF]]()
   [[DOI]]()
 -->
 
 <!-- July 10-13
--  **Automated unit test generation using genthat**,
-  Filip Křikava, Jan Vitek, 
+-  **Automated unit test generation using genthat**  
+  Filip Křikava, Jan Vitek  
   In The Conference for Users of R (userR!'18)
   [[PDF]]()
   [[DOI]]()
 -->
 
-- **Fully Reflective Execution Environments**,  
-  Guido Chari, Diego Garbervetsky, Stefan Marr, and Stephane Ducasse,  
-  In Transactions on Software Engineering (early access),
+- **Fully Reflective Execution Environments** <!-- new line -->  
+  Guido Chari, Diego Garbervetsky, Stefan Marr, and Stephane Ducasse <!-- new line -->  
+  In Transactions on Software Engineering
   [[HTML]](https://ieeexplore.ieee.org/document/8307099/)
   [[DOI]](https://doi.org/10.1109/TSE.2018.2812715)
 
-- **Handling Recursion in Generic Programming Using Closed Type Families**,  
-  Anna Bolotina, Artem Pelenitsyn,  
+- **Handling Recursion in Generic Programming Using Closed Type Families** <!-- new line -->  
+  Anna Bolotina, Artem Pelenitsyn <!-- new line -->  
   In Trends in Functional Programming (TFP'18)
   [[PDF]](http://staff.mmcs.sfedu.ru/~ulysses/Papers/2018-TFP-dgp-recursion.pdf)
 
-- **Soundness of a Correct Collector for Actors**,  
-  Juliana Franco, Sylvain Clebsch, Sophia Drossopoulou, Jan Vitek, and Tobias Wrigstad,  
+- **Soundness of a Correct Collector for Actors** <!-- new line -->  
+  Juliana Franco, Sylvain Clebsch, Sophia Drossopoulou, Jan Vitek, and Tobias Wrigstad <!-- new line -->  
   In European Symposium on Programming (ESOP'18)
   [[PDF]](http://janvitek.org/pubs/esop18.pdf)
   [[DOI]](https://dx.doi.org/10.1007/978-3-319-89884-1_31)
 
-- **Correctness of Speculative Optimizations with Dynamic Deoptimization**,  
-  Olivier Fluckiger, Gabriel Scherer, Ming-Ho Yee, Aviral Goel, Amal Ahmed, and Jan Vitek,  
+- **Correctness of Speculative Optimizations with Dynamic Deoptimization** <!-- new line -->  
+  Olivier Fluckiger, Gabriel Scherer, Ming-Ho Yee, Aviral Goel, Amal Ahmed, and Jan Vitek <!-- new line -->  
   In Principles of Programming Languages (POPL'18)
   [[PDF]](http://janvitek.org/pubs/popl18.pdf)
   [[DOI]](https://doi.org/10.1145/3158137)
 
 ## 2017
 
-- **Deja-vu: A Map of Code Duplicates on GitHub**,  
-  Cristina V. Lopez, Petr Maj, Pedro Martins, Vaibhav Saini, Di Yang, Jakub Zitny, Hitesh Sajnani, and Jan Vitek,  
+- **Deja-vu: A Map of Code Duplicates on GitHub** <!-- new line -->  
+  Cristina V. Lopez, Petr Maj, Pedro Martins, Vaibhav Saini, Di Yang, Jakub Zitny, Hitesh Sajnani, and Jan Vitek <!-- new line -->  
   In Object-Oriented Programming, Systems, Languages & Applications (OOPSLA'17)
   [[PDF]](http://janvitek.org/pubs/oopsla17b.pdf)[[Talk]](https://www.youtube.com/watch?v=4M-ASEpVOaY)
-  [[DOI]](https://doi.org/10.1145/3133908).  
+  [[DOI]](https://doi.org/10.1145/3133908) <!-- new line -->  
   Distinguished [Artifact](http://mondego.ics.uci.edu/projects/dejavu/) Award.
   
   Appeared in:    
@@ -71,50 +71,50 @@ title: Publications
   [toutiao](https://www.toutiao.com/a6491879685222302221/) (Chinese) 
   and [sohu](http://www.sohu.com/a/206363660_114760) (Chinese).
 
-- **Orca: GC and Type System Co-Design for Actor Languages**,  
-  Sylvain Clebsch, Juliana Franco, Sophia Drossopoulou, Albert Mingkun Yang, Tobias Wrigstad, and Jan Vitek,  
+- **Orca: GC and Type System Co-Design for Actor Languages** <!-- new line -->  
+  Sylvain Clebsch, Juliana Franco, Sophia Drossopoulou, Albert Mingkun Yang, Tobias Wrigstad, and Jan Vitek <!-- new line -->  
   In Object-Oriented Programming, Systems, Languages & Applications (OOPSLA'17)
   [[PDF]](http://janvitek.org/pubs/oopsla17a.pdf)
   [[DOI]](https://doi.org/10.1145/3133896)
 
-- **Parallelizing Julia with a Non-invasive DSL**,  
-  Todd Anderson, Hai Liu, Lindsey Kuper, Ehsan Totoni, Jan Vitek, and Tatiana Shpeisman,  
+- **Parallelizing Julia with a Non-invasive DSL** <!-- new line -->  
+  Todd Anderson, Hai Liu, Lindsey Kuper, Ehsan Totoni, Jan Vitek, and Tatiana Shpeisman <!-- new line -->  
   In European Conference on Object-Oriented Programming (ECOOP'17)
   [[PDF]](http://janvitek.org/pubs/ecoop17.pdf)
   [[DOI]](http://dx.doi.org/10.4230/LIPIcs.ECOOP.2017.4)
 
-- **Verifying a Concurrent Garbage Collector using a Rely-Guarantee Methodology**,  
-  Yannick Zakowski, David Cachera, Delphine Demange, Gustavo Petri, David Pichardie, Suresh Jagannathan, and Jan Vitek,  
+- **Verifying a Concurrent Garbage Collector using a Rely-Guarantee Methodology** <!-- new line -->  
+  Yannick Zakowski, David Cachera, Delphine Demange, Gustavo Petri, David Pichardie, Suresh Jagannathan, and Jan Vitek <!-- new line -->  
   In International Conference on Interactive Theorem Proving (ITP'17)
   [[PDF]](http://janvitek.org/pubs/ITP17.pdf)
   [[DOI]](https://doi.org/10.1007/978-3-319-66107-0_31)
 
-- **Contracts-Based Control Integration into Software Systems**,  
-  Filip Krikava, Philippe Collet, Romain Rouvoy, and Lionel Seinturier  
+- **Contracts-Based Control Integration into Software Systems** <!-- new line -->  
+  Filip Krikava, Philippe Collet, Romain Rouvoy, and Lionel Seinturier <!-- new line -->  
   In R. de Lemos et al. book Self-Adaptive Systems III, LNCS 9640
   [[PDF]](https://link.springer.com/content/pdf/10.1007%2F978-3-319-74183-3_9.pdf)
   [[DOI]](https://doi.org/10.1007/978-3-319-74183-3)
 
-- **Hadoop-Benchmark: Rapid Prototyping and Evaluation of Self-Adaptive Behaviors in Hadoop Clusters**,  
-  Bo Zhang, Filip Krikava, Romain Rouvoy, and Lionel Seinturier,  
+- **Hadoop-Benchmark: Rapid Prototyping and Evaluation of Self-Adaptive Behaviors in Hadoop Clusters** <!-- new line -->  
+  Bo Zhang, Filip Krikava, Romain Rouvoy, and Lionel Seinturier <!-- new line -->  
   In 12th International Symposium on Software Engineering for Adaptive and Self-Managing Systems (SEAMS’17)
   [[PDF]](https://hal.inria.fr/hal-01475635.pdf)
   [[DOI]](http://dx.doi.org/10.1109/SEAMS.2017.15)
     
-- **Hadoop-Benchmark: Rapid Prototyping and Evaluation of Self-Adaptive Behaviors in Hadoop Clusters (Artifact)**,  
-  Bo Zhang, Filip Krikava, Romain Rouvoy, and Lionel Seinturier,  
+- **Hadoop-Benchmark: Rapid Prototyping and Evaluation of Self-Adaptive Behaviors in Hadoop Clusters (Artifact)** <!-- new line -->  
+  Bo Zhang, Filip Krikava, Romain Rouvoy, and Lionel Seinturier <!-- new line -->  
   In Dagstuhl Artifacts Series 2509-8195 vol. 3-1
   [[PDF]](http://drops.dagstuhl.de/opus/volltexte/2017/7139) 
   [[DOI]](http://dx.doi.org/10.4230/DARTS.3.1.1)
 
-- **Making Android Run on Time**,  
-  Yin Yan, Karthik Dantu, Steven Y. Ko, Jan Vitek, and Lukasz Ziarek,  
+- **Making Android Run on Time** <!-- new line -->  
+  Yin Yan, Karthik Dantu, Steven Y. Ko, Jan Vitek, and Lukasz Ziarek <!-- new line -->  
   In Real-time and Embedded Technology and Application Symposium (RTAS'17)
   [[PDF]](http://janvitek.org/pubs/rtas17.pdf)
   [[DOI]](https://doi.org/10.1109/RTAS.2017.38)
 
-- **Helenos: A Realistic Benchmark for Distributed Transactional Memory**,  
-  Jan Baranowski, Paweł Kobyliński, Konrad Siek, and Paweł T. Wojciechowski,  
+- **Helenos: A Realistic Benchmark for Distributed Transactional Memory** <!-- new line -->  
+  Jan Baranowski, Paweł Kobyliński, Konrad Siek, and Paweł T. Wojciechowski <!-- new line -->  
   In Software: Practice and Experience, volume 48, issue 3
   [[HTML]](http://onlinelibrary.wiley.com/doi/10.1002/spe.2548/full)
   [[PDF]](https://arxiv.org/abs/1603.07899)
