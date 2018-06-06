@@ -33,12 +33,6 @@ title: Publications
   [[DOI]]()
 -->
 
-- **Fully Reflective Execution Environments** <!-- new line -->  
-  Guido Chari, Diego Garbervetsky, Stefan Marr, and Stephane Ducasse <!-- new line -->  
-  In Transactions on Software Engineering <!-- new line -->  
-  [[HTML]](https://ieeexplore.ieee.org/document/8307099/)
-  [[DOI]](https://doi.org/10.1109/TSE.2018.2812715)
-
 <!-- 11-13 June -->
 - **Handling Recursion in Generic Programming Using Closed Type Families** <!-- new line -->  
   Anna Bolotina, Artem Pelenitsyn <!-- new line -->  
@@ -51,6 +45,14 @@ title: Publications
   In European Symposium on Programming (ESOP'18) <!-- new line -->  
   [[PDF]](http://janvitek.org/pubs/esop18.pdf)
   [[DOI]](https://dx.doi.org/10.1007/978-3-319-89884-1_31)
+
+<!-- 9 March -->
+- **Fully Reflective Execution Environments** <!-- new line -->  
+  Guido Chari, Diego Garbervetsky, Stefan Marr, and Stephane Ducasse <!-- new line -->  
+  In Transactions on Software Engineering <!-- new line -->  
+  [[PDF]](https://hal.inria.fr/hal-01728111/document)
+  [[HTML]](https://ieeexplore.ieee.org/document/8307099/)
+  [[DOI]](https://doi.org/10.1109/TSE.2018.2812715)
 
 <!-- 7 - 13 January -->
 - **Correctness of Speculative Optimizations with Dynamic Deoptimization** <!-- new line -->  
