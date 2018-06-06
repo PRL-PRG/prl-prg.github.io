@@ -33,11 +33,12 @@ title: Publications
   [[DOI]]()
 -->
 
-<!-- 11-13 June -->
-- **Handling Recursion in Generic Programming Using Closed Type Families** <!-- new line -->  
-  Anna Bolotina, Artem Pelenitsyn <!-- new line -->  
-  In Trends in Functional Programming (TFP'18) <!-- new line -->  
+<!-- 11-13 June 
+- **Handling Recursion in Generic Programming Using Closed Type Families** <! new line >  
+  Anna Bolotina, Artem Pelenitsyn <! new line >  
+  In Trends in Functional Programming (TFP'18) <! new line >  
   [[PDF]](http://staff.mmcs.sfedu.ru/~ulysses/Papers/2018-TFP-dgp-recursion.pdf)
+-->
 
 <!-- 14-20 April -->
 - **Soundness of a Correct Collector for Actors** <!-- new line -->  
