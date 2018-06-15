@@ -5,30 +5,30 @@ title: Publications
 
 ## 2018
 
-<!-- July 16-18 -->
-- **Tests from Traces: Automated Unit Test Extraction for R**  <!-- new line -->  
+<!-- July 16-18 
+- **Tests from Traces: Automated Unit Test Extraction for R**  <! new line >  
   Filip Křikava, Jan Vitek <!-- new line -->  
-  In International Symposium on Software Testing and Analysis (ISSTA'18) <!-- new line -->  
-<!--
+  In International Symposium on Software Testing and Analysis (ISSTA'18) <! new line >  
+
   [[PDF]]()
   [[DOI]]()
   [[Artifact]]()
 -->
 
-<!-- July 15-21 --> 
-- **KafKa: Gradual Typing for Objects** <!-- new line -->  
-  Benjamin Chung, Paley Li, Francesco Zappa Nardelli, and Jan Vitek <!-- new line -->  
-  In European Conference on Object-Oriented Programming (ECOOP'18) <!-- new line -->  
-<!--
+<!-- July 15-21  
+- **KafKa: Gradual Typing for Objects** <! new line >  
+  Benjamin Chung, Paley Li, Francesco Zappa Nardelli, and Jan Vitek <! new line >  
+  In European Conference on Object-Oriented Programming (ECOOP'18) <! new line >  
+
   [[PDF]]()
   [[DOI]]()
 -->
 
-<!-- July 10-13 -->
-- **Automated unit test generation using genthat** <!-- new line -->  
-  Filip Křikava, Jan Vitek <!-- new line -->  
-  In The Conference for Users of R (userR!'18) <!-- new line -->  
-<!--
+<!-- July 10-13 
+  **Automated unit test generation using genthat** <! new line >  
+  Filip Křikava, Jan Vitek <! new line >  
+  In The Conference for Users of R (userR!'18) <! new line >  
+
   [[PDF]]()
   [[DOI]]()
 -->
