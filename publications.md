@@ -7,7 +7,7 @@ title: Publications
 
 <!-- July 16-18 
 - **Tests from Traces: Automated Unit Test Extraction for R**  <! new line >  
-  Filip Křikava, Jan Vitek <!-- new line -->  
+  Filip Křikava, Jan Vitek <! new line >  
   In International Symposium on Software Testing and Analysis (ISSTA'18) <! new line >  
 
   [[PDF]]()
