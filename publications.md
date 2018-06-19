@@ -24,7 +24,7 @@ title: Publications
 <!-- [[DOI]]() -->
 
 <!-- July 10-13 -->
-  **Automated unit test generation using genthat** <!-- new line -->  
+- **Automated unit test generation using genthat** <!-- new line -->  
   Filip Křikava, Jan Vitek <!-- new line -->  
   In The Conference for Users of R (userR!'18) <!-- new line -->  
 
