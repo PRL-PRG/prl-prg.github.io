@@ -19,7 +19,6 @@ title: Publications
 - **KafKa: Gradual Typing for Objects** <!-- new line -->  
   Benjamin Chung, Paley Li, Francesco Zappa Nardelli, and Jan Vitek <!-- new line -->  
   In European Conference on Object-Oriented Programming (ECOOP'18) <!-- new line-->  
-
   [[PDF]](http://benchung.github.io/papers/ecoop18.pdf)
 <!-- [[DOI]]() -->
 
