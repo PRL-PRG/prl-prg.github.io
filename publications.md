@@ -15,14 +15,13 @@ title: Publications
   [[Artifact]]()
 -->
 
-<!-- July 15-21  
-- **KafKa: Gradual Typing for Objects** <! new line >  
-  Benjamin Chung, Paley Li, Francesco Zappa Nardelli, and Jan Vitek <! new line >  
-  In European Conference on Object-Oriented Programming (ECOOP'18) <! new line >  
+<!-- July 15-21 --> 
+- **KafKa: Gradual Typing for Objects** <!-- new line -->  
+  Benjamin Chung, Paley Li, Francesco Zappa Nardelli, and Jan Vitek <!-- new line -->  
+  In European Conference on Object-Oriented Programming (ECOOP'18) <!-- new line-->  
 
-  [[PDF]]()
-  [[DOI]]()
--->
+  [[PDF]](http://benchung.github.io/papers/ecoop18.pdf)
+<!-- [[DOI]]() -->
 
 <!-- July 10-13 
   **Automated unit test generation using genthat** <! new line >  
