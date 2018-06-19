@@ -77,7 +77,12 @@ would like to work on.
   [more ...](https://www.transformation-tool-contest.eu/)
 -->
 
+- June 2018 - 
+   **"Tests from Traces: Automated Unit Test Generation for R" receives the ISSTA'18 Distinguished Artifact Award**
+   [more ...](https://twitter.com/i/web/status/1008868048638377984) 
+
 <!-- 2017 -->
+
 - November 2017 - 
   **"Deja-vu: A Map of Code Duplicates on GitHub" is covered by 
   [The Morning Paper](https://blog.acolyer.org/2017/11/20/dejavu-a-map-of-code-duplicates-on-github/), 

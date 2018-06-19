@@ -5,15 +5,16 @@ title: Publications
 
 ## 2018
 
-<!-- July 16-18 
-- **Tests from Traces: Automated Unit Test Extraction for R**  <! new line >  
-  Filip Křikava, Jan Vitek <! new line >  
-  In International Symposium on Software Testing and Analysis (ISSTA'18) <! new line >  
+<!-- July 16-18 --> 
+- **Tests from Traces: Automated Unit Test Extraction for R**  <!-- new line -->  
+  Filip Křikava, Jan Vitek <!-- new line -->  
+  In International Symposium on Software Testing and Analysis (ISSTA'18) <!-- new line -->  
+  <!--[[PDF]]()  -->
+  [[HTML]](https://conf.researchr.org/event/issta-2018/issta-2018-technical-papers-tests-from-traces-automated-unit-test-generation-for-r)
+  <!-- [[DOI]]() -->
+  [[Artifact]](https://conf.researchr.org/track/issta-2018/issta-2018-Artifacts)
 
-  [[PDF]]()
-  [[DOI]]()
-  [[Artifact]]()
--->
+  *Distinguished Artifact Award*
 
 <!-- July 15-21 --> 
 - **KafKa: Gradual Typing for Objects** <!-- new line -->  
@@ -22,14 +23,13 @@ title: Publications
   [[PDF]](http://benchung.github.io/papers/ecoop18.pdf)
 <!-- [[DOI]]() -->
 
-<!-- July 10-13 
-  **Automated unit test generation using genthat** <! new line >  
-  Filip Křikava, Jan Vitek <! new line >  
-  In The Conference for Users of R (userR!'18) <! new line >  
+<!-- July 10-13 -->
+  **Automated unit test generation using genthat** <!-- new line -->  
+  Filip Křikava, Jan Vitek <!-- new line -->  
+  In The Conference for Users of R (userR!'18) <!-- new line -->  
 
-  [[PDF]]()
-  [[DOI]]()
--->
+<!--  [[PDF]]()
+  [[DOI]]() -->
 
 <!-- 11-13 June --> 
 - **Handling Recursion in Generic Programming Using Closed Type Families** <!-- new line -->  
