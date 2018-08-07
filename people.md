@@ -101,7 +101,6 @@ people:
     name: Colette Kerr
     photo: colette_kerr.jpg
     title: Research assistant
-    email: kerrcole@fit.cvut.cz
     bio:
     - Joined Czech Technical Univeristy, 2018
     note: "I am looking to work with new programming languages and modifications to programming languages that enable transparent networked computation."
