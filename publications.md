@@ -5,14 +5,25 @@ title: Publications
 
 ## 2018
 
+<!-- November 4-9 -->
+- **Self-Contained Development Environments**  <!-- new line -->  
+  Guido Chari, Javier Pímas, Jan Vitek, Olivier Fluckiger  <!-- new line -->  
+  In Dynamics Language Symposium (DLS'18)
+  
+- **Extracting tests from runtime behavior for R** <!-- new line -->  
+  Filip Křikava <!-- new line -->  
+  Invited talk in Workshop on Introspective Systems for Automatically Generating Tests (ISAGT'18)  <!-- new line -->  
+  [[HTML]](https://conf.researchr.org/event/ecoop-issta-2018/isagt-2018-papers-extracting-tests-from-runtime-behavior-for-r)
+
 <!-- July 16-18 --> 
 - **Tests from Traces: Automated Unit Test Extraction for R**  <!-- new line -->  
   Filip Křikava, Jan Vitek <!-- new line -->  
   In International Symposium on Software Testing and Analysis (ISSTA'18) <!-- new line -->  
-  <!--[[PDF]]()  -->
+  [[PDF]](https://hal.archives-ouvertes.fr/hal-01854879v1)
   [[HTML]](https://conf.researchr.org/event/issta-2018/issta-2018-technical-papers-tests-from-traces-automated-unit-test-generation-for-r)
-  <!-- [[DOI]]() -->
-  [[Artifact]](https://conf.researchr.org/track/issta-2018/issta-2018-Artifacts)
+  [[Slides]](https://docs.google.com/presentation/d/1St2fMYfmrsp0Wxido7Pyj_d9qp3jjs24M4W6yWx-QPU/edit#slide=id.g3b5286a051_2_338)
+  [[DOI]](10.1145/3213846.3213863)
+  [[Artifact]](https://doi.org/10.5281/zenodo.1306437)<!--(https://conf.researchr.org/track/issta-2018/issta-2018-Artifacts)-->
 
   *Distinguished Artifact Award*
 
@@ -21,15 +32,20 @@ title: Publications
   Benjamin Chung, Paley Li, Francesco Zappa Nardelli, and Jan Vitek <!-- new line -->  
   In European Conference on Object-Oriented Programming (ECOOP'18) <!-- new line-->  
   [[PDF]](http://benchung.github.io/papers/ecoop18.pdf)
-<!-- [[DOI]]() -->
+  [[DOI]](10.4230/LIPIcs.ECOOP.2018.12)
 
 <!-- July 10-13 -->
+- **Preventing and Detecting Memory Protection Bugs in Packages** <!-- new line -->  
+  Tomáš Kalibera <!-- new line -->  
+  In The Conference for Users of R (userR!'18)<!-- new line -->  
+  [[Video]](https://www.youtube.com/watch?v=TOI7DOrW1u4)
+  
+  <!-- July 10-13 -->
 - **Automated unit test generation using genthat** <!-- new line -->  
   Filip Křikava, Jan Vitek <!-- new line -->  
-  In The Conference for Users of R (userR!'18) <!-- new line -->  
-
-<!--  [[PDF]]()
-  [[DOI]]() -->
+  In The Conference for Users of R (userR!'18)<!-- new line -->  
+  [[Slides]](https://docs.google.com/presentation/d/1St2fMYfmrsp0Wxido7Pyj_d9qp3jjs24M4W6yWx-QPU/edit#slide=id.g3b5286a051_2_338)
+  [[Video]](https://www.youtube.com/watch?v=qrX8q6euQII)
 
 <!-- 11-13 June --> 
 - **Handling Recursion in Generic Programming Using Closed Type Families** <!-- new line -->  
