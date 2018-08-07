@@ -62,7 +62,7 @@ would like to work on.
   -->
 
 - July 2018 - 
-  **"Flexible Alias Protection, a paper by James Noble, Jan Vitek, and John Potter receives the 2018 AITO Test of Time at ECOOP,**
+  **"Flexible Alias Protection, a paper by James Noble, Jan Vitek, and John Potter receives the 2018 AITO Test of Time at ECOOP**,
   [more ...](http://www.aito.org/ToT/2018.html)
 
 - July 2018 - 
