@@ -89,7 +89,6 @@ people:
     photo: celeste_hollenbeck.jpg
     title: Research assistant
     email: hollenbeck.c@husky.neu.edu
-    web: https://www.ccis.northeastern.edu/people/celeste-hollenbeck/
     bio:
     - Joined Czech Technical University, 2018
     note: "I am going to make Haskell faster with machine learning. Unless I can't. Then I will make JavaScript faster with machine learning."
