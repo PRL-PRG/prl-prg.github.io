@@ -30,7 +30,7 @@ videos:
     date:    "3-6 September 2017"
     place:   "Prague, Czech Republic"
     
-  - title:   "Making run fast"
+  - title:   "Making R run fast"
     speaker: "Jan Vitek"
     youtube: HStF1RJOyxI
     venue:   "Greater Boston useR Group"
