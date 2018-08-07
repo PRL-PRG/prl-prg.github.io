@@ -96,7 +96,26 @@ people:
     - Post-doctoral researcher at University of Utah, 2010-2012
     - PhD, Northeastern University, 2010
     note: "I work on the design, implementation, and semantics of programming languages, especially languages with powerful syntactic abstraction and extension capabilities. Much of my work in that area involves tools and libraries for the Racket macro system. I have also worked on the semantics of probabilistic programming languages."
-
+    
+  - type: researcher
+    name: Colette Kerr
+    photo: colette_kerr.jpg
+    title: Research assistant
+    email: kerrcole@fit.cvut.cz
+    bio:
+    - Joined Czech Technical Univeristy, 2018
+    note: "I am looking to work with new programming languages and modifications to programming languages that enable transparent networked computation."
+    
+  - type: researcher
+    name: Celeste Hollenbeck
+    photo: celeste_hollenbeck.jpg
+    title: Research assistant
+    email: hollenbeck.c@husky.neu.edu
+    web: https://www.ccis.northeastern.edu/people/celeste-hollenbeck/
+    bio:
+    - Joined Czech Technical University, 2018
+    note: "I am going to make Haskell faster with machine learning. Unless I can't. Then I will make JavaScript faster with machine learning."
+   
   - type: student
     name: Jan Ječmen
     photo: jan_jecmen.jpg
@@ -106,13 +125,13 @@ people:
     - Joined Czech Technical University, 2016
     note: "I am a master's student at FIT CTU. I am interested in implementation of programming languages."
 
-  - type: student
+  - type: alumni
     name: Chakshu Goyal
     photo: chakshu_goyal.jpg
     title: Research intern
     email: chakshugoyal97@gmail.com
     bio:
-    - Joined Czech Technical University, 2018
+    - May 2018 - July 2018
     note: "I'm a third year dual degree (B.Tech + M.Tech) student at IIT Delhi. My project concerns the analysis of the eval function in R."
 
   - type: alumni
