@@ -139,6 +139,10 @@ body {
     font-size: 46px;
     font-weight: bold;
 }
+.small-header {
+    font-size: 24px;
+    font-weight: bold;
+}
 .container ul {
     padding-left: 20px;
     
@@ -305,4 +309,38 @@ body {
 
 .header-padding{
   padding-top: 50px;
+}
+
+/*Videos*/
+.vid-player {
+    width:210px;
+    height: 165px;
+    border-radius: 15px;
+    border: 7px solid rgba(181, 180, 180, 0.38);
+    overflow: hidden;
+    margin-left: auto;
+    margin-right: auto;
+}
+
+.vid-title {
+    font-size: large;
+    font-weight: bold;
+}
+
+.vid-speaker {
+}
+
+.vid-venue {
+    font-weight: bold;
+}
+
+.vid-muted {
+    margin-top: 45px;
+    font-size: 11px;
+}
+
+.cell {
+    vertical-align: top;
+    float:left;
+    width: 300px;
 }

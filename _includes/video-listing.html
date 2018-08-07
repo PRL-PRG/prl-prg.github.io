@@ -1,0 +1,41 @@
+<!-- Content-->
+<div class="row block-content text-center">
+    <div class="container">
+        <div class="row">
+            <div class="col-md-12">
+                <span class="small-header">{{ include.title }}</span>
+            </div>
+        </div>
+    </div>
+</div>
+
+<div class="row block-content bg-1">
+    <div class="container">
+        
+        {% for v in include.videos %}
+        <div class="row">
+            <div class="col-sm-3">
+                <iframe class="vid-player" 
+                        src="https://www.youtube.com/embed/{{ v.youtube }}"> 
+                </iframe> 
+            </div>
+            <div class="col-sm-9">
+              <span class="vid-title">{{ v.title }}</span><br/>
+              by <span class="vid-speaker">{{ v.speaker }}</span>
+            </div>
+            
+            <div class="col-sm-9 vid-muted">
+              <span class="vid-venue">{{ v.venue }}</span><br/>
+              <span class="vid-date">{{ v.date }}</span><br/>
+              <span class="vid-speaker">{{ v.place }}</span>
+            </div>
+        </div>
+        
+        {% if forloop.last == false %}
+            <hr/>
+        {% endif %}
+        
+        {% endfor %}
+        
+    </div>
+</div>
