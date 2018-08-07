@@ -98,7 +98,7 @@ title: Publications
 
 - **Orca: GC and Type System Co-Design for Actor Languages** <!-- new line -->  
   Sylvain Clebsch, Juliana Franco, Sophia Drossopoulou, Albert Mingkun Yang, Tobias Wrigstad, and Jan Vitek <!-- new line -->  
-  In Object-Oriented Programming, Systems, Languages & Applications (OOPSLA'17)
+  In Object-Oriented Programming, Systems, Languages & Applications (OOPSLA'17) <!-- new line -->  
   [[PDF]](http://janvitek.org/pubs/oopsla17a.pdf)
   [[DOI]](https://doi.org/10.1145/3133896)
 
