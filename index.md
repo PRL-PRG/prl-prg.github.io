@@ -59,6 +59,11 @@ would like to work on.
 - November 2018 - 
   **Jan Vitek, Filip Křikava, Paley Li, and Konrad Siek co-organize SPLASH**,
   [more ...](https://2018.splashcon.org/committee/splash-2018-organizing-committee)
+  -->
+
+- July 2018 - 
+  **"Flexible Alias Protection", a paper by James Noble, Jan Vitek, and John Potter receives the 2018 AITO Test of Time at ECOOP**,
+  [more ...](http://www.aito.org/ToT/2018.html)
 
 - July 2018 - 
   **Artem Pelenitsyn co-organizes the 2nd International Workshop on Machine Learning techniques for Programming Languages (co-located with ECOOP)**,
@@ -75,13 +80,10 @@ would like to work on.
 - June 2018 - 
   **Filip Křikava co-organizes the 11th Transformation Tool Contest (part of STAF)**,
   [more ...](https://www.transformation-tool-contest.eu/)
--->
 
 - June 2018 - 
-   **"Tests from Traces: Automated Unit Test Generation for R" receives the ISSTA'18 Distinguished Artifact Award**
-   [more ...](https://twitter.com/i/web/status/1008868048638377984) 
-
-<!-- 2017 -->
+  **"Tests from Traces: Automated Unit Test Generation for R" receives the ISSTA'18 Distinguished Artifact Award**
+  [more ...](https://twitter.com/i/web/status/1008868048638377984) 
 
 - November 2017 - 
   **"Deja-vu: A Map of Code Duplicates on GitHub" is covered by 
