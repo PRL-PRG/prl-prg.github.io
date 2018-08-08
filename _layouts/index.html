@@ -32,6 +32,12 @@
                     {{ content }}
                 </div>
             </div>
+            {% for n in page.news %}
+              <div class="row">
+                  <div class="col-md-2 font-17 "> {{ n.date }} </div> 
+                  <div class="col-md-9 font-17">  {{ n.blurb | markdownify }} </div>
+              </div>
+            {% endfor %}
         </div>
     </div>
 </div>
