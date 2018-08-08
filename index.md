@@ -24,12 +24,13 @@ news:
     blurb: 'Jan Vitek and Filip Křikava co-organize [Curry On 2018](http://curry-on.org/2018/).'
 
   - date: 'June 2018'
-    blurb: 'Filip Křikava co-organizes the [11th Transformation Tool Contest](https://www.transformation-tool-contest.eu/) (part of [STAF](http://www.staf2018.fr/)).'
+    blurb: 'Filip Křikava co-organizes the [11th Transformation Tool Contest](https://www.transformation-tool-contest.eu/) (part of [STAF 2018](http://www.staf2018.fr/)).'
 
-#  - date: 'June 2018'
-#    blurb: '[Tests from Traces: Automated Unit Test Generation for R](http://janvitek.org/pubs/issta18.pdf) receives the [ISSTA'18 Distinguished Artifact Award](https://twitter.com/i/web/status/1008868048638377984)'
+  - date: 'June 2018'
+    blurb: "[Tests from Traces: Automated Unit Test Generation for R](http://janvitek.org/pubs/issta18.pdf) receives the [ISSTA'18 Distinguished Artifact Award](https://twitter.com/i/web/status/1008868048638377984)."
+    
 
-  - date: 'Novemnber 2017'
+  - date: 'November 2017'
     blurb: '[Deja-vu: A Map of Code Duplicates on GitHub](http://janvitek.org/pubs/oopsla17b.pdf) is covered by news publications around the world, including: 
     [The Morning Paper](https://blog.acolyer.org/2017/11/20/dejavu-a-map-of-code-duplicates-on-github/), 
     [Slashdot](https://developers.slashdot.org/story/17/11/23/2352233/more-than-half-of-github-is-duplicate-code-researchers-find), 
@@ -43,7 +44,7 @@ news:
     blurb: '[Deja-vu: A Map of Code Duplicates on GitHub artifact](http://mondego.ics.uci.edu/projects/dejavu/) receives a [Distinguished Artifact Award at OOPSLA](https://2017.splashcon.org/attending/splash-awards).'
 
   - date: 'July 2017'
-    blurb: 'Filip Křikava co-organizes the [10th Transformation Tool Contest](https://www.transformation-tool-contest.eu/2017/) (part of [STAF](http://www.staf2017.fr/))).'
+    blurb: 'Filip Křikava co-organizes the [10th Transformation Tool Contest](https://www.transformation-tool-contest.eu/2017/) (part of [STAF 2017](http://www.staf2017.fr/))).'
 
   - date: 'June 2017'
     blurb: 'Jan Vitek and Filip Křikava co-organized [Curry On 2017](http://curry-on.org/2017/).'
