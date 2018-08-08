@@ -13,12 +13,17 @@
     <div class="container">
         {% for year in include.years %}
         <div class="row">
-            <div class="col-md-9 col-sm-offset-3">
-                <span class="small-header">{{ year }}</span>
+            <div class="col-md-12">
+                <div class="col-sm-offset-3">
+                    <span class="small-header">{{ year }}</span>
+                </div>
+                <hr/>
             </div>
         </div>
-          
-        {% for pub in include.publications | where pub.year, year %}
+        {% for pub in include.publications %}
+        {% if pub.year != year %}
+        {% continue %}
+        {% endif %}
         <div class="row">
             <div class="col-sm-3 badge-container">
                 {% for badge in pub.badges %}
