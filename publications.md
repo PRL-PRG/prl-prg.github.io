@@ -33,8 +33,8 @@ publications:
    publication: "International Symposium on Software Testing and Analysis"
    short_publication: "ISSTA'18"
    badges:
-   - "artifact_available"
-   - "artifact_evaluated_reusable"
+   - "acm_artifact_available"
+   - "acm_artifact_evaluated_reusable"
    awards: 
    - "Distinguished Artifact Award"
    links:
@@ -55,6 +55,8 @@ publications:
    authors: "Benjamin Chung, Paley Li, Francesco Zappa Nardelli, and Jan Vitek"
    publication: "European Conference on Object-Oriented Programming"
    short_publication: "ECOOP'18"
+   badges:
+   - "ecoop_artifact_evaluated"
    links:
    - text: PDF
      link: (http://benchung.github.io/papers/ecoop18.pdf
@@ -138,6 +140,9 @@ publications:
    publication: "Object-Oriented Programming, Systems, Languages & Applications"
    short_publication: "OOPSLA'17"
    awards: "Distinguished Artifact Award"
+   badges:
+   - "acm_artifact_available"
+   - "acm_artifact_evaluated_reusable"
    long_note: " Appeared in:
    [The Morning Paper](http://blog.acolyer.org/2017/11/20/dejavu-a-map-of-code-duplicates-on-github),
    [Slashdot](https://developers.slashdot.org/story/17/11/23/2352233/more-than-half-of-github-is-duplicate-code-researchers-find),
