@@ -188,6 +188,8 @@ publications:
    authors: "Todd Anderson, Hai Liu, Lindsey Kuper, Ehsan Totoni, Jan Vitek, and Tatiana Shpeisman"
    publication: "European Conference on Object-Oriented Programming"
    short_publication: "ECOOP'17"
+   badge:
+   - "ecoop_artifact_evaluated"
    links:
    - text: PDF
      link: http://janvitek.org/pubs/ecoop17.pdf
