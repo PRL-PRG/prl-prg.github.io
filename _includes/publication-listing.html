@@ -1,0 +1,78 @@
+<!-- Content-->
+<div class="row block-content text-center">
+    <div class="container">
+        <div class="row">
+            <div class="col-md-12">
+                <span class="big-header">{{ include.title }}</span>
+            </div>
+        </div>
+    </div>
+</div>
+
+<div class="row block-content bg-1">
+    <div class="container">
+        {% for year in include.years %}
+        <div class="row">
+            <div class="col-md-9 col-sm-offset-3">
+                <span class="small-header">{{ year }}</span>
+            </div>
+        </div>
+          
+        {% for pub in include.publications | where pub.year, year %}
+        <div class="row">
+            <div class="col-sm-3 badge-container">
+                {% for badge in pub.badges %}
+                <div class="badge-wrapper">
+                   <img src="images/publications/{{badge}}.png" alt="{{badge}}"/>
+                </div>
+                {% endfor %}
+            </div>
+                
+            <div class="col-sm-9">
+                <span class="pub-title">{{ pub.title }}</span>. <br/>
+                <span class="pub-authors">{{ pub.authors }}</span>. <br/>
+                  
+                In <span class="pub-publication">
+                    {% if pub.short_publication %}
+                    {{ pub.publication }} ({{ pub.short_publication }}).
+                    {% else %}
+                    {{ pub.publication }}.
+                    {% endif %}
+                </span> <!--br/-->
+                  
+                <span class="pub-notes">
+                    {% if pub.note %}
+                    {{ pub.note }}
+                    {% endif %}
+                </span>
+                  
+                {% if pub.links %}
+                <div class="pub-margin-15">
+                    {% for link in pub.links %}
+                    <a href="{{ link.link }}">[{{ link.text }}]</a>
+                    {% endfor %}
+                </div>
+                {% endif %}
+                
+                {% if pub.awards %}
+                <div class="pub-margin-15">
+                    <span class="pub-awards">{{ pub.awards }}.</span>
+                </div>
+                {% endif %}
+                
+                {% if pub.long_note %}
+                <div class="pub-margin-15">
+                    <span class="pub-long-notes">{{ pub.long_note | markdownify }}.</span>
+                </div>
+                {% endif %}
+              </div>
+            </div>
+            
+            {% if forloop.last == false %}
+            <hr/>
+            {% endif %}
+          
+          {% endfor %}
+          {% endfor %}
+      </div>
+</div>
