@@ -91,7 +91,7 @@ people:
     email: hollenbeck.c@husky.neu.edu
     bio:
     - Joined Czech Technical University, 2018
-    note: "I am going to make Haskell faster with machine learning. Unless I can't. Then I will make JavaScript faster with machine learning."
+    note: "I am figuring out how we can combine compilers with machine learning to help optimize code."
    
   - type: student
     name: Jan Ječmen
