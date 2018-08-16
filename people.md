@@ -84,14 +84,14 @@ people:
     - Joined Czech Technical Univeristy, 2018
     note: "I am looking to work with new programming languages and modifications to programming languages that enable transparent networked computation."
     
-  - type: researcher
-    name: Celeste Hollenbeck
-    photo: celeste_hollenbeck.jpg
-    title: Research assistant
-    email: hollenbeck.c@husky.neu.edu
-    bio:
-    - Joined Czech Technical University, 2018
-    note: "I am figuring out how we can combine compilers with machine learning to help optimize code."
+#  - type: researcher
+#    name: Celeste Hollenbeck
+#    photo: celeste_hollenbeck.jpg
+#    title: Research assistant
+#    email: hollenbeck.c@husky.neu.edu
+#    bio:
+#    - Joined Czech Technical University, 2018
+#    note: "I am figuring out how we can combine compilers with machine learning to help optimize code."
    
   - type: student
     name: Jan Ječmen
