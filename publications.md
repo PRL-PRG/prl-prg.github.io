@@ -39,13 +39,13 @@ publications:
    - "Distinguished Artifact Award"
    links:
    - text: PDF
-     link: https://hal.archives-ouvertes.fr/hal-01854879v1
+     link: http://fikovnik.net/publications/ISSTA18.pdf
    - text: HTML
      link: https://conf.researchr.org/event/issta-2018/issta-2018-technical-papers-tests-from-traces-automated-unit-test-generation-for-r
    - text: Slides
      link: https://docs.google.com/presentation/d/1St2fMYfmrsp0Wxido7Pyj_d9qp3jjs24M4W6yWx-QPU/edit#slide=id.g3b5286a051_2_338
    - text: DOI
-     link: 10.1145/3213846.3213863
+     link: https://doi.org/10.1145/3213846.3213863
    - text: Artifact
      link: https://doi.org/10.5281/zenodo.1306437
 
