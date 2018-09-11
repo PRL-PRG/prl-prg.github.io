@@ -13,7 +13,12 @@ publications:
    authors: "Guido Chari, Javier Pímas, Jan Vitek, and Olivier Fluckiger"
    publication: "Dynamics Language Symposium"
    short_publication: "DLS'18"
-   note: "Accepted."
+   links:
+   - text: PDF
+     link: http://charig.github.io/papers/SCDE-DLS18.pdf
+   - text: DOI
+     link: https://doi.org/10.1145/3276945.3276948
+
 
 # July 15-21
  - year: 2018
