@@ -16,4 +16,4 @@ how to express computation.
 This project has received funding from the European Union’s Horizon 2020 research 
 and innovation programme under grant agreement No 695412.
 
-More information at [https://prl-prg-erc.github.io](https://prl-prg-erc.github.io)
+More information at [https://ele-prl-prg.github.io](https://ele-prl-prg.github.io)
