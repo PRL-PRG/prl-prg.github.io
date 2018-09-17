@@ -59,9 +59,9 @@ publications:
    - "ecoop_artifact_evaluated"
    links:
    - text: PDF
-     link: (http://benchung.github.io/papers/ecoop18.pdf
+     link: http://benchung.github.io/papers/ecoop18.pdf
    - text: DOI
-     link: 10.4230/LIPIcs.ECOOP.2018.12
+     link: https://doi.org/10.4230/LIPIcs.ECOOP.2018.12
 
 # July 10-13
  - year: 2018
