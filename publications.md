@@ -15,7 +15,7 @@ publications:
    short_publication: "DLS'18"
    links:
    - text: PDF
-     link: http://charig.github.io/papers/SCDE-DLS18.pdf
+     link: https://charig.github.io/assets/papers/SCDE-DLS.pdf
    - text: DOI
      link: https://doi.org/10.1145/3276945.3276948
 
