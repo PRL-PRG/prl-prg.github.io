@@ -19,6 +19,22 @@ publications:
    - text: DOI
      link: https://doi.org/10.1145/3276945.3276948
 
+# September 24-26
+ - year: 2018
+   title: "Contextual equivalence for a probabilistic language with continuous random variables and recursion"
+   authors: "Mitchell Wand, Ryan Culpepper, Theophilos Giannalopoulos, and Andrew Cobb"
+   publication: "International Conference on Functional Programming"
+   short_publication: "ICFP'18"
+   badges:
+   - "acm_artifact_available"
+   - "acm_artifact_evaluated_functional"
+   links:
+   - text: DOI
+     link: https://doi.org/10.1145/3236782
+   - text: arXiv
+     link: https://arxiv.org/abs/1807.02809
+   - text: Artifact
+     link: https://dx.doi.org/10.1145/3235042
 
 # July 15-21
  - year: 2018
