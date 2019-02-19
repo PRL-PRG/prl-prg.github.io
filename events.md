@@ -18,6 +18,8 @@ exploring the state of the art in programming language research and practice.
 
 More information at [https://pliss2019.github.io](https://pliss2019.github.io).
 
+<hr/>
+
 ## Programming Language Implementation Summer School 2017
 ### May 20 -- 27, 2017 in Bertinoro, Italy
 
