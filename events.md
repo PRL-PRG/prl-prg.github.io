@@ -3,6 +3,9 @@ layout: default
 title: Events
 ---
 
+
+![PLISS logo](images/pliss-logo-small.png){:style="float: left;margin-right: 25px;margin-top: 7px; clear: right; overflow: auto; padding-bottom: 230px"}
+
 ## Programming Language Implementation Summer School 2019
 ### May 19 -- 24, 2019 in Bertinoro, Italy
 
@@ -19,6 +22,8 @@ exploring the state of the art in programming language research and practice.
 More information at [https://pliss2019.github.io](https://pliss2019.github.io).
 
 <hr/>
+
+![PLISS logo](images/pliss-logo-small.png){:style="float: left;margin-right: 25px;margin-top: 7px; clear: right; overflow: auto; padding-bottom: 230px"}
 
 ## Programming Language Implementation Summer School 2017
 ### May 20 -- 27, 2017 in Bertinoro, Italy
