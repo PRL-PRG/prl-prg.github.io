@@ -5,9 +5,34 @@ displayed_years:
  - 2018
  - 2017
 publications:
+
+##### 2019 #####
+
 ##### 2018 #####
 
 # November 4-9 
+ - year: 2018
+   title: "Julia: dynamism and performance reconciled by design"
+   authors: "Jeff Bezanson, Jiahao Chen, Benjamin Chung, Stefan Karpinski, Viral B. Shah, Jan Vitek, Lionel Zoubritzky"
+   publication: "Object-oriented Programming, Systems, Languages, and Applications"
+   short_publication: "OOPSLA'19"
+   links:
+   - text: PDF
+     link: http://delivery.acm.org/10.1145/3280000/3276490/oopsla18main-p214-p.pdf?ip=147.32.232.150&id=3276490&acc=OA&key=D6C3EEB3AD96C931%2E9BD1EC80ACA8C1C5%2E4D4702B0C3E38B35%2E6D218144511F3437&__acm__=1550575995_9e7f7d6127c1291be45982174f771e3a
+   - text: DOI
+     link: https://doi.org/10.1145/3276490
+
+ - year: 2018
+   title: "Julia subtyping: a rational reconstruction"
+   authors: "Francesco Zappa Nardelli, Julia Belyakova, Artem Pelenitsyn, Benjamin Chung, Jeff Bezanson, and Jan Vitek"
+   publication: "Object-oriented Programming, Systems, Languages, and Applications"
+   short_publication: "OOPSLA'19"
+   links:
+   - text: PDF
+     link: http://delivery.acm.org/10.1145/3280000/3276483/oopsla18main-p201-p.pdf?ip=147.32.232.150&id=3276483&acc=OA&key=D6C3EEB3AD96C931%2E9BD1EC80ACA8C1C5%2E4D4702B0C3E38B35%2E6D218144511F3437&__acm__=1550575809_0e20f7974cd6983125acf0a46a7e47b8
+   - text: DOI
+     link: https://doi.org/10.1145/3276483
+
  - year: 2018
    title: "Self-Contained Development Environments"
    authors: "Guido Chari, Javier Pímas, Jan Vitek, and Olivier Fluckiger"
