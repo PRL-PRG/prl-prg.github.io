@@ -16,6 +16,7 @@ undergraduates for research in the field. This will be done through a
 combination of lectures on language implementation techniques and short talks
 exploring the state of the art in programming language research and practice.
 
+More information at [https://pliss2019.github.io](https://pliss2019.github.io).
 
 ## Programming Language Implementation Summer School 2017
 ### May 20 -- 27, 2017 in Bertinoro, Italy
