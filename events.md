@@ -3,6 +3,20 @@ layout: default
 title: Events
 ---
 
+## Programming Language Implementation Summer School 2019
+### May 19 -- 24, 2019 in Bertinoro, Italy
+
+*Programming languages are our interface to the myriad of computer systems we
+interact with on a daily basis. They allow us to craft complex sequences of
+operations at increasing high levels of abstraction. How are these languages
+designed? How are they implemented? How do we evaluate them?*
+
+The Summer School's goal is to prepare early graduate students and advanced
+undergraduates for research in the field. This will be done through a
+combination of lectures on language implementation techniques and short talks
+exploring the state of the art in programming language research and practice.
+
+
 ## Programming Language Implementation Summer School 2017
 ### May 20 -- 27, 2017 in Bertinoro, Italy
 
