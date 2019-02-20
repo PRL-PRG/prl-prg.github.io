@@ -17,3 +17,16 @@ This project has received funding from the European Union’s Horizon 2020 resea
 and innovation programme under grant agreement No 695412.
 
 More information at [https://ele-prl-prg.github.io](https://ele-prl-prg.github.io)
+
+<hr/>
+
+## Big Code: Scalable Analysis of Massive Code Bases
+
+Computer code is increasingly a shared resource. Web sites such as GitHub and
+BitBucket host tens of millions of software projects. With great amounts of
+code, come great opportunities and challenges.The Big Code project aims to
+automatically extract insights from large code bases by a combination of static
+program analysis and machine learning. The purpose of the project is to address
+three challenge problems: language ecosystem evolution, predictive workload
+performance modelling, synthesis of personalized programming hints.
+
