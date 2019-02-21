@@ -30,8 +30,8 @@ program analysis and machine learning. The purpose of the project is to address
 three challenge problems: language ecosystem evolution, predictive workload
 performance modelling, synthesis of personalized programming hints.
 
-This project is supported from The Czech Operational Programme "Research, 
-Development, and Education, under grant agreement No. 
-CZ.02.1.01/0.0/0.0/15_003/0000421.
+This project is supported by the Czech Ministry of Education, Youth and Sports
+from the Czech Operational Programme *Research, Development, and Education*,
+under grant agreement No. CZ.02.1.01/0.0/0.0/15_003/0000421.
 
 
