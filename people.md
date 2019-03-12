@@ -92,7 +92,7 @@ people:
 #    bio:
 #    - Joined Czech Technical University, 2018
 #    note: "I am figuring out how we can combine compilers with machine learning to help optimize code."
-   
+
   - type: student
     name: Jan Ječmen
     photo: jan_jecmen.jpg
@@ -101,6 +101,22 @@ people:
     bio:
     - Joined Czech Technical University, 2016
     note: "I am a master's student at FIT CTU. I am interested in implementation of programming languages."
+
+  - type: student
+    name: Petr Maj
+    photo: petr_maj.jpg
+    title: PhD student
+    email: majpetr@fit.cvut.cz
+    web: https://peta.bitbucket.io
+    bio:
+    - Joined Czech Technical University, 2016   
+    - Worked at 0xdata (Silicon Walley, CA), 2012-2013
+    - Worked at SN Systems (Bristol, UK), 2010-2012
+    - Graduate Student at Purdue, IN, 2009-2010
+    - Visiting researcher at University of Bristol, UK, 2006-2007
+    note: "I used to work professionally on PS3 and PS Vita compilers and toolchains. I am interested in design, analysis and optimization of programming languages (mostly dynamic), big code & synthesis and embedded systems. Currently I am working on large scale analysis of code on Github (mostly JavaScript)." 
+
+
 
   - type: alumni
     name: Julia Belyakova
