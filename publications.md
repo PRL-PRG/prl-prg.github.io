@@ -10,6 +10,14 @@ publications:
 
 ##### 2018 #####
 
+ - year: 2018
+   title: "Platform-Independent Dynamic Taint Analysis for JavaScript"
+   authors: "Rezwana Karim, Frank Tip, Alena Sochůrková, Koushik Sen"
+   publication: "IEEE Transactions on Software Engineering (to appear)"
+   links:
+   - text: PDF
+     link: https://www.franktip.org/pubs/tse2018.pdf
+
 # November 4-9 
  - year: 2018
    title: "Julia: dynamism and performance reconciled by design"
