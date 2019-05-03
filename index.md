@@ -2,14 +2,14 @@
 layout: index
 title: Home
 news:
-#  - date: 'April 2019'
-#    blurm: 'Jan Vitek, Paley Li, Ryan Culpepper, and Artem Pelenitsyn co-organize [ETAPS 2019](https://conf.researchr.org/committee/etaps-2019/etaps-2019-organizing-committee/).'
+  - date: 'April 2019'
+    blurb: '**Jan Vitek**, **Ryan Culpepper**, **Petr Maj**, **Konrad Siek**, **Guido Chari**, and **Lucie Lerch** co-organize **[ETAPS 2019](https://conf.researchr.org/committee/etaps-2019/etaps-2019-organizing-committee/)**.'
 
-#  - date: 'November 2018'
-#    blurb: 'Guido Chari co-organizes [META'18 : Workshop on Meta-Programming Techniques and Reflection](https://2018.splashcon.org/track/meta-2018/) (part of [SPLASH](https://2018.splashcon.org/)).'
+  - date: 'November 2018'
+    blurb: '**Guido Chari** co-organizes **[META 2018 : Workshop on Meta-Programming Techniques and Reflection](https://2018.splashcon.org/track/meta-2018/) (part of [SPLASH](https://2018.splashcon.org/))**.'
 
-#  - date: 'November 2018'
-#    blurb: 'Jan Vitek, Filip Křikava, Paley Li, and Konrad Siek co-organize [SPLASH 2018](https://2018.splashcon.org/committee/splash-2018-organizing-committee)'
+  - date: 'November 2018'
+    blurb: '**Jan Vitek**, **Filip Křikava**, **Paley Li**, and **Konrad Siek** co-organize **[SPLASH 2018](https://2018.splashcon.org/committee/splash-2018-organizing-committee)**.'
 
   - date: 'July 2018'
     blurb: '**[Flexible Alias Protection](http://janvitek.org/pubs/ecoop98.pdf)**, a paper by **James Noble, Jan Vitek, and John Potter** receives the **[2018 AITO Test of Time award at ECOOP](http://www.aito.org/ToT/2018.html)**.'
