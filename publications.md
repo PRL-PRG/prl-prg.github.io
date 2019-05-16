@@ -93,7 +93,7 @@ publications:
    - "Distinguished Artifact Award"
    links:
    - text: PDF
-     link: http://fikovnik.net/publications/ISSTA18.pdf
+     link: https://hal.inria.fr/hal-2131523v1/document
    - text: HTML
      link: https://conf.researchr.org/event/issta-2018/issta-2018-technical-papers-tests-from-traces-automated-unit-test-generation-for-r
    - text: Slides
@@ -268,7 +268,7 @@ publications:
    publication: "R. de Lemos et al. book Self-Adaptive Systems III, LNCS 9640"
    links:
    - text: PDF
-     link: https://link.springer.com/content/pdf/10.1007%2F978-3-319-74183-3_9.pdf
+     link: https://hal.inria.fr/hal-01257205v2/document
    - text: DOI
      link: https://doi.org/10.1007/978-3-319-74183-3
 
@@ -280,7 +280,7 @@ publications:
    note: ""
    links:
    - text: PDF
-     link: https://hal.inria.fr/hal-01475635.pdf
+     link: https://hal.inria.fr/hal-01475635/document
    - text: DOI
      link: http://dx.doi.org/10.1109/SEAMS.2017.15
 
