@@ -8,6 +8,18 @@ displayed_years:
 publications:
 
 ##### 2019 #####
+
+ - year: 2019
+   title: "Online Abstraction with MDP Homomorphisms for Deep Learning"
+   authors: "Ondřej Bíža, Robert Platt"
+   publication: "International Conference on Autonomous Agents and MultiAgent Systems"
+   short_publication: "AAMAS'19"
+   grants: BigCode
+   links:
+   - text: arXiv
+     link: https://arxiv.org/abs/1811.12929
+   - text: HTML
+     link: https://dl.acm.org/citation.cfm?id=3331812
  
  - year: 2019
    title: "R Melts Brains: An IR for First-Class Environments and Lazy Effectful Arguments"
