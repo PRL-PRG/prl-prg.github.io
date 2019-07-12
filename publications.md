@@ -1,22 +1,101 @@
 ---
 layout: publications
 title: Publications
-displayed_years: 
+displayed_years:
+ - 2019 
  - 2018
  - 2017
 publications:
 
 ##### 2019 #####
-
+ 
+ - year: 2019
+   title: "R Melts Brains: An IR for First-Class Environments and Lazy Effectful Arguments"
+   authors: "Olivier Fluckiger, Guido Chari, Jan Jecmen, Ming-Ho Yee, Jakob Hain, Jan Vitek"
+   publication: "Dynamic Languages Symposium"
+   short_publication: "DLS'19"
+   publication_note: "to appear"
+   links:
+   - text: arXiv
+     link: https://arxiv.org/abs/1907.05118
+ 
+ - year: 2019
+   title: "Julia's Efficient Algorithm for Subtyping Unions and Covariant Tuples"
+   authors: "Benjamin Chung, Francesco Zappa Nardelli, Jan Vitek"
+   publication: "European Conference on Object-Oriented Programming"
+   short_publication: "ECOOP'19"
+   links:
+   - text: DOI
+     link: https://doi.org/10.4230/LIPIcs.ECOOP.2019.24
+   - text: PDF
+     link: http://janvitek.org/pubs/ecoop19.pdf
+ 
+ - year: 2019
+   title: "On the impact of Programming Languages Code Quality"
+   authors: "Emery D. Berger, Celeste Hollenbeck, Petr Maj, Olga Vitek, Jan Vitek"
+   publication: "ACM Transactions on Programming Languages and Systems"
+   publication_note: "to appear"
+   links:
+   - text: arXiv
+     link: https://arxiv.org/abs/1901.10220
+   - text: PDF
+     link: http://janvitek.org/pubs/toplas19.pdf
+ 
+ - year: 2019
+   title: "Can Android Run on Time? Extending and Measuring the Android Platform's Timeliness"
+   authors: "Yin Yan, Girish Gokul, Karthik Dantu, Steven Y. Ko, Lukasz Ziarek, Jan Vitek"
+   publication: "ACM Transactions on Embedded Computing Systems, Vol 17, No. 6"
+   links:
+   - text: DOI
+     link: https://dx.doi.org/10.1145/3289257
+   - text: PDF
+     link: http://janvitek.org/pubs/tecs18.pdf
+     
+ 
+ - year: 2019
+   title: "How to Evaluate the Performance of Gradual Type Systems"
+   authors: "Ben Greenman, Asumu Takikawa, Max S. New, Daniel Feltey, Robert Bruce Findler, Jan Vitek, Matthias Felleisen"
+   publication: "Journal of Functional Programming, Vol. 29"
+   links:
+   - text: DOI 
+     link: http://dx.doi.org/10.1017/S0956796818000217
+   - text: PDF
+     link: http://users.cs.northwestern.edu/~robby/pubs/papers/gtnffvf-jfp-2016.pdf
+ 
+ - year: 2019
+   title: "Feature-Specific Profiling"
+   authors: "Leif Andersen, Vincent St-Amour, Jan Vitek, Matthias Felleisen"
+   publication: "Transactions on Programming Languages and Systems, Vol 41, Issue 1"
+   links:
+   - text: DOI
+     link: https://doi.org/10.1145/3275519
+   - text: PDF
+     link: http://users.cs.northwestern.edu/~stamourv/papers/feature-specific-profiling.pdf
+ 
+ - year: 2019
+   title: "Verifying a Concurrent Garbage Collector with a Rely-Guarantee Methodology"
+   authors: "Yannick Zakowski, David Cachera, Delphine Demange, Gustavo Petri, David Pichardie, Suresh Jagannathan, Jan Vitek"
+   publication: "Journal of Automated Reasoning, Vol. 63, Issue 2"
+   links:
+   - text: DOI
+     link: https://doi.org/10.1007/s10817-018-9489-x
+   - text: PDF
+     link: http://janvitek.org/pubs/jar18.pdf
+ 
 ##### 2018 #####
 
  - year: 2018
    title: "Platform-Independent Dynamic Taint Analysis for JavaScript"
    authors: "Rezwana Karim, Frank Tip, Alena Sochůrková, Koushik Sen"
-   publication: "IEEE Transactions on Software Engineering (to appear)"
+   publication: "IEEE Transactions on Software Engineering"
+   publication_note: "early access"
    links:
+   - text: DOI
+     link: https://doi.org/10.1109/TSE.2018.2878020
    - text: PDF
      link: https://www.franktip.org/pubs/tse2018.pdf
+   - text: HTML
+     link: https://ieeexplore.ieee.org/document/8511058
 
 # November 4-9 
  - year: 2018

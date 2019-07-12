@@ -14,10 +14,10 @@
         {% for year in include.years %}
         <div class="row">
             <div class="col-md-12">
-                <div class="col-sm-offset-3">
+                <!--div class="col-sm-offset-3"-->
                     <span class="small-header">{{ year }}</span>
-                </div>
-                <hr/>
+                <!--/div-->
+                <hr style="border-top: 1px solid black; margin-top: 0px";/>
             </div>
         </div>
         {% for pub in include.publications %}
@@ -25,13 +25,6 @@
         {% continue %}
         {% endif %}
         <div class="row">
-            <div class="col-sm-3 badge-container">
-                {% for badge in pub.badges %}
-                <div class="badge-wrapper">
-                   <img src="images/publications/{{badge}}.png" alt="{{badge}}"/>
-                </div>
-                {% endfor %}
-            </div>
                 
             <div class="col-sm-9">
                 <span class="pub-title">{{ pub.title }}</span>. <br/>
@@ -39,9 +32,17 @@
                   
                 In <span class="pub-publication">
                     {% if pub.short_publication %}
-                    {{ pub.publication }} ({{ pub.short_publication }}).
+                    {% if pub.publication_note %}
+                    {{ pub.short_publication }}: {{ pub.publication }} <span class="pub-notes">({{ pub.publication_note }})</span>.
+                    {% else %}
+                    {{ pub.short_publication }}: {{ pub.publication }}.
+                    {% endif %}
+                    {% else %}
+                    {% if pub.publication_note %}
+                    {{ pub.publication }} <span class="pub-notes">({{ pub.publication_note }})</span>.
                     {% else %}
                     {{ pub.publication }}.
+                    {% endif %}
                     {% endif %}
                 </span> <!--br/-->
                   
@@ -52,7 +53,7 @@
                 </span>
                   
                 {% if pub.links %}
-                <div class="pub-margin-15">
+                <div> <!--class="pub-margin-15"-->
                     {% for link in pub.links %}
                     <a href="{{ link.link }}">[{{ link.text }}]</a>
                     {% endfor %}
@@ -67,14 +68,24 @@
                 
                 {% if pub.long_note %}
                 <div class="pub-margin-15">
-                    <span class="pub-long-notes">{{ pub.long_note | markdownify }}.</span>
+                    <span class="pub-long-notes">{{ pub.long_note | markdownify }}</span>
                 </div>
+
+                <br/>
                 {% endif %}
               </div>
+
+            <div class="col-sm-3 badge-container">
+                {% for badge in pub.badges %}
+                <div class="badge-wrapper">
+                   <img src="images/publications/{{badge}}.png" alt="{{badge}}"/>
+                </div>
+                {% endfor %}
+            </div>
             </div>
             
             {% if forloop.last == false %}
-            <hr/>
+            <hr style="margin-top: 1px; margin-bottom: 10px;"/>
             {% endif %}
           
           {% endfor %}
