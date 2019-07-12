@@ -105,7 +105,7 @@ publications:
    short_publication: "OOPSLA'19"
    links:
    - text: PDF
-     link: http://delivery.acm.org/10.1145/3280000/3276490/oopsla18main-p214-p.pdf?ip=147.32.232.150&id=3276490&acc=OA&key=D6C3EEB3AD96C931%2E9BD1EC80ACA8C1C5%2E4D4702B0C3E38B35%2E6D218144511F3437&__acm__=1550575995_9e7f7d6127c1291be45982174f771e3a
+     link: http://janvitek.org/pubs/oopsla18b.pdf
    - text: DOI
      link: https://doi.org/10.1145/3276490
 
@@ -116,7 +116,7 @@ publications:
    short_publication: "OOPSLA'19"
    links:
    - text: PDF
-     link: http://delivery.acm.org/10.1145/3280000/3276483/oopsla18main-p201-p.pdf?ip=147.32.232.150&id=3276483&acc=OA&key=D6C3EEB3AD96C931%2E9BD1EC80ACA8C1C5%2E4D4702B0C3E38B35%2E6D218144511F3437&__acm__=1550575809_0e20f7974cd6983125acf0a46a7e47b8
+     link: http://janvitek.org/pubs/oopsla18a.pdf
    - text: DOI
      link: https://doi.org/10.1145/3276483
 
