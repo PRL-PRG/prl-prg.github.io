@@ -11,7 +11,7 @@ publications:
  
  - year: 2019
    title: "R Melts Brains: An IR for First-Class Environments and Lazy Effectful Arguments"
-   authors: "Olivier Fluckiger, Guido Chari, Jan Jecmen, Ming-Ho Yee, Jakob Hain, Jan Vitek"
+   authors: "Olivier Flückiger, Guido Chari, Jan Ječmen, Ming-Ho Yee, Jakob Hain, Jan Vitek"
    publication: "Dynamic Languages Symposium"
    short_publication: "DLS'19"
    publication_note: "to appear"
@@ -122,7 +122,7 @@ publications:
 
  - year: 2018
    title: "Self-Contained Development Environments"
-   authors: "Guido Chari, Javier Pímas, Jan Vitek, and Olivier Fluckiger"
+   authors: "Guido Chari, Javier Pímas, Jan Vitek, and Olivier Flückiger"
    publication: "Dynamics Language Symposium"
    short_publication: "DLS'18"
    links:
@@ -256,7 +256,7 @@ publications:
 # January 7 - 13
  - year: 2018
    title: "Correctness of Speculative Optimizations with Dynamic Deoptimization"
-   authors: "Olivier Fluckiger, Gabriel Scherer, Ming-Ho Yee, Aviral Goel, Amal Ahmed, and Jan Vitek"
+   authors: "Olivier Flückiger, Gabriel Scherer, Ming-Ho Yee, Aviral Goel, Amal Ahmed, and Jan Vitek"
    publication: "Principles of Programming Languages"
    short_publication: "POPL'18"
    links:
