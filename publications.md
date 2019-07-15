@@ -10,6 +10,16 @@ publications:
 ##### 2019 #####
 
  - year: 2019
+   title: "Syntax Templates in Racket"
+   authors: "Ryan Culpepper"
+   short_publication: "Scheme'19"
+   publication: "Scheme and Functional Programming Workshop"
+   publication_note: "to appear"
+   links:
+   - text: HTML
+     link: https://icfp19.sigplan.org/home/scheme-2019
+
+ - year: 2019
    title: "Online Abstraction with MDP Homomorphisms for Deep Learning"
    authors: "Ondřej Bíža, Robert Platt"
    publication: "International Conference on Autonomous Agents and MultiAgent Systems"
@@ -20,6 +30,17 @@ publications:
      link: https://arxiv.org/abs/1811.12929
    - text: HTML
      link: https://dl.acm.org/citation.cfm?id=3331812
+
+ - year: 2019
+   title: "From Macros to DSLs: The Evolution of Racket"
+   authors: "Ryan Culpepper, Matthias Felleisen, Matthew Flatt, Shriram Krishnamurthi"
+   publication: "Summit on Advances in Programming Languages"
+   short_publication: "SNAPL'19"
+   links:
+   - text: HTML
+     link: http://drops.dagstuhl.de/opus/volltexte/2019/10548/
+   - text: DOI
+     link: http://dx.doi.org/10.4230/LIPIcs.SNAPL.2019.5
  
  - year: 2019
    title: "R Melts Brains: An IR for First-Class Environments and Lazy Effectful Arguments"
