@@ -9,6 +9,22 @@ publications:
 
 ##### 2019 #####
 
+ - year: 2019 
+   title: "Scala Implicits Are Everywhere: A Large-Scale Study of the Use of Scala Implicits in the Wild"
+   authors: "Filip Křikava, Heather Miller, and Jan Vitek"
+   short_publication: "SPLASH'19 OOPSLA"
+   publication: "Object-Oriented Programming, Systems, Languages & Applications"
+   grants: "ELE"
+   badges:
+   - "acm_artifact_evaluated_reusable"
+   - "acm_artifact_available"
+   - "acm_artifact_evaluated_functional"
+   links:
+   - text: Zenodo
+     link: https://zenodo.org/record/3407292
+   - text: Artifact
+     link: https://zenodo.org/record/3369436
+
  - year: 2019
    title: "Syntax Templates in Racket"
    authors: "Ryan Culpepper"
