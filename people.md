@@ -108,15 +108,6 @@ people:
 #    - Joined Czech Technical University, 2018
 #    note: "I am figuring out how we can combine compilers with machine learning to help optimize code."
 
-  - type: researcher
-    name: Ondřej Bíža
-    photo: ondrej_biza.jpg
-    title: Researcher
-    email: biza.o@husky.neu.edu
-    web: https://sites.google.com/view/obiza
-    bio:
-    - Joined Czech Technical University, 2016
-    note: "I work in a subfield of Machine Learning called Reinforcement Learning. My aim is to create machine that reason about the world in abstract terms and can reuse these abstractions to learn new skills faster."
 
   - type: student
     name: Jan Ječmen
@@ -142,6 +133,15 @@ people:
     note: "I used to work professionally on PS3 and PS Vita compilers and toolchains. I am interested in design, analysis and optimization of programming languages (mostly dynamic), big code & synthesis and embedded systems. Currently I am working on large scale analysis of code on Github (mostly JavaScript)." 
 
 
+  - type: alumni
+    name: Ondřej Bíža
+    photo: ondrej_biza.jpg
+    title: Researcher
+    email: biza.o@husky.neu.edu
+    web: https://sites.google.com/view/obiza
+    bio: October 2019 - July 2019
+#    - Joined Czech Technical University, 2016
+    note: "I work in a subfield of Machine Learning called Reinforcement Learning. My aim is to create machine that reason about the world in abstract terms and can reuse these abstractions to learn new skills faster."
 
   - type: alumni
     name: Julia Belyakova
