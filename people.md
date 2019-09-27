@@ -141,7 +141,7 @@ people:
     web: https://sites.google.com/view/obiza
     bio: October 2019 - July 2019
 #    - Joined Czech Technical University, 2016
-    note: "I work in a subfield of Machine Learning called Reinforcement Learning. My aim is to create machine that reason about the world in abstract terms and can reuse these abstractions to learn new skills faster."
+#    note: "I work in a subfield of Machine Learning called Reinforcement Learning. My aim is to create machine that reason about the world in abstract terms and can reuse these abstractions to learn new skills faster."
 
   - type: alumni
     name: Julia Belyakova
@@ -151,7 +151,7 @@ people:
     bio: August 2017 - August 2018
 #    - Joined Czech Technical University, 2017
 #    - MSc, Southern Federal University, 2014
-    note: "I am interested in programming languages, type theory, generic programming, and theorem proving. I was working on a better support for generic programming in object-oriented languages, and now work around the Julia programming language."
+#    note: "I am interested in programming languages, type theory, generic programming, and theorem proving. I was working on a better support for generic programming in object-oriented languages, and now work around the Julia programming language."
 
   - type: alumni
     name: Artem Pelenitsyn
@@ -161,7 +161,7 @@ people:
     web: http://mmcs.sfedu.ru/~ulysses
     bio:
     - August 2017 - August 2018
-    note: "I am interested in typed functional programming languages, type theory, mathematics of program construction. In the past I worked for better software engineering principles of building a computer algebra software in C++, especially using what C++ world knows as generic programming. For now I'm mostly working on a principled approach to the Julia programming language."  
+#    note: "I am interested in typed functional programming languages, type theory, mathematics of program construction. In the past I worked for better software engineering principles of building a computer algebra software in C++, especially using what C++ world knows as generic programming. For now I'm mostly working on a principled approach to the Julia programming language."  
 #    - Joined Czech Technical University, 2017
 #    - MSc, Southern Federal University, 2009
 #    - BSc, Southern Federal University, 2007
@@ -173,7 +173,7 @@ people:
     email: chakshugoyal97@gmail.com
     bio:
     - May 2018 - July 2018
-    note: "I'm a third year dual degree (B.Tech + M.Tech) student at IIT Delhi. My project concerns the analysis of the eval function in R."
+#    note: "I'm a third year dual degree (B.Tech + M.Tech) student at IIT Delhi. My project concerns the analysis of the eval function in R."
 
   - type: alumni
     name: Borja Lorente
@@ -182,7 +182,7 @@ people:
     email: blorente.me@gmail.com
     bio:
     - October 2017 - June 2018
-    note: "I am interested in contributing to the design and implementation of languages. Specifically, I would like to explore the growth and evolution patterns of language communities and ecosystems."
+#   note: "I am interested in contributing to the design and implementation of languages. Specifically, I would like to explore the growth and evolution patterns of language communities and ecosystems."
 
   - type: alumni
     name: Paley Li
@@ -191,7 +191,7 @@ people:
     email: paley.li@fit.cvut.cz
     bio:
     - May 2017 - May 2018
-    note: "My research interests is in programming languages, specifically type theory, ownership types, and local reasoning for memory management. Most recently, I have been working on formalising object cloning for ownership types."
+#    note: "My research interests is in programming languages, specifically type theory, ownership types, and local reasoning for memory management. Most recently, I have been working on formalising object cloning for ownership types."
 
   - type: alumni
     name: Jakub Žitný
@@ -200,7 +200,7 @@ people:
     email: jakub.zitny@gmail.com
     bio:
     - January 2016 - January 2017
-    note: "I worked on an analysis of large software repositories. This included exploring properties of JavaScript projects on GitHub, searching for clones within the projects and looking for ways to apply machine learning techniques to improve security and performance of JavaScript code without executing it."
+#    note: "I worked on an analysis of large software repositories. This included exploring properties of JavaScript projects on GitHub, searching for clones within the projects and looking for ways to apply machine learning techniques to improve security and performance of JavaScript code without executing it."
     
   - type: alumni
     name: Michal Vácha
@@ -209,7 +209,7 @@ people:
     email: vachamic@fit.cvut.cz
     bio:
     - February - May 2016
-    note: "I worked in PRL-PRG lab on my bachelors thesis. My assignment was to implement serialization of closures in genthat, an automatic test generator for R."
+#    note: "I worked in PRL-PRG lab on my bachelors thesis. My assignment was to implement serialization of closures in genthat, an automatic test generator for R."
 
   - type: alumni
     name: Filippo Ghibellini
@@ -218,7 +218,7 @@ people:
     email: f.ghibellini@gmail.com
     bio:
     - August - May 2016
-    note: "While I was an intern in the PRG lab, I spent six months in Boston at Northeastern working on genthat, a tool for automated test generation for R packages."
+#    note: "While I was an intern in the PRG lab, I spent six months in Boston at Northeastern working on genthat, a tool for automated test generation for R packages."
 
   - type: alumni
     name: Alena Sochůrková
@@ -227,7 +227,7 @@ people:
     email: sochuale@fit.cvut.cz
     bio:
     - August 2016 - August 2017
-    note: ""
+#    note: ""
 
   - type: alumni
     name: Tomáš Licek
@@ -236,7 +236,7 @@ people:
     email: licekto@fit.cvut.cz
     bio:
     - October 2016 - May 2017
-    note: ""
+#    note: ""
 
   - type: alumni
     name: Jan Noha
@@ -245,7 +245,7 @@ people:
     email: nohajan@fit.cvut.cz
     bio:
     - October 2016 - May 2017
-    note: ""
+#    note: ""
 
   - type: admin
     name: Lucie Lerch
