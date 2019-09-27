@@ -75,6 +75,21 @@ people:
     - Joined Czech Technical University, 2018
     - PhD, Buenos Aires University, 2017
     note: "My main research interest aims at making programming languages more flexible. I am also interested in ensuring that dynamic PLs do not suffer from prohibitive performance overheads. In addition, I am interested in providing mechanism to help developers reason about the correctness of their programs."
+
+  - type: researcher
+    name: Alexander Kovalenko
+    photo: alexander_kovalenko.jpg
+    title: Post-doctoral researcher
+    email: kovalale@fit.cvut.cz
+    web:
+    bio:
+    - Joined Czech Technical University, 2019
+    - Post-doc at Johannes Kepler University 2018
+    - Post-doc at NOVA University Lisbon 2016
+    - Post-doc at Jaume I University 2013
+    - Post-doc at Brno University of Technology 2012
+    - Ph.D., Czech Technical University, 2012
+    note: "Being a curious person, I am fascinated by the new Machine Learning techniques, that can bring an additional value of intelligence to nearly every field in our lives. My current goal is to implement Machine Learning methods in the project."
    
   - type: researcher
     name: Colette Kerr
