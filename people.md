@@ -132,7 +132,17 @@ people:
     - Erasmus Scholarship at University of Bristol, UK, 2006-2007
     note: "I used to work professionally on PS3 and PS Vita compilers and toolchains. I am interested in design, analysis and optimization of programming languages (mostly dynamic), big code & synthesis and embedded systems. Currently I am working on large scale analysis of code on Github (mostly JavaScript)." 
 
+  - type: student
+    name: Jan Sliacky
+    photo: jan_sliacky.jpg
+    title: Master's student
+    email: sliacjan@fit.cvut.cz
+    web: https://github.com/Taskkill
+    bio:
+    - Joined Czech Technical University, 2016
+    note: "I currently work on Lambdulus. I like functional programming languages and various type systems. I hope to create one in the future."
 
+ 
   - type: alumni
     name: Ondřej Bíža
     photo: ondrej_biza.jpg
