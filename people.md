@@ -99,6 +99,17 @@ people:
     - Joined Czech Technical Univeristy, 2018
     note: "I am looking to work with new programming languages and modifications to programming languages that enable transparent networked computation."
     
+- type: researcher
+  name: Anna Bolotina
+  photo: anna_bolotina.png
+  title: Research assistant
+  email: ann-bolotina@yandex.ru
+  web: https://annbolotina.github.io
+  bio:
+  - Joined Czech Technical University, 2019
+  - BS, Southern Federal University, 2018
+  note: "I'm interested in PL design and implementation, compilers, and functional programming. I used to work on generic programming in Haskell. I also worked at SFedU on an educational programming language PascalABC.NET and explored syntactic sugar models. Currently, I am exploring the Racket language and macro system."
+    
 #  - type: researcher
 #    name: Celeste Hollenbeck
 #    photo: celeste_hollenbeck.jpg
