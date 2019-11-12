@@ -108,6 +108,26 @@ people:
 #    - Joined Czech Technical University, 2018
 #    note: "I am figuring out how we can combine compilers with machine learning to help optimize code."
 
+  - type: researcher
+    name: Anna Bolotina
+    photo: anna_bolotina.png
+    title: Research assistant
+#    email: ann-bolotina@yandex.ru
+    web: https://annbolotina.github.io
+    bio:
+    - Joined Czech Technical University, 2019
+    - BS, Southern Federal University, 2018
+    note: "I'm interested in PL design and implementation, compilers, and functional programming. I used to work on generic programming in Haskell. I also worked at SFedU on an educational programming language PascalABC.NET and explored syntactic sugar models. Currently, I am exploring the Racket language and macro system."
+
+  - type: researcher
+    name: Hyeyoung Shin
+    photo: hyeyoung_shin.jpg
+    title: Research Assistant
+    web: hyeyoungshin.org
+    bio:
+    - Joined Czech Technical Univeristy, 2019
+    - MA, Northeastern University, May 2019
+    note: "I am interested in logic and foundations of computing science, and more specifically programming languages theory. I am currently learning the R language and how to help programmers test their R programs better."
 
   - type: student
     name: Jan Ječmen
