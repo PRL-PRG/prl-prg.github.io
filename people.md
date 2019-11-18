@@ -123,7 +123,7 @@ people:
     name: Hyeyoung Shin
     photo: hyeyoung_shin.jpg
     title: Research Assistant
-    web: hyeyoungshin.org
+    web: https://hyeyoungshin.github.io/
     bio:
     - Joined Czech Technical Univeristy, 2019
     - MA, Northeastern University, May 2019
