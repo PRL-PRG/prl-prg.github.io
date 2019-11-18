@@ -110,15 +110,6 @@ people:
     - BS, Southern Federal University, 2018
     note: "I'm interested in PL design and implementation, compilers, and functional programming. I used to work on generic programming in Haskell. I also worked at SFedU on an educational programming language PascalABC.NET and explored syntactic sugar models. Currently, I am exploring the Racket language and macro system."
     
-#  - type: researcher
-#    name: Celeste Hollenbeck
-#    photo: celeste_hollenbeck.jpg
-#    title: Research assistant
-#    email: hollenbeck.c@husky.neu.edu
-#    bio:
-#    - Joined Czech Technical University, 2018
-#    note: "I am figuring out how we can combine compilers with machine learning to help optimize code."
-
   - type: researcher
     name: Hyeyoung Shin
     photo: hyeyoung_shin.jpg
