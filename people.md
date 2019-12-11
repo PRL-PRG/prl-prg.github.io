@@ -69,7 +69,7 @@ people:
     name: Guido Chari
     photo: guido_chari.jpg
     title: Post-doctoral researcher
-    email: guido.chari@fit.cvut.cz
+    email: charigui@fit.cvut.cz
     web: http://lafhis.dc.uba.ar/en/~gchari
     bio:
     - Joined Czech Technical University, 2018
