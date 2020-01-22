@@ -130,6 +130,17 @@ people:
     - MSc, Buenos Aires University, 2014
     note: "I am interested in object-oriented, dynamically typed reflective programming languages in the tradition of Smalltalk, Self and Newspeak. I am currently working on my PhD thesis directed by Dr. Gilad Bracha." 
 
+  - type: researcher
+    name: Jakob Hain
+    photo: jakob_hain.jpg
+    title: Research assistant 
+    email: jakobeha@gmail.com
+    web: https://jakobeha.github.io
+    bio:
+    - Joined Czech Technical University, 2020
+    - BA in Computer Science, Northeastern University, 2020
+    note: "I'm interested in program design, analysis, and verification, in order to make it easier for developers to create software. Currently I'm working with the R programming language."
+
   - type: student
     name: Jan Ječmen
     photo: jan_jecmen.jpg
