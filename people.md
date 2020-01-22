@@ -120,6 +120,16 @@ people:
     - MA, Northeastern University, May 2019
     note: "I am interested in logic and foundations of computing science, and more specifically programming languages theory. I am currently learning the R language and how to help programmers test their R programs better."
 
+  - type: researcher
+    name: Sebastián Krynski
+    photo: sebastian_krynski.jpg
+    title: Research assistant
+    email: skrynski@gmail.com
+    bio:
+    - Joined Czech Technical University, 2020
+    - MSc, Buenos Aires University, 2014
+    note: "I am interested in object-oriented, dynamically typed reflective programming languages in the tradition of Smalltalk, Self and Newspeak. I am currently working on my PhD thesis directed by Dr. Gilad Bracha." 
+
   - type: student
     name: Jan Ječmen
     photo: jan_jecmen.jpg
