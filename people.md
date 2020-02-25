@@ -17,6 +17,23 @@ people:
     note: "I work on the design and implementation of programming languages. I led the implementation of the first real-time Java virtual machine to be flight-tested. With Noble and Potter, I proposed what became known as Ownership Types.  I tried to understand JavaScript by dynamic analysis and am now looking at supporting scalable data analysis in R."
 
   - type: researcher
+    name: Christoph Kirsch
+    photo: christoph_kirsch.jpg
+    title: Professor
+    email: ck@cs.uni-salzburg.at 
+    web: http://www.cs.uni-salzburg.at/~ck/
+    bio:
+    - Joined Czech Technical University, 2020
+    - ACM Distinguished Speaker, 2017
+    - Visiting Professor at the Department of Civil and Environmental Engineering, Berkley, 2014
+    - ACM SIGBED chair, 2011-2013
+    - Visiting Scholar at the Department of Civil and Environmental Engineering, Berkley, 2008-2013
+    - Co-founded the International Conference on Embedded Software (EMSOFT), 2001
+    - Postdoc at the Department of Electrical Engineering and CS at the University of California, 1999-2004
+    - Dr.Ing. degree at Saarland University while at the Max Planck Institute for CS in Saarbrücken, 1999
+    note: ""
+
+  - type: researcher
     name: Tomáš Kalibera
     photo: tomas_kalibera.jpg
     title: Researcher
@@ -128,7 +145,7 @@ people:
     bio:
     - Joined Czech Technical University, 2020
     - MSc, Buenos Aires University, 2014
-    note: "I am interested in object-oriented, dynamically typed reflective programming languages in the tradition of Smalltalk, Self and Newspeak. I am currently working on my PhD thesis directed by Dr. Gilad Bracha." 
+    note: "I am interested in object-oriented, dynamically typed reflective programming languages in the tradition of Smalltalk, Self and Newspeak. I am currently working on the R language implementation. I am also working on my PhD thesis directed by Dr. Gilad Bracha." 
 
   - type: researcher
     name: Jakob Hain
