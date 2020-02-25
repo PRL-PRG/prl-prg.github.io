@@ -29,7 +29,7 @@ people:
     - ACM SIGBED chair, 2011-2013
     - Visiting Scholar at University of California, Berkeley, 2008-2013
     - Co-founder of EMSOFT), 2001
-    - Postdoc at the University of California, Berkeley, 1999-2004
+    - Postdoc at University of California, Berkeley, 1999-2004
     - Dr.Ing. degree at Saarland University while at the Max Planck Institute for CS in Saarbrücken, 1999
     note: "I am interested in programming languages and systems, in particular concurrent programming and memory management. I also care about formal methods, especially bit-precise reasoning through symbolic execution and bounded model checking. People in computer science know me for co-inventing logical execution time and the embedded programming language Giotto which by now have made their way into modern cars around the world."
 
