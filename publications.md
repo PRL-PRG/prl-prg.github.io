@@ -2,28 +2,146 @@
 layout: publications
 title: Publications
 displayed_years:
+ - 2020 
  - 2019 
  - 2018
  - 2017
 publications:
 
+##### 2020 #####
+ 
+# July 2020
+ - year: 2020
+   title: "Larger-than-memory R"
+   authors: "Konrad Siek, Colette Kerr"
+   publication: "The R User Conference"
+   short_publication: "useR!'20"
+   publication_note: "Talk, to appear"
+   grants: 
+   - ELE
+   - BC
+
+# February 27
+ - year: 2020
+   title: "Fast Sequence Combinators"
+   authors: "Anna Bolotina"
+   publication: "RACKETFEST'20"
+   publication_note: Talk
+   links:
+   - text: Slides
+     link: https://annbolotina.github.io/talks/conferences/racketfest2020.pdf
+   grants: 
+   - BC
+
 ##### 2019 #####
+
+# October 
+ - year: 2019
+   title: "On the design, implementation, and use of laziness in R"
+   authors: "Aviral Goel, Jan Vitek"
+   publication: "Object-Oriented Programming, Systems, Languages & Applications"
+   short_publication: "OOPSLA'19"
+   badges:
+   - "acm_artifact_available"
+   - "acm_artifact_evaluated_functional"
+   - "acm_artifact_evaluated_reusable"
+   links:
+   - text: PDF
+     link: http://janvitek.org/pubs/oopsla19a.pdf
+   - text: Artifact
+     link: https://doi.org/10.5281/zenodo.3369573
+   - text: DOI
+     link: https://doi.org/10.1145/3360579
+   - text: YouTube
+     link: https://www.youtube.com/watch?v=qLxz9HPP6wI
+   grants: 
+   - BC
+   - ELE
+
+# October
+ - year: 2019
+   title: "Lambdulus: teaching lambda calculus practically"
+   authors: "Jan Sliacky and Petr Maj"
+   publication: "SPLASH-E'19"
+   links:
+   - text: PDF
+     link: https://dl.acm.org/doi/pdf/10.1145/3358711.3361629
+   - text: DOI
+     link: https://doi.org/10.1145/3358711.3361629
+   grants:
+   - BC
+   - ELE
+
+# July 11
+ - year: 2019
+   title: "RDT: A Dynamic Tracing Framework for R"
+   authors: "Aviral Goel, Filip Křikava, Jan Vitek"
+   publication: "R Implementation, Optimization, and Tooling"
+   short_publication: "RIOT'19"
+   publication_note: "Talk"
+   links:
+   - text: DOI
+     link: https://doi.org/10.5281/zenodo.3625397
+
+# July 15-19
+ - year: 2019
+   title: "Julia's Efficient Algorithm for Subtyping Unions and Covariant Tuples (Pearl)"
+   authors: "Benjamin Chung, Francesco Zappa Nardelli, Jan Vitek"
+   publication: "European Conference on Object-Oriented Programming"
+   short_publication: "ECOOP'19"
+   links: 
+   - text: PDF
+     link: http://janvitek.org/pubs/ecoop19.pdf
+   - text: DOI
+     link: dx.doi.org/10.4230/LIPIcs.ECOOP.2019.24
+   - text: YouTube
+     link: https://www.youtube.com/watch?v=1FD-sRAiyh4
+   grants:
+   - ELE
+   - BC
+
+# July 15-19
+ - year: 2019
+   title: "Julia's Efficient Algorithm for Subtyping Unions and Covariant Tuples (Artifact)"
+   authors: "Benjamin Chung, Francesco Zappa Nardelli, Jan Vitek"
+   publication: "Dagstuhl Artifact Series, volume 5, number 2"
+   links: 
+   - text: PDF
+     link: https://drops.dagstuhl.de/opus/volltexte/2019/10785/pdf/DARTS-5-2-8.pdf 
+   - text: ZIP
+     link: https://drops.dagstuhl.de/opus/volltexte/2019/10785/artifact/DARTS-5-2-8-artifact-4d0356d94cd8d21f42e6b73de886f871.zip
+   - text: DOI
+     link: dx.doi.org/10.4230/DARTS.5.2.8 
+
+# April 1
+ - year: 2019
+   title: "Pattern-Based S-Expression Rewriting in Emacs"
+   authors: "Ryan Culpepper"
+   publication: "European Lisp Symposium"
+   short_publication: "ELS'19"
+   links:
+   - text: PDF
+     link: https://zenodo.org/record/2642093/files/sexprw.pdf
+   - text: DOI
+     link: https://doi.org/10.5281/zenodo.2642093
 
  - year: 2019 
    title: "Scala Implicits Are Everywhere: A Large-Scale Study of the Use of Scala Implicits in the Wild"
    authors: "Filip Křikava, Heather Miller, and Jan Vitek"
    short_publication: "SPLASH'19 OOPSLA"
    publication: "Object-Oriented Programming, Systems, Languages & Applications"
-   grants: "ELE"
    badges:
-   - "acm_artifact_evaluated_reusable"
    - "acm_artifact_available"
    - "acm_artifact_evaluated_functional"
+   - "acm_artifact_evaluated_reusable"
    links:
-   - text: Zenodo
-     link: https://zenodo.org/record/3407292
    - text: Artifact
      link: https://zenodo.org/record/3369436
+   - text: DOI
+     link: https://doi.org/10.1145/3360589
+   grants:
+   - ELE
+   - BC
 
  - year: 2019
    title: "Syntax Templates in Racket"
@@ -34,18 +152,23 @@ publications:
    links:
    - text: HTML
      link: https://icfp19.sigplan.org/home/scheme-2019
-
+   - text: PDF
+     link: https://thomas.gilray.org/scheme-2019/culpepper.pdf
+   grants:
+   - ELE
+ 
  - year: 2019
    title: "Online Abstraction with MDP Homomorphisms for Deep Learning"
    authors: "Ondřej Bíža, Robert Platt"
    publication: "International Conference on Autonomous Agents and MultiAgent Systems"
    short_publication: "AAMAS'19"
-   grants: BigCode
    links:
    - text: arXiv
      link: https://arxiv.org/abs/1811.12929
    - text: HTML
      link: https://dl.acm.org/citation.cfm?id=3331812
+   grants:
+   - BC
 
  - year: 2019
    title: "From Macros to DSLs: The Evolution of Racket"
@@ -61,35 +184,35 @@ publications:
  - year: 2019
    title: "R Melts Brains: An IR for First-Class Environments and Lazy Effectful Arguments"
    authors: "Olivier Flückiger, Guido Chari, Jan Ječmen, Ming-Ho Yee, Jakob Hain, Jan Vitek"
-   publication: "Dynamic Languages Symposium"
+   publication: "International Symposium on Dynamic Languages"
    short_publication: "DLS'19"
    publication_note: "to appear"
    links:
+   - text: PDF
+     link: https://dl.acm.org/doi/pdf/10.1145/3359619.3359744
    - text: arXiv
      link: https://arxiv.org/abs/1907.05118
- 
- - year: 2019
-   title: "Julia's Efficient Algorithm for Subtyping Unions and Covariant Tuples"
-   authors: "Benjamin Chung, Francesco Zappa Nardelli, Jan Vitek"
-   publication: "European Conference on Object-Oriented Programming"
-   short_publication: "ECOOP'19"
-   links:
    - text: DOI
-     link: https://doi.org/10.4230/LIPIcs.ECOOP.2019.24
-   - text: PDF
-     link: http://janvitek.org/pubs/ecoop19.pdf
- 
+     link: https://doi.org/10.1145/3359619.3359744
+   grants:
+   - ELE
+   - BC
+
  - year: 2019
    title: "On the impact of Programming Languages Code Quality"
    authors: "Emery D. Berger, Celeste Hollenbeck, Petr Maj, Olga Vitek, Jan Vitek"
-   publication: "ACM Transactions on Programming Languages and Systems"
-   publication_note: "to appear"
+   publication: "ACM Transactions on Programming Languages and Systems, article no. 21"
    links:
    - text: arXiv
      link: https://arxiv.org/abs/1901.10220
    - text: PDF
      link: http://janvitek.org/pubs/toplas19.pdf
- 
+   - text: DOI
+     link: https://doi.org/10.1145/3340571
+   grants:
+   - ELE
+   - BC
+
  - year: 2019
    title: "Can Android Run on Time? Extending and Measuring the Android Platform's Timeliness"
    authors: "Yin Yan, Girish Gokul, Karthik Dantu, Steven Y. Ko, Lukasz Ziarek, Jan Vitek"
@@ -99,7 +222,9 @@ publications:
      link: https://dx.doi.org/10.1145/3289257
    - text: PDF
      link: http://janvitek.org/pubs/tecs18.pdf
-     
+   grants:
+   - ELE
+   
  
  - year: 2019
    title: "How to Evaluate the Performance of Gradual Type Systems"
@@ -110,7 +235,9 @@ publications:
      link: http://dx.doi.org/10.1017/S0956796818000217
    - text: PDF
      link: http://users.cs.northwestern.edu/~robby/pubs/papers/gtnffvf-jfp-2016.pdf
- 
+   grants:
+   - ELE
+
  - year: 2019
    title: "Feature-Specific Profiling"
    authors: "Leif Andersen, Vincent St-Amour, Jan Vitek, Matthias Felleisen"
@@ -120,7 +247,9 @@ publications:
      link: https://doi.org/10.1145/3275519
    - text: PDF
      link: http://users.cs.northwestern.edu/~stamourv/papers/feature-specific-profiling.pdf
- 
+   grants:
+   - ELE
+
  - year: 2019
    title: "Verifying a Concurrent Garbage Collector with a Rely-Guarantee Methodology"
    authors: "Yannick Zakowski, David Cachera, Delphine Demange, Gustavo Petri, David Pichardie, Suresh Jagannathan, Jan Vitek"
@@ -130,6 +259,8 @@ publications:
      link: https://doi.org/10.1007/s10817-018-9489-x
    - text: PDF
      link: http://janvitek.org/pubs/jar18.pdf
+   grants:
+   - ELE
  
 ##### 2018 #####
 
@@ -145,6 +276,8 @@ publications:
      link: https://www.franktip.org/pubs/tse2018.pdf
    - text: HTML
      link: https://ieeexplore.ieee.org/document/8511058
+   grants:
+   - ELE
 
 # November 4-9 
  - year: 2018
@@ -157,6 +290,8 @@ publications:
      link: http://janvitek.org/pubs/oopsla18b.pdf
    - text: DOI
      link: https://doi.org/10.1145/3276490
+   grants:
+   - ELE
 
  - year: 2018
    title: "Julia subtyping: a rational reconstruction"
@@ -168,6 +303,8 @@ publications:
      link: http://janvitek.org/pubs/oopsla18a.pdf
    - text: DOI
      link: https://doi.org/10.1145/3276483
+   grants:
+   - ELE
 
  - year: 2018
    title: "Self-Contained Development Environments"
@@ -179,6 +316,8 @@ publications:
      link: https://charig.github.io/assets/papers/SCDE-DLS.pdf
    - text: DOI
      link: https://doi.org/10.1145/3276945.3276948
+   grants:
+   - ELE
 
 # September 24-26
  - year: 2018
@@ -196,6 +335,13 @@ publications:
      link: https://arxiv.org/abs/1807.02809
    - text: Artifact
      link: https://dx.doi.org/10.1145/3235042
+   grants:
+   - ELE
+
+ - year: 2018
+   title: "Dynamic deoptimization for the R language"
+   authors: "Jan Ječmen"
+   publication: "Technical Report TR-FIT-19-05"
 
 # July 15-21
  - year: 2018
@@ -207,6 +353,26 @@ publications:
    links:
    - text: HTML
      link: https://conf.researchr.org/event/ecoop-issta-2018/isagt-2018-papers-extracting-tests-from-runtime-behavior-for-r
+
+ - year: 2018
+   title: "Everything you ever wanted to know about Scala implicits, but weren't sure how to ask"
+   authors: "Filip Křikava"
+   short_publication: "Scala.IO'18"
+   links:
+   - text: YouTube
+     link: https://www.youtube.com/watch?v=D7Yp_SPhjno
+
+# July 18
+ - year: 2018
+   title: "Monotonic gradual typing in a common calculus"
+   authors: "Benjamin Chung and Jan Vitek"
+   publication: "International Symposium on Software Testing and Analysis"
+   short_publication: "ISSTA'18"
+   links:  
+   - text: "DOI"
+     link: https://dl.acm.org/doi/10.1145/3236454.3236475
+   - text: "PDF"
+     link: https://dl.acm.org/doi/pdf/10.1145/3236454.3236475
 
 # July 16-18
  - year: 2018
@@ -230,6 +396,8 @@ publications:
      link: https://doi.org/10.1145/3213846.3213863
    - text: Artifact
      link: https://doi.org/10.5281/zenodo.1306437
+   grants:
+   - ELE
 
 # July 15-21 
  - year: 2018
@@ -244,6 +412,23 @@ publications:
      link: http://benchung.github.io/papers/ecoop18.pdf
    - text: DOI
      link: https://doi.org/10.4230/LIPIcs.ECOOP.2018.12
+   grants:
+   - ELE
+
+ - year: 2018
+   title: "KafKa: Gradual Typing for Objects (Artifact)"
+   authors: "Benjamin Chung, Paley Li, Francesco Zappa Nardelli, and Jan Vitek"
+   publication: "Dagstuhl Artifact Series"
+   badges:
+   links:
+   - text: PDF
+     link: https://drops.dagstuhl.de/opus/volltexte/2018/9241/pdf/DARTS-4-3-10.pdf
+   - text: ZIP
+     link: https://drops.dagstuhl.de/opus/volltexte/2018/9241/artifact/DARTS-4-3-10-artifact-5186a2242726e810f5acac714a827a6c.zip
+   - text: DOI
+     link: https://dx.doi.org/10.4230/DARTS.4.3.10
+   grants:
+   - ELE
 
 # July 10-13
  - year: 2018
@@ -276,10 +461,12 @@ publications:
    links:
    - text: PDF
      link: http://staff.mmcs.sfedu.ru/~ulysses/Papers/2018-TFP-dgp-recursion.pdf
+   grants:
+   - ELE
 
 # April 14-20
  - year: 2018
-   title: "Soundness of a Correct Collector for Actors"
+   title: "Correctness of a concurrent object collector for actor languages"
    authors: "Juliana Franco, Sylvain Clebsch, Sophia Drossopoulou, Jan Vitek, and Tobias Wrigstad"
    publication: "European Symposium on Programming"
    short_publication: "ESOP'18"
@@ -288,12 +475,14 @@ publications:
      link: http://janvitek.org/pubs/esop18.pdf
    - text: DOI
      link: https://dx.doi.org/10.1007/978-3-319-89884-1_31
+   grants:
+   - ELE
 
 # March 9
  - year: 2018
    title: "Fully Reflective Execution Environments"
-   authors: "Guido Chari, Diego Garbervetsky, Stefan Marr, and Stephane Ducasse"
-   publication: "Transactions on Software Engineering"
+   authors: "Guido Chari, Diego Garbervetsky, Stefan Marr, and Stéphane Ducasse"
+   publication: "Transactions on Software Engineering, volume 45, issue 9"
    links:
    - text: PDF
      link: https://hal.inria.fr/hal-01728111/document
@@ -313,6 +502,8 @@ publications:
      link: http://janvitek.org/pubs/popl18.pdf
    - text: DOI
      link: https://doi.org/10.1145/3158137
+   grants:
+   - ELE
 
 ##### 2017 #####
 
@@ -342,6 +533,8 @@ publications:
      link: http://mondego.ics.uci.edu/projects/dejavu/
    - text: DOI
      link: https://doi.org/10.1145/3133908
+   grants:
+   - ELE
 
  - year: 2017
    title: "Orca: GC and Type System Co-Design for Actor Languages"
@@ -353,6 +546,8 @@ publications:
      link: http://janvitek.org/pubs/oopsla17a.pdf
    - text: DOI
      link: https://doi.org/10.1145/3133896
+   grants:
+   - ELE
 
  - year: 2017
    title: "Generic Approach to Certified Static Checking of Module-like Constructs"
@@ -378,6 +573,17 @@ publications:
    - text: DOI
      link: http://dx.doi.org/10.4230/LIPIcs.ECOOP.2017.4
 
+ - year: 2017
+   title: "Parallelizing Julia with a Non-invasive DSL (Artifact)"
+   authors: "Todd Anderson, Hai Liu, Lindsey Kuper, Ehsan Totoni, Jan Vitek, and Tatiana Shpeisman"
+   publication: "Dagstuhl Artifact Series, volume 3, issue 2"
+   links:
+   - text: PDF
+     link: https://drops.dagstuhl.de/opus/volltexte/2017/7288/pdf/DARTS-3-2-7.pdf
+   - text: ZIP
+     link: https://drops.dagstuhl.de/opus/volltexte/2017/7288/artifact/DARTS-3-2-7-artifact-c8eba9e27a8c6c2b45612c883e20bbac.zip
+   - text: DOI
+     link: http://dx.doi.org/10.4230/DARTS.3.2.7
 
  - year: 2017
    title: "Verifying a Concurrent Garbage Collector using a Rely-Guarantee Methodology"
@@ -444,4 +650,22 @@ publications:
      link: https://arxiv.org/abs/1603.07899
    - text: DOI
      link: http://dx.doi.org/10.1002/spe.2548
+
+ - year: 2017
+   title: "Control Strategies for Self-Adaptive Software Systems"
+   authors: "Antonio Filieri, Martina Maggio, Konstantinos Angelopoulos, Nicolás D’ippolito, Ilias Gerostathopoulos, Andreas Berndt Hempel, Henry Hoffmann, Pooyan Jamshidi, Evangelia Kalyvianaki, Cristian Klein, Filip Krikava, Sasa Misailovic, Alessandro V. Papadopoulos, Suprio Ray, Amir M. Sharifloo, Stepan Shevtsov, Mateusz Ujma, Thomas Vogel"
+   publication: "ACM Transactions on Autonomous and Adaptive Systems, volume 11, issue 4"
+   links:
+   - text: DOI
+     link: https://doi.org/10.1145/3024188
+
+ - year: 2016
+   title: "Self-Balancing Job Parallelism and Throughput in Hadoop"
+   authors: "Bo Zhang, Filip Krikava, Romain Rouvoy, Lionel Seinturier"
+   publication: "Distributed Applications and Interoperable Systems, Lecture Notes in ComputerSciuence, volume 9687"
+   links:
+   - text: DOI
+     link: https://doi.org/10.1007/978-3-319-39577-7_11 
+
+
 ---

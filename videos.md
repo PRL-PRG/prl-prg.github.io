@@ -2,6 +2,13 @@
 layout: videos
 title: Presentations and Conference Talks
 videos:
+  - title:   "Everything you ever wanted to know about Scala Implicits, but weren't sure how to ask"
+    speaker: "Filip Křikava"
+    youtube: D7Yp_SPhjno
+    venue:   "Scala.IO 2019"
+    data:    "29 October 2019"
+    place:   "Lyon, France"
+
   - title:   "Preventing and detecting memory protection bugs in packages"
     speaker: "Tomáš Kalibera"
     youtube: TOI7DOrW1u4

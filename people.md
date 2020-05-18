@@ -101,10 +101,10 @@ people:
     web:
     bio:
     - Joined Czech Technical University, 2019
-    - Post-doc at Johannes Kepler University 2018
-    - Post-doc at NOVA University Lisbon 2016
-    - Post-doc at Jaume I University 2013
-    - Post-doc at Brno University of Technology 2012
+    - Post-doc at Johannes Kepler University, 2018
+    - Post-doc at NOVA University Lisbon, 2016
+    - Post-doc at Jaume I University, 2013
+    - Post-doc at Brno University of Technology, 2012
     - Ph.D., Czech Technical University, 2012
     note: "Being a curious person, I am fascinated by the new Machine Learning techniques, that can bring an additional value of intelligence to nearly every field in our lives. My current goal is to implement Machine Learning methods in the project."
    
