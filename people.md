@@ -175,7 +175,7 @@ people:
     title: Post-doctoral researcher
     email: charigui@fit.cvut.cz
     web: http://lafhis.dc.uba.ar/en/~gchari
-    bio: 2018 - May 2020
+    bio: Marh 2018 - February 2020
 #    - Joined Czech Technical University, 2018
 #    - PhD, Buenos Aires University, 2017
 #    note: "My main research interest aims at making programming languages more flexible. I am also interested in ensuring that dynamic PLs do not suffer from prohibitive performance overheads. In addition, I am interested in providing mechanism to help developers reason about the correctness of their programs."
@@ -186,7 +186,7 @@ people:
     title: Research assistant 
     email: jakobeha@gmail.com
     web: https://jakobeha.github.io
-    bio: 2020
+    bio: January 2020 - May 2020
 #    - Joined Czech Technical University, 2020
 #    - BA in Computer Science, Northeastern University, 2020
 #    note: "I'm interested in program design, analysis, and verification, in order to make it easier for developers to create software. Currently I'm working with the R programming language."
