@@ -80,6 +80,8 @@ publications:
    short_publication: "RIOT'19"
    publication_note: "Talk"
    links:
+   - text: Abstract
+     link: https://zenodo.org/record/3625397/files/riot-2019-dynamic-tracing.pdf?download=1
    - text: DOI
      link: https://doi.org/10.5281/zenodo.3625397
 
@@ -135,10 +137,14 @@ publications:
    - "acm_artifact_evaluated_functional"
    - "acm_artifact_evaluated_reusable"
    links:
-   - text: Artifact
-     link: https://zenodo.org/record/3369436
    - text: DOI
      link: https://doi.org/10.1145/3360589
+   - text: PDF
+     link: http://janvitek.org/pubs/oopsla19b.pdf
+   - text: YouTube
+     link: https://www.youtube.com/watch?v=g9KtbKoDTLo
+   - text: Artifact
+     link: https://zenodo.org/record/3369436
    grants:
    - ELE
    - BC
@@ -387,7 +393,7 @@ publications:
    - "Distinguished Artifact Award"
    links:
    - text: PDF
-     link: https://hal.inria.fr/hal-2131523v1/document
+     link: http://janvitek.org/pubs/issta18.pdf
    - text: HTML
      link: https://conf.researchr.org/event/issta-2018/issta-2018-technical-papers-tests-from-traces-automated-unit-test-generation-for-r
    - text: Slides
