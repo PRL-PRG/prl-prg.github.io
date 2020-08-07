@@ -17,6 +17,23 @@ people:
     note: "I work on the design and implementation of programming languages. I led the implementation of the first real-time Java virtual machine to be flight-tested. With Noble and Potter, I proposed what became known as Ownership Types.  I tried to understand JavaScript by dynamic analysis and am now looking at supporting scalable data analysis in R."
 
   - type: researcher
+    name: Christoph Kirsch
+    photo: christoph_kirsch.jpg
+    title: Professor
+    email: ck@cs.uni-salzburg.at 
+    web: http://www.cs.uni-salzburg.at/~ck/
+    bio:
+    - Joined Czech Technical University, 2020
+    - ACM Distinguished Speaker, 2017
+    - Visiting Professor at UC  Berkeley, 2014
+    - ACM SIGBED chair, 2011-2013
+    - Visiting Scholar at UC Berkeley, 2008-2013
+    - Co-founder of EMSOFT, 2001
+    - Postdoc at UC Berkeley, 1999-2004
+    - Dr.Ing. from Saarland University while at the Max Planck Institute for CS in Saarbrücken, 1999
+    note: "I am interested in programming languages and systems, in particular concurrent programming and memory management. I also care about formal methods, especially bit-precise reasoning through symbolic execution and bounded model checking. People in computer science know me for co-inventing logical execution time and the embedded programming language Giotto which by now have made their way into modern cars around the world."
+
+  - type: researcher
     name: Tomáš Kalibera
     photo: tomas_kalibera.jpg
     title: Researcher
@@ -66,17 +83,6 @@ people:
     note: "I am interested in contributing to programming language research, which is a new field to me. I have a background in distributed computing, concurrency, and transactional memory. I am currently exploring the R language, its compilation, tracing, and static analysis."
     
   - type: researcher
-    name: Guido Chari
-    photo: guido_chari.jpg
-    title: Post-doctoral researcher
-    email: charigui@fit.cvut.cz
-    web: http://lafhis.dc.uba.ar/en/~gchari
-    bio:
-    - Joined Czech Technical University, 2018
-    - PhD, Buenos Aires University, 2017
-    note: "My main research interest aims at making programming languages more flexible. I am also interested in ensuring that dynamic PLs do not suffer from prohibitive performance overheads. In addition, I am interested in providing mechanism to help developers reason about the correctness of their programs."
-
-  - type: researcher
     name: Alexander Kovalenko
     photo: alexander_kovalenko.jpg
     title: Post-doctoral researcher
@@ -84,10 +90,10 @@ people:
     web:
     bio:
     - Joined Czech Technical University, 2019
-    - Post-doc at Johannes Kepler University 2018
-    - Post-doc at NOVA University Lisbon 2016
-    - Post-doc at Jaume I University 2013
-    - Post-doc at Brno University of Technology 2012
+    - Post-doc at Johannes Kepler University, 2018
+    - Post-doc at NOVA University Lisbon, 2016
+    - Post-doc at Jaume I University, 2013
+    - Post-doc at Brno University of Technology, 2012
     - Ph.D., Czech Technical University, 2012
     note: "Being a curious person, I am fascinated by the new Machine Learning techniques, that can bring an additional value of intelligence to nearly every field in our lives. My current goal is to implement Machine Learning methods in the project."
    
@@ -128,20 +134,9 @@ people:
     bio:
     - Joined Czech Technical University, 2020
     - MSc, Buenos Aires University, 2014
-    note: "I am interested in object-oriented, dynamically typed reflective programming languages in the tradition of Smalltalk, Self and Newspeak. I am currently working on my PhD thesis directed by Dr. Gilad Bracha." 
+    note: "I am interested in object-oriented, dynamically typed reflective programming languages in the tradition of Smalltalk, Self and Newspeak. I am currently working on the R language implementation. I am also working on my PhD thesis directed by Dr. Gilad Bracha." 
 
   - type: researcher
-    name: Jakob Hain
-    photo: jakob_hain.jpg
-    title: Research assistant 
-    email: jakobeha@gmail.com
-    web: https://jakobeha.github.io
-    bio:
-    - Joined Czech Technical University, 2020
-    - BA in Computer Science, Northeastern University, 2020
-    note: "I'm interested in program design, analysis, and verification, in order to make it easier for developers to create software. Currently I'm working with the R programming language."
-
-  - type: student
     name: Jan Ječmen
     photo: jan_jecmen.jpg
     title: PhD student
@@ -150,7 +145,7 @@ people:
     - Joined Czech Technical University, 2016
     note: "I am a master's student at FIT CTU. I am interested in implementation of programming languages."
 
-  - type: student
+  - type: researcher
     name: Petr Maj
     photo: petr_maj.jpg
     title: PhD student
@@ -164,7 +159,7 @@ people:
     - Erasmus Scholarship at University of Bristol, UK, 2006-2007
     note: "I used to work professionally on PS3 and PS Vita compilers and toolchains. I am interested in design, analysis and optimization of programming languages (mostly dynamic), big code & synthesis and embedded systems. Currently I am working on large scale analysis of code on Github (mostly JavaScript)." 
 
-  - type: student
+  - type: researcher
     name: Jan Sliacky
     photo: jan_sliacky.jpg
     title: Master's student
@@ -173,6 +168,29 @@ people:
     bio:
     - Joined Czech Technical University, 2016
     note: "I currently work on Lambdulus. I like functional programming languages and various type systems. I hope to create one in the future."
+
+  - type: alumni
+    name: Guido Chari
+    photo: guido_chari.jpg
+    title: Post-doctoral researcher
+    email: charigui@fit.cvut.cz
+    web: http://lafhis.dc.uba.ar/en/~gchari
+    bio: Marh 2018 - February 2020
+#    - Joined Czech Technical University, 2018
+#    - PhD, Buenos Aires University, 2017
+#    note: "My main research interest aims at making programming languages more flexible. I am also interested in ensuring that dynamic PLs do not suffer from prohibitive performance overheads. In addition, I am interested in providing mechanism to help developers reason about the correctness of their programs."
+
+  - type: alumni 
+    name: Jakob Hain
+    photo: jakob_hain.jpg
+    title: Research assistant 
+    email: jakobeha@gmail.com
+    web: https://jakobeha.github.io
+    bio: January 2020 - May 2020
+#    - Joined Czech Technical University, 2020
+#    - BA in Computer Science, Northeastern University, 2020
+#    note: "I'm interested in program design, analysis, and verification, in order to make it easier for developers to create software. Currently I'm working with the R programming language."
+
 
  
   - type: alumni
