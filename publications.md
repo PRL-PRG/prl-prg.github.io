@@ -45,7 +45,7 @@ publications:
    short_publication: "e-Rum'20"
    publication_note: Keynote
    links:
-   - test: Video
+   - text: Video
      link: https://www.youtube.com/watch?v=ZRGxTHRY_hs&t=7873s
 
 # February 27
