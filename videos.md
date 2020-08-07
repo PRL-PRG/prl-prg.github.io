@@ -2,6 +2,13 @@
 layout: videos
 title: Presentations and Conference Talks
 videos:
+  - title:   "Larger-than-memory R"
+    speaker: "Konrad Siek"
+    youtube: 6BI5xWWDrlA
+    venue:   "useR!'20: The R User Conference"
+    date:    "8 July 2020"
+    place:   "Virtual useR"  
+
   - title:   "Everything you ever wanted to know about Scala Implicits, but weren't sure how to ask"
     speaker: "Filip Křikava"
     youtube: D7Yp_SPhjno
@@ -43,11 +50,4 @@ videos:
     venue:   "Greater Boston useR Group"
     date:    "26 February 2018"
     place:   "Cambridge, Massachusetts"
-
-  - title:   "Larger-than-memory R"
-    speaker: "Konrad Siek"
-    youtube: 6BI5xWWDrlA
-    venue:   "useR!'20: The R User Conference"
-    date:    "8 July 2020"
-    place:   "Virtual useR"  
 ---

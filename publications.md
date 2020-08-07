@@ -16,7 +16,12 @@ publications:
    authors: "Konrad Siek, Colette Kerr"
    publication: "The R User Conference"
    short_publication: "useR!'20"
-   publication_note: "Talk, to appear"
+   publication_note: Talk
+   links:
+   - test: Video
+     link: https://www.youtube.com/watch?v=6BI5xWWDrlA
+   - text: Slides
+     link: https://drive.google.com/file/d/1C782g11whwyqbwqvDaZFo9iMt8528TpX/view
    grants: 
    - ELE
    - BC
