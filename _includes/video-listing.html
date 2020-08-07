@@ -21,9 +21,11 @@
             </div>
             <div class="col-sm-9">
               <span class="vid-title">{{ v.title }}</span><br/>
-              by <span class="vid-speaker">{{ v.speaker }}</span>
+              by <span class="vid-speaker">{{ v.speaker }}</span><br/>
+              <span class="vid-link"><a href={{ v.link }}>{{ v.link }}</a></span>
             </div>
             
+
             <div class="col-sm-9 vid-muted">
               <span class="vid-venue">{{ v.venue }}</span><br/>
               <span class="vid-date">{{ v.date }}</span><br/>
