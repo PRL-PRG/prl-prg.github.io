@@ -18,7 +18,7 @@ publications:
    short_publication: "useR!'20"
    publication_note: Talk
    links:
-   - test: Video
+   - text: Video
      link: https://youtu.be/J9lraMP1ono
    - text: Slides
      link: https://drive.google.com/file/d/1RXkenqvYfAvuL5hZR7GMnErmzmkEBu8J/view?usp=sharing
@@ -30,7 +30,7 @@ publications:
    short_publication: "useR!'20"
    publication_note: Talk
    links:
-   - test: Video
+   - text: Video
      link: https://www.youtube.com/watch?v=6BI5xWWDrlA
    - text: Slides
      link: https://drive.google.com/file/d/1C782g11whwyqbwqvDaZFo9iMt8528TpX/view

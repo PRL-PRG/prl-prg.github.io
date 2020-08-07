@@ -18,7 +18,7 @@ videos:
     
   - title:   "The Invisible Work on R"
     speaker: "Tomaš Kalibera"
-    youtube: ZRGxTHRY_hs&t=7873s
+    youtube: "ZRGxTHRY_hs&t=7873s"
     venue:   "e-Rum 2020"
     date:    "18 June 2020"
     place:   "Milan, Italy"  
