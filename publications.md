@@ -12,6 +12,18 @@ publications:
  
 # July 2020
  - year: 2020
+   title: "The Current State and Prospects of Encoding Support in R"
+   authors: "Tomaš Kalibera"
+   publication: "The R User Conference"
+   short_publication: "useR!'20"
+   publication_note: Talk
+   links:
+   - test: Video
+     link: https://youtu.be/J9lraMP1ono
+   - text: Slides
+     link: https://drive.google.com/file/d/1RXkenqvYfAvuL5hZR7GMnErmzmkEBu8J/view?usp=sharing
+
+ - year: 2020
    title: "Larger-than-memory R"
    authors: "Konrad Siek, Colette Kerr"
    publication: "The R User Conference"
@@ -25,6 +37,16 @@ publications:
    grants: 
    - ELE
    - BC
+
+ - year: 2020
+   title: "The Invisible Work on R"
+   authors: "Tomaš Kalibera"
+   publication: "European R Users Meeting 2020"
+   short_publication: "e-Rum'20"
+   publication_note: Keynote
+   links:
+   - test: Video
+     link: https://www.youtube.com/watch?v=ZRGxTHRY_hs&t=7873s
 
 # February 27
  - year: 2020

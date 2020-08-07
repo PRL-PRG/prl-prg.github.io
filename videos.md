@@ -2,12 +2,26 @@
 layout: videos
 title: Presentations and Conference Talks
 videos:
+  - title:   "The Current State and Future Prospects of Encoding Support in R"
+    speaker: "Tomaš Kalibera"
+    youtube: J9lraMP1ono
+    venue:   "useR!'20: The R User Conference"
+    date:    "8 July 2020"
+    place:   "Virtual useR" 
+
   - title:   "Larger-than-memory R"
     speaker: "Konrad Siek"
     youtube: 6BI5xWWDrlA
     venue:   "useR!'20: The R User Conference"
     date:    "8 July 2020"
-    place:   "Virtual useR"  
+    place:   "Virtual useR" 
+    
+  - title:   "The Invisible Work on R"
+    speaker: "Tomaš Kalibera"
+    youtube: ZRGxTHRY_hs&t=7873s
+    venue:   "e-Rum 2020"
+    date:    "18 June 2020"
+    place:   "Milan, Italy"  
 
   - title:   "Everything you ever wanted to know about Scala Implicits, but weren't sure how to ask"
     speaker: "Filip Křikava"
