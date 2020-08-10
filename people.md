@@ -96,6 +96,17 @@ people:
     - Post-doc at Brno University of Technology, 2012
     - Ph.D., Czech Technical University, 2012
     note: "Being a curious person, I am fascinated by the new Machine Learning techniques, that can bring an additional value of intelligence to nearly every field in our lives. My current goal is to implement Machine Learning methods in the project."
+
+  - type: researcher
+    name: Pierre Donat-Bouillud
+    photo: pierre_donat-bouillud.jpg
+    title: Post-doctoral researcher
+    email: donatpie@fit.cvut.cz
+    web: https://www.pdonatbouillud.com
+    bio:
+    - Ph.D., Sorbonne Université, 2019
+    - Joined Czech Technical University, 2020
+    note: "My research interests include real time systems, multimedia systems and programming languages. Most recently, I have been working on the R language."
    
   - type: researcher
     name: Colette Kerr
