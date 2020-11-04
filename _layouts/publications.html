@@ -3,8 +3,6 @@
 {% assign publications = page.publications %} <!--| where:'type', 'user18' %-->
 {% assign years = page.displayed_years %} 
 
-<!--Header-->
-<header class="container-fluid header-padding"></header>
 <!-- Content-->
 <div class="container-fluid main-container" id="publications">
     {% include publication-listing.html title="Presentations and Conference Talks" publications=publications years=years %}

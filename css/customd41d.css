@@ -14,7 +14,6 @@
 .navbar-inverse {
     width: 100%;
     background-color: initial;
-    position: absolute;
     z-index: 11;
 }
 
@@ -230,9 +229,6 @@ body {
     }
 }
 @media (max-width: 768px) {
-    .flexslider {
-        margin-top: 50px;
-    }
     .navbar-inverse {
         background-color: rgba(0,0,0,0.6);
     }
@@ -305,10 +301,6 @@ body {
 
 .font-17{
     font-size: 17px;
-}
-
-.header-padding{
-  padding-top: 50px;
 }
 
 /*Videos*/
