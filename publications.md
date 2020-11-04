@@ -9,6 +9,23 @@ displayed_years:
 publications:
 
 ##### 2020 #####
+
+ - year: 2020
+   title: "Designing Types for R, Empirically"
+   authors: "Alexi Turcotte, Aviral Goel, Filip Krikava, Jan Vitek"
+   publication: "Object-Oriented Programming, Systems, Languages & Applications"
+   short_publication: "OOPSLA'20"
+   badges:
+   - "acm_artifact_available"
+   - "acm_artifact_evaluated_functional"
+   - "acm_artifact_evaluated_reusable"
+   links:
+   - text: PDF
+     link: http://janvitek.org/pubs/oopsla20-r.pdf
+   - text: Artifact
+     link: https://doi.org/10.5281/zenodo.4037278
+   grants: 
+   - ELE
  
 # July 2020
  - year: 2020
