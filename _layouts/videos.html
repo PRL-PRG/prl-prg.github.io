@@ -3,8 +3,6 @@
 {% assign videos = page.videos %} <!--| where:'type', 'user18' %-->
 {% assign venues = page.venues %} 
 
-<!--Header-->
-<header class="container-fluid header-padding"></header>
 <!-- Content-->
 <div class="container-fluid main-container" id="videos">
     {% include video-listing.html title="Presentations and Conference Talks" videos=videos venues=venues %}
