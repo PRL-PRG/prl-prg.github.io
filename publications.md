@@ -2,13 +2,49 @@
 layout: publications
 title: Publications
 displayed_years:
+ - 2021
  - 2020 
  - 2019 
  - 2018
  - 2017
 publications:
 
+##### 2021 #####
+
+ - year: 2021
+   title: "Formally Verified Speculation and Deoptimization in a JIT Compiler"
+   authors: "Aurèle Barrière, Sandrine Blazy, Olivier Flückiger, David Pichardie, Jan Vitek"
+   publication: "Principles of Programming Languages"
+   short_publication: "POPL'21"
+
 ##### 2020 #####
+# Nov 2020
+
+ - year: 2020
+   title: "Contextual Dispatch for Function Specialization"
+   authors: "Olivier Flückiger, Guido Chari, Ming-Ho Yee, Jan Jecmen, Jakob Hain, Jan Vitek"
+   publication: "Object-Oriented Programming, Systems, Languages & Applications"
+   short_publication: "OOPSLA'20"
+   links:
+   - text: PDF
+     link: https://o1o.ch/about/assets/cd.pdf
+   - text: DOI
+     link: https://doi.org/10.1145/3428288
+   - text: Artifact
+     link: https://doi.org/10.5281/zenodo.3973073
+
+ - year: 2020
+   title: "Sampling Optimized Code for Type Feedback"
+   authors: "Olivier Flückiger, Andreas Wälchli, Sebastián Krynski, Jan Vitek"
+   publication: "Dynamic Languages Symposium"
+   short_publication: "DLS'20"
+   links:
+   - text: PDF
+     link: https://arxiv.org/pdf/2010.02080
+   - text: DOI
+     link: https://doi.org/10.1145/3426422.3426984
+   - text: Artifact
+     link: https://doi.org/10.5281/zenodo.4061655
 
  - year: 2020
    title: "Designing Types for R, Empirically"
