@@ -9,21 +9,24 @@ $(document).ready(function(){
         {
             if(!nav.hasClass('fixed'))
             {
+                var dummy = $('<div id="menu-dummy"></div>');
+                dummy[0].style.height = nav.height() + 'px';
+                dummy.insertAfter(nav);
                 nav.addClass('fixed');
-                nav.removeClass('absolute');
                 nav.css('display','none');
                 nav.fadeIn();
             }
         }else
         {
-            if(!nav.hasClass('absolute'))
+            if(nav.hasClass('fixed') && !nav.hasClass('isFading'))
             {
-                nav.addClass('absolute');
+                nav.addClass('isFading');
                 nav.fadeOut(function(e){
+                    $('#menu-dummy').remove();
                     nav.removeClass('fixed');
+                    nav.removeClass('isFading');
                     nav.css('display','block');
                 })
-                //nav.removeClass('fixed');
             }
         }
         if ($(this).scrollTop() > 70) {
