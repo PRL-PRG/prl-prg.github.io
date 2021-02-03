@@ -3,7 +3,7 @@ layout: default
 title: Software
 ---
 
-## RIR
+## Ř (previously RIR)
 
 A back-end for R. It explores just-in-time compilation and speculative optimizations of the R language.
 
