@@ -6,7 +6,7 @@
 
 ```sh
 sudo apt-get install build-essential # if you do not have gcc and stuff
-sudo apt-get ruby ruby-dev           # if you do not have ruby
+sudo apt-get install ruby ruby-dev   # if you do not have ruby
 sudo gem install jekyll bundler      # if you do not have jekyll and bundler
 ```
 
