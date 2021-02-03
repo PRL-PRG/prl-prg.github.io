@@ -140,7 +140,7 @@ people:
   - type: researcher
     name: Sebastián Krynski
     photo: sebastian_krynski.jpg
-    title: Research assistant
+    title: PhD student
     email: skrynski@gmail.com
     bio:
     - Joined Czech Technical University, 2020
@@ -152,9 +152,10 @@ people:
     photo: jan_jecmen.jpg
     title: PhD student
     email: jan.jecmen@gmail.com
+    web: https://janjecmen.github.io
     bio:
     - Joined Czech Technical University, 2016
-    note: "I am a master's student at FIT CTU. I am interested in implementation of programming languages."
+    note: "I am a PhD student at FIT CTU. I am interested in implementation of programming languages. I work currently on R."
 
   - type: researcher
     name: Petr Maj
@@ -163,7 +164,7 @@ people:
     email: majpetr@fit.cvut.cz
     web: https://peta.bitbucket.io
     bio:
-    - Joined Czech Technical University, 2016   
+    - Joined Czech Technical University, 2016
     - Worked at 0xdata (Silicon Walley, CA), 2012-2013
     - Worked at SN Systems (Bristol, UK), 2010-2012
     - Graduate Student at Purdue, IN, 2009-2010
