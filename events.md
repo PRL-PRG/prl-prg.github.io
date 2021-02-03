@@ -59,7 +59,7 @@ title: Events
             </p>
             
             <p>
-            More information at <a href="https://prl-prg-ss.github.io">https://prl-prg-ss.github.io</a>.
+            More information at <a href="https://pliss2017.github.io">https://pliss2017.github.io</a>.
             </p>
 
 </div>
