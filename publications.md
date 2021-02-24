@@ -16,6 +16,12 @@ publications:
    authors: "Aurèle Barrière, Sandrine Blazy, Olivier Flückiger, David Pichardie, Jan Vitek"
    publication: "Principles of Programming Languages"
    short_publication: "POPL'21"
+   links:
+   - text: PDF
+     link: http://janvitek.org/pubs/popl21.pdf
+   grants:
+   - ELE
+   - BC
 
 ##### 2020 #####
 # Nov 2020
@@ -25,6 +31,9 @@ publications:
    authors: "Olivier Flückiger, Guido Chari, Ming-Ho Yee, Jan Jecmen, Jakob Hain, Jan Vitek"
    publication: "Object-Oriented Programming, Systems, Languages & Applications"
    short_publication: "OOPSLA'20"
+   badges:
+   - "acm_artifact_available"
+   - "acm_artifact_evaluated_functional"
    links:
    - text: PDF
      link: https://o1o.ch/about/assets/cd.pdf
@@ -32,12 +41,17 @@ publications:
      link: https://doi.org/10.1145/3428288
    - text: Artifact
      link: https://doi.org/10.5281/zenodo.3973073
+   grants:
+   - ELE
+   - BC
 
  - year: 2020
    title: "Sampling Optimized Code for Type Feedback"
    authors: "Olivier Flückiger, Andreas Wälchli, Sebastián Krynski, Jan Vitek"
    publication: "Dynamic Languages Symposium"
    short_publication: "DLS'20"
+   badges:
+   - "acm_artifact_available"
    links:
    - text: PDF
      link: https://arxiv.org/pdf/2010.02080
@@ -45,6 +59,29 @@ publications:
      link: https://doi.org/10.1145/3426422.3426984
    - text: Artifact
      link: https://doi.org/10.5281/zenodo.4061655
+   grants:
+   - ELE
+   - BC
+
+ - year: 2020
+   title: "World Age in Julia: Optimizing Method Dispatch in the Presence of Eval"
+   authors: "Julia Belyakova, Benjamin Chung, Jack Gelinas, Jameson Nash, Ross Tate, Jan Vitek"
+   publication: "Object-Oriented Programming, Systems, Languages & Applications"
+   short_publication: "OOPSLA'20"
+   badges:
+   - "acm_artifact_available"
+   - "acm_artifact_evaluated_functional"
+   - "acm_artifact_evaluated_reusable"
+   links:
+   - text: PDF
+     link: http://janvitek.org/pubs/oopsla20-j.pdf
+   - text: DOI
+     link: https://doi.org/10.1145/3428275
+   - text: Artifact
+     link: https://github.com/julbinb/juliette-wa
+   grants:
+   - ELE
+   - BC
 
  - year: 2020
    title: "Designing Types for R, Empirically"
@@ -58,10 +95,13 @@ publications:
    links:
    - text: PDF
      link: http://janvitek.org/pubs/oopsla20-r.pdf
+   - text: DOI
+     link: https://dl.acm.org/doi/10.1145/3428249
    - text: Artifact
      link: https://doi.org/10.5281/zenodo.4037278
-   grants: 
+   grants:
    - ELE
+   - BC
  
 # July 2020
  - year: 2020
