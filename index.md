@@ -2,6 +2,9 @@
 layout: index
 title: Home
 news:
+  - date: 'March 2021'
+    blurb: '**Pierre Donat-Bouillud** is awarded the **[Seal of Excellence](https://ec.europa.eu/info/research-and-innovation/funding/funding-opportunities/seal-excellence/receiving-seal-excellence_en#marie-skodowska-curie-actions-msca-in-horizon-2020)** for its [MSCA Fellowship](https://ec.europa.eu/research/mariecurieactions/actions/individual-fellowships_en) proposal: _DataBugs:  Finding Bugs in Data Science Codes_'
+
   - date: 'April 2019'
     blurb: '**Jan Vitek**, **Ryan Culpepper**, **Petr Maj**, **Konrad Siek**, **Guido Chari**, and **Lucie Lerch** co-organize **[ETAPS 2019](https://conf.researchr.org/committee/etaps-2019/etaps-2019-organizing-committee/)**.'
 
