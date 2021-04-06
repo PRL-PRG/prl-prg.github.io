@@ -181,6 +181,16 @@ people:
     - Joined Czech Technical University, 2016
     note: "I currently work on Lambdulus. I like functional programming languages and various type systems. I hope to create one in the future."
 
+  - type: researcher
+    name: Valentin Ogier
+    photo: valentin_ogier.jpg
+    title: Research intern
+    email: contact@vogier.fr
+    bio:
+    - April 2021 - August 2021
+    - MSc, Ecole Polytechnique
+    note: "I am interested in programming languages, and in computer architecture. I am currently working on extending contextual dispatch in the Ř compiler."
+
   - type: alumni
     name: Guido Chari
     photo: guido_chari.jpg
