@@ -197,7 +197,7 @@ people:
     title: Post-doctoral researcher
     email: charigui@fit.cvut.cz
     web: http://lafhis.dc.uba.ar/en/~gchari
-    bio: Marh 2018 - February 2020
+    bio: March 2018 - February 2020
 #    - Joined Czech Technical University, 2018
 #    - PhD, Buenos Aires University, 2017
 #    note: "My main research interest aims at making programming languages more flexible. I am also interested in ensuring that dynamic PLs do not suffer from prohibitive performance overheads. In addition, I am interested in providing mechanism to help developers reason about the correctness of their programs."
