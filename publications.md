@@ -12,6 +12,24 @@ publications:
 ##### 2021 #####
 
  - year: 2021
+   title: "CodeDJ: Reproducible Queries over Large-Scale Software Repositories"
+   authors: "Petr Maj, Konrad Siek, Alexander Kovalenko, Jan Vitek"
+   publication: "European Conference on Object-Oriented Programming"
+   short_publication: "ECOOP'21"
+   badges:
+   - "acm_artifact_available"
+   - "acm_artifact_evaluated_functional"
+   - "acm_artifact_evaluated_reusable"
+   links:
+   - text: PDF
+     link: http://janvitek.org/pubs/ecoop21.pdf
+   - text: Artifact
+     link: https://github.com/PRL-PRG/codedj-ecoop-artifact
+   grants:
+   - ELE
+   - BC
+
+ - year: 2021
    title: "Formally Verified Speculation and Deoptimization in a JIT Compiler"
    authors: "Aurèle Barrière, Sandrine Blazy, Olivier Flückiger, David Pichardie, Jan Vitek"
    publication: "Principles of Programming Languages"
