@@ -63,6 +63,44 @@ Implement a support for debugging for the Haskell plugin for Intellij IDEA.
 
 - [Intellij plugin development](https://plugins.jetbrains.com/docs/intellij/getting-started.html)
 
+## Extend a runtime for an agent-oriented language with transparent concurrency features
+
+_with Konrad Siek_
+
+
+The agent oriented paradigm is a lesser-known approach to computing, where a
+the software system is written as a set of software agents interacting on the
+state of the program.  Each agent has a set of procedures which they execute to
+bring them closer to attaining some goal. The agent observes the state of the
+program and fires specific procedures if the conditions to use that procedure
+become met. Multiple agents share the state of the program and interact with
+other agents by message passing. There are a few agent-oriented programming
+languages that do this: AgentSpeak(L)/Jason, GOAL, and ASTRA.
+The idea for this project involves augmenting a runtime for an agent-oriented
+language with a transparent concurrency layer. Since multi-agent systems have
+independently operating agents, these could be implemented with separate
+threads to achieve parallelism of execution. However, since the agents touch
+shared data they are susceptible to race conditions if they are implemented
+with separate threads. Furthermore, since the order of execution of their
+procedures is dependent on the state of the program, using classical mechanisms
+like locks makes agents susceptible to deadlocks. The goal of this project is to 
+construct a layer of concurrency control that would co-ordinate the execution
+of procedures to remove races (and deadlocks) automatically à la transactions
+or universal constructions.
+
+
+**Interests:** Java (most of these languages are implemented in Java), a fearlessness of
+concurrency, a love for niche technology
+
+**Links:**
+
+  - [http://www.sarl.io/](http://www.sarl.io/)
+  - [https://goalapl.atlassian.net/wiki/](https://goalapl.atlassian.net/wiki/)
+  - [https://sourceforge.net/projects/jason/](https://sourceforge.net/projects/jason/)
+  - [http://astralanguage.com/wordpress/astra-user-guide/](http://astralanguage.com/wordpress/astra-user-guide/)
+
+
+
 # Interactive Visualisation of Program Analysis Algorithms
 
 _with Pierre Donat-Bouillud_
