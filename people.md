@@ -191,6 +191,15 @@ people:
     - MSc, Ecole Polytechnique
     note: "I am interested in programming languages, and in computer architecture. I am currently working on extending contextual dispatch in the Ř compiler."
 
+  - type: researcher
+    name: Andrew Kvapil
+    photo: andrew-kvapil.jpg
+    title: Master's student
+    email: viluon@pm.me
+    bio:
+    - Joined Czech Technical University, 2017
+    note: "I am interested in purely functional programming and programming language semantics. I currently work on dynamic tracing of Haskell programs."
+
   - type: alumni
     name: Guido Chari
     photo: guido_chari.jpg
