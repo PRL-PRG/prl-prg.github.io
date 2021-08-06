@@ -200,6 +200,15 @@ people:
     - Joined Czech Technical University, 2017
     note: "I am interested in purely functional programming and programming language semantics. I currently work on dynamic tracing of Haskell programs."
 
+  - type: researcher
+    name: Stefanie Muroya
+    photo: stefanie_muroya.jpg
+    title: Research Intern
+    email: stefanie.muroya@ucsp.edu.pe
+    bio:
+    - Joined Czech Technical University, 2021
+    note: "Currently, I do research on how to mitigate bias of GitHub datasets that researchers use to test various hypothesis."
+
   - type: alumni
     name: Guido Chari
     photo: guido_chari.jpg
