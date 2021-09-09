@@ -3,13 +3,89 @@ layout: publications
 title: Publications
 displayed_years:
  - 2021
- - 2020 
- - 2019 
+ - 2020
+ - 2019
  - 2018
  - 2017
 publications:
 
 ##### 2021 #####
+
+ - year: 2021
+   title: "Type Stability in Julia: Avoiding Performance Pathologies"
+   authors: ""
+   publication: "Proc. ACM SIGPLAN Conference on Systems, Programming, Languages, and Applications: Software for Humanity (OOPSLA)"
+   short_publication: "OOPSLA'21"
+## TODO: badges, links
+#    badges:
+#    - "acm_artifact_available"
+#    - "acm_artifact_evaluated_functional"
+#    - "acm_artifact_evaluated_reusable"
+#    links:
+#    - text: PDF
+#      link: 
+#    - text: Artifact
+#      link: 
+   grants:
+   - ELE
+   - BC
+
+ - year: 2021
+   title: "Promises Are Made To Be Broken: Migrating R to Strict Semantics"
+   authors: "Aviral Goel, Jan Ječmen, Sebastián Krynski, Olivier Flückiger, Jan Vitek"
+   publication: "Proc. ACM SIGPLAN Conference on Systems, Programming, Languages, and Applications: Software for Humanity (OOPSLA)"
+   short_publication: "OOPSLA'21"
+## TODO: badges, links
+#    badges:
+#    - "acm_artifact_available"
+#    - "acm_artifact_evaluated_functional"
+#    - "acm_artifact_evaluated_reusable"
+#    links:
+#    - text: PDF
+#      link: 
+#    - text: Artifact
+#      link: 
+   grants:
+   - ELE
+   - BC
+
+ - year: 2021
+   title: "Why We Eval in the Shadows"
+   authors: "Aviral Goel, Pierre Donat-Bouillud, Filip Křikava, Christoph Kirsch, Jan Vitek"
+   publication: "Proc. ACM SIGPLAN Conference on Systems, Programming, Languages, and Applications: Software for Humanity (OOPSLA)"
+   short_publication: "OOPSLA'21"
+## TODO: badges, links
+#    badges:
+#    - "acm_artifact_available"
+#    - "acm_artifact_evaluated_functional"
+#    - "acm_artifact_evaluated_reusable"
+#    links:
+#    - text: PDF
+#      link: 
+#    - text: Artifact
+#      link: 
+   grants:
+   - ELE
+   - BC
+
+ - year: 2021
+   title: "ASE: A Value Set Decision Procedure for Symbolic Execution"
+   authors: "A.S. Abyaneh, C.M. Kirsch"
+   publication: "Proc. IEEE/ACM International Conference on Automated Software Engineering (ASE)"
+   short_publication: "ASE'21"
+## TODO: badges, links
+#    badges:
+#    - "acm_artifact_available"
+#    - "acm_artifact_evaluated_functional"
+#    - "acm_artifact_evaluated_reusable"
+#    links:
+#    - text: PDF
+#      link: 
+#    - text: Artifact
+#      link: 
+   grants:
+   - ELE
+   - BC
 
  - year: 2021
    title: "CodeDJ: Reproducible Queries over Large-Scale Software Repositories"
