@@ -12,8 +12,8 @@ publications:
 ##### 2021 #####
 
  - year: 2021
-   title: "Type Stability in Julia: Avoiding Performance Pathologies"
-   authors: ""
+   title: "Type Stability in Julia: Avoiding Performance Pathologies in JIT Compilation"
+   authors: "Artem Pelenitsyn, Julia Belyakova, Benjamin Chung, Ross Tate, Jan Vitek"
    publication: "Proc. ACM SIGPLAN Conference on Systems, Programming, Languages, and Applications: Software for Humanity (OOPSLA)"
    short_publication: "OOPSLA'21"
 ## TODO: badges, links
