@@ -50,7 +50,7 @@ publications:
    - BC
 
  - year: 2021
-   title: "Why We Eval in the Shadows"
+   title: "What We Eval in the Shadows"
    authors: "Aviral Goel, Pierre Donat-Bouillud, Filip Křikava, Christoph Kirsch, Jan Vitek"
    publication: "Proc. ACM SIGPLAN Conference on Systems, Programming, Languages, and Applications: Software for Humanity"
    short_publication: "OOPSLA'21"
