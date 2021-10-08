@@ -54,14 +54,13 @@ publications:
    authors: "Aviral Goel, Pierre Donat-Bouillud, Filip Křikava, Christoph Kirsch, Jan Vitek"
    publication: "Proc. ACM SIGPLAN Conference on Systems, Programming, Languages, and Applications: Software for Humanity"
    short_publication: "OOPSLA'21"
-## TODO: badges, links
-#    badges:
-#    - "acm_artifact_available"
-#    - "acm_artifact_evaluated_functional"
-#    - "acm_artifact_evaluated_reusable"
-#    links:
-#    - text: PDF
-#      link: 
+   badges:
+   - "acm_artifact_available"
+   - "acm_artifact_evaluated_functional"
+   - "acm_artifact_evaluated_reusable"
+   links:
+   - text: PDF
+     link: http://www.cs.uni-salzburg.at/~ck/content/publications/conferences/OOPSLA21-Eval.pdf
 #    - text: Artifact
 #      link: 
    grants:
@@ -78,9 +77,9 @@ publications:
 #    - "acm_artifact_available"
 #    - "acm_artifact_evaluated_functional"
 #    - "acm_artifact_evaluated_reusable"
-#    links:
-#    - text: PDF
-#      link: 
+   links:
+   - text: PDF
+     link: http://www.cs.uni-salzburg.at/~ck/content/publications/conferences/ASE21-ASE.pdf
 #    - text: Artifact
 #      link: 
    grants:
