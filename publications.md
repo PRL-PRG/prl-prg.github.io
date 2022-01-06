@@ -12,6 +12,15 @@ publications:
 ##### 2021 #####
 
  - year: 2021
+   title: "Last-use Opacity: A Strong Safety Property for Transactional Memory with Prerelease Support"
+   authors: "Konrad Siek, Paweł T. Wojciechowski"
+   publication: "Distributed Computing"
+   short_publication: "DIST"
+   publication_note: "(to appear)"
+   grants:
+   - BC
+
+ - year: 2021
    title: "Type Stability in Julia: Avoiding Performance Pathologies in JIT Compilation"
    authors: "Artem Pelenitsyn, Julia Belyakova, Benjamin Chung, Ross Tate, Jan Vitek"
    publication: "Proc. ACM SIGPLAN Conference on Systems, Programming, Languages, and Applications: Software for Humanity"
@@ -82,6 +91,19 @@ publications:
      link: http://www.cs.uni-salzburg.at/~ck/content/publications/conferences/ASE21-ASE.pdf
 #    - text: Artifact
 #      link: 
+   grants:
+   - ELE
+   - BC
+
+ - year: 2021 
+   title: "Userfault objects: transparent programmable memory"
+   authors: "Konrad Siek and Colette Kerr"
+   publication: "Proc. Workshop on Implementation, Compilation, Optimization of Object-oriented Languages, Programs and Systems"
+   short_publication: "ICOOLPS'21"
+   links:
+   - text: PDF
+     link: https://arxiv.org/abs/2106.12995
+
    grants:
    - ELE
    - BC
