@@ -208,6 +208,16 @@ people:
     bio:
     - Joined Czech Technical University, 2021
     note: "Currently, I do research on how to mitigate bias of GitHub datasets that researchers use to test various hypothesis."
+    
+  - type: researcher
+    name: Oliver Tušla
+    photo: oliver_tusla.jpg
+    title: BSc Student 
+    email:  
+    web:   
+    bio:
+    - Joined Czech Technical University, 2021
+    note: " I am interested in the runtimes of programming languages."
 
   - type: alumni
     name: Guido Chari
