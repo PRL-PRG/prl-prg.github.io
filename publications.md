@@ -35,7 +35,11 @@ publications:
    authors: "Konrad Siek, Paweł T. Wojciechowski"
    publication: "Distributed Computing"
    short_publication: "DIST"
-   publication_note: "to appear"
+   links:
+   - text: PDF
+     link: https://link.springer.com/content/pdf/10.1007/s00446-022-00420-2.pdf
+   - text: DOI
+     link: https://doi.org/10.1007/s00446-022-00420-2
    grants:
    - BC
 
