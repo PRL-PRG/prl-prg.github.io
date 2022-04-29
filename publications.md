@@ -2,12 +2,31 @@
 layout: publications
 title: Publications
 displayed_years:
+ - 2022
  - 2021
  - 2020
  - 2019
  - 2018
  - 2017
 publications:
+
+##### 2022 #####
+
+ - year: 2022
+   title: "Deoptless: Speculation with Dispatched On-Stack Replacement and Specialized Continuations"
+   authors: "Olivier Flückiger, Jan Ječmen, Sebastián Krynski, Jan Vitek"
+   publication: "ACM SIGPLAN Conference on Programming Language Design and Implementation"
+   short_publication: "PLDI'22"
+  #  badges:
+  #  - "acm_artifact_available"
+  #  - "acm_artifact_evaluated_functional"
+  #  - "acm_artifact_evaluated_reusable"
+   links:
+   - text: PDF
+     link: http://janvitek.org/pubs/pldi22.pdf
+   grants:
+   - ELE
+   - BC
 
 ##### 2021 #####
 
@@ -25,16 +44,17 @@ publications:
    authors: "Artem Pelenitsyn, Julia Belyakova, Benjamin Chung, Ross Tate, Jan Vitek"
    publication: "Proc. ACM SIGPLAN Conference on Systems, Programming, Languages, and Applications: Software for Humanity"
    short_publication: "OOPSLA'21"
-## TODO: badges, links
-#    badges:
-#    - "acm_artifact_available"
-#    - "acm_artifact_evaluated_functional"
-#    - "acm_artifact_evaluated_reusable"
-#    links:
-#    - text: PDF
-#      link: 
-#    - text: Artifact
-#      link: 
+   badges:
+   - "acm_artifact_available"
+   - "acm_artifact_evaluated_functional"
+   - "acm_artifact_evaluated_reusable"
+   links:
+   - text: PDF
+     link: https://a-pelenitsyn.github.io/Papers/2021-julia-type-stability.pdf
+   - text: DOI
+     link: https://doi.org/10.1145/3485527
+   - text: Artifact
+     link: https://zenodo.org/record/5500548
    grants:
    - ELE
    - BC
@@ -44,16 +64,17 @@ publications:
    authors: "Aviral Goel, Jan Ječmen, Sebastián Krynski, Olivier Flückiger, Jan Vitek"
    publication: "Proc. ACM SIGPLAN Conference on Systems, Programming, Languages, and Applications: Software for Humanity"
    short_publication: "OOPSLA'21"
-## TODO: badges, links
-#    badges:
-#    - "acm_artifact_available"
-#    - "acm_artifact_evaluated_functional"
-#    - "acm_artifact_evaluated_reusable"
-#    links:
-#    - text: PDF
-#      link: 
-#    - text: Artifact
-#      link: 
+   badges:
+   - "acm_artifact_available"
+   - "acm_artifact_evaluated_functional"
+   - "acm_artifact_evaluated_reusable"
+   links:
+   - text: PDF
+     link: http://aviral.io/pdfs/promises-are-made-to-be-broken.pdf
+   - text: DOI
+     link: https://doi.org/10.1145/3485478
+   - text: Artifact
+     link: https://doi.org/10.5281/zenodo.5394235
    grants:
    - ELE
    - BC
@@ -70,8 +91,25 @@ publications:
    links:
    - text: PDF
      link: http://www.cs.uni-salzburg.at/~ck/content/publications/conferences/OOPSLA21-Eval.pdf
-#    - text: Artifact
-#      link: 
+   - text: DOI
+     link: https://doi.org/10.1145/3485502
+   - text: Artifact
+     link: https://doi.org/10.5281/zenodo.5415230
+   grants:
+   - ELE
+   - BC
+
+ - year: 2021
+   title: "First-Class Environments in R"
+   authors: "Aviral Goel, Jan Vitek"
+   publication: "Proc. ACM SIGPLAN Conference on Systems, Programming, Languages, and Applications: Software for Humanity"
+   publication: "Dynamic Languages Symposium"
+   short_publication: "DLS'21"
+    links:
+    - text: PDF
+      link: http://aviral.io/pdfs/first-class-environments-in-r.pdf
+   - text: DOI
+     link: https://doi.org/10.1145/3486602.3486768
    grants:
    - ELE
    - BC
@@ -81,16 +119,9 @@ publications:
    authors: "A.S. Abyaneh, C.M. Kirsch"
    publication: "Proc. IEEE/ACM International Conference on Automated Software Engineering"
    short_publication: "ASE'21"
-## TODO: badges, links
-#    badges:
-#    - "acm_artifact_available"
-#    - "acm_artifact_evaluated_functional"
-#    - "acm_artifact_evaluated_reusable"
    links:
    - text: PDF
      link: http://www.cs.uni-salzburg.at/~ck/content/publications/conferences/ASE21-ASE.pdf
-#    - text: Artifact
-#      link: 
    grants:
    - ELE
    - BC
@@ -455,6 +486,18 @@ publications:
    - BC
 
  - year: 2019
+   title: "Towards a type system for R"
+   authors: "Alexi Turcotte, Jan Vitek"
+   publication: "Proceedings of the 14th Workshop on Implementation, Compilation, Optimization of Object-Oriented Languages, Programs and Systems"
+   short_publication: "ICOOLPS'19"
+   links:
+   - text: PDF
+     link: https://dl.acm.org/doi/pdf/10.1145/3340670.3342426
+   grants:
+   - ELE
+   - BC
+
+ - year: 2019
    title: "Can Android Run on Time? Extending and Measuring the Android Platform's Timeliness"
    authors: "Yin Yan, Girish Gokul, Karthik Dantu, Steven Y. Ko, Lukasz Ziarek, Jan Vitek"
    publication: "ACM Transactions on Embedded Computing Systems, Vol 17, No. 6"
@@ -465,8 +508,7 @@ publications:
      link: http://janvitek.org/pubs/tecs18.pdf
    grants:
    - ELE
-   
- 
+
  - year: 2019
    title: "How to Evaluate the Performance of Gradual Type Systems"
    authors: "Ben Greenman, Asumu Takikawa, Max S. New, Daniel Feltey, Robert Bruce Findler, Jan Vitek, Matthias Felleisen"
