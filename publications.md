@@ -105,9 +105,9 @@ publications:
    publication: "Proc. ACM SIGPLAN Conference on Systems, Programming, Languages, and Applications: Software for Humanity"
    publication: "Dynamic Languages Symposium"
    short_publication: "DLS'21"
-    links:
-    - text: PDF
-      link: http://aviral.io/pdfs/first-class-environments-in-r.pdf
+   links:
+   - text: PDF
+     link: http://aviral.io/pdfs/first-class-environments-in-r.pdf
    - text: DOI
      link: https://doi.org/10.1145/3486602.3486768
    grants:
