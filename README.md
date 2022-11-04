@@ -27,6 +27,14 @@ bundle exec jekyll serve
 
 This will run a local webserver. The site is accessible at [localhost:4000](localhost:4000).
 
+Jekyll is not totally compatible with Ruby 3 at the time we write this (Nov. 2022). Running the local webserver will not work 
+but you can instead build the website and then open the index page:
+
+```sh
+bundle exec jekyll build
+open _site/index.html
+```
+
 ## Updates
 
 Please test locally and then create a PR.

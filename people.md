@@ -46,7 +46,7 @@ people:
     - PhD, Charles University, 2006
     note: "I work on R language implementation (AST/byte-code interpreter, runtime). I worked on Java and real-time Java implementations (garbage collector, ahead-of-time compiler, interrupt control), on benchmarks and on benchmarking methodology (modeling non-determinism with random effects)."
 
-  - type: researcher
+  - type: alumni
     name: Ryan Culpepper
     photo: ryan_culpepper.jpg
     title: Researcher
@@ -71,7 +71,7 @@ people:
     - PhD, University of Nice Sophia-Antipolis, 2013
     note: "Coming from software engineering and domain-specific modeling. I’m interested in various aspects of programming languages in particular in static and dynamic program analysis. Most recently I have been working on dynamic tracing in R."
 
-  - type: researcher
+  - type: alumni
     name: Konrad Siek
     photo: konrad_siek.jpg
     title: Post-doctoral researcher
@@ -108,7 +108,7 @@ people:
     - Joined Czech Technical University, 2020
     note: "My research interests include real time systems, multimedia systems and programming languages. Most recently, I have been working on the R language."
    
-  - type: researcher
+  - type: alumni
     name: Colette Kerr
     photo: colette_kerr.jpg
     title: Research assistant
@@ -116,7 +116,7 @@ people:
     - Joined Czech Technical Univeristy, 2018
     note: "I am looking to work with new programming languages and modifications to programming languages that enable transparent networked computation."
     
-  - type: researcher
+  - type: alumni
     name: Anna Bolotina
     photo: anna_bolotina.png
     title: Research assistant
@@ -127,7 +127,7 @@ people:
     - BS, Southern Federal University, 2018
     note: "I'm interested in PL design and implementation, compilers, and functional programming. I used to work on generic programming in Haskell. I also worked at SFedU on an educational programming language PascalABC.NET and explored syntactic sugar models. Currently, I am exploring the Racket language and macro system."
     
-  - type: researcher
+  - type: alumni
     name: Hyeyoung Shin
     photo: hyeyoung_shin.jpg
     title: Research Assistant
@@ -181,7 +181,7 @@ people:
     - Joined Czech Technical University, 2016
     note: "I currently work on Lambdulus. I like functional programming languages and various type systems. I hope to create one in the future."
 
-  - type: researcher
+  - type: alumni
     name: Valentin Ogier
     photo: valentin_ogier.jpg
     title: Research intern
@@ -200,7 +200,7 @@ people:
     - Joined Czech Technical University, 2017
     note: "I am interested in purely functional programming and programming language semantics. I currently work on dynamic tracing of Haskell programs."
 
-  - type: researcher
+  - type: alumni
     name: Stefanie Muroya
     photo: stefanie_muroya.jpg
     title: Research Intern
