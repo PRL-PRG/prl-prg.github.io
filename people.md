@@ -368,10 +368,10 @@ people:
 
   - type: admin
     name: Dana Tomášková 
-    #photo: 
-    title: Project Manager
+    photo: dana_tomaskova.jpg
+    title: Bursar and Project Manager
     email: dana.tomaskova@fit.cvut.cz
     bio:
     - Joined Czech Technical University, 2020
-    note: "I am the first point of contact for any issues or discrepancies arising from anywhere. My work is to prepare, coordinate, control such matters as budget, reports and various issues linked to the project. My goal is to give others as much space as possible to concentrate on their research work."
+   # note: "I am the first point of contact for any issues or discrepancies arising from anywhere. My work is to prepare, coordinate, control such matters as budget, reports and various issues linked to the project. My goal is to give others as much space as possible to concentrate on their research work."
 ---
