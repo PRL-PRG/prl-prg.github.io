@@ -372,6 +372,7 @@ people:
     title: Bursar and Project Manager
     email: dana.tomaskova@fit.cvut.cz
     bio:
-    - Joined Czech Technical University, 2020
-   # note: "I am the first point of contact for any issues or discrepancies arising from anywhere. My work is to prepare, coordinate, control such matters as budget, reports and various issues linked to the project. My goal is to give others as much space as possible to concentrate on their research work."
+    - Joined Czech Technical University, 2019
+    - Joined the Faculty of Information Technology, 2020
+    note: "I'm your first contact with the lab. I am responsible for management, projects, budget, finance and administration. Just everything so that my colleagues can focus on their research work undisturbed."
 ---
