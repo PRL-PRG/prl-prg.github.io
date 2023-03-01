@@ -4,6 +4,13 @@ title: Projects
 projects:
 ---
 
+## Rigorous Engineering of Data Analysis Pipelines (RiGiD)
+
+
+The RiGiD project lays the groundwork for this research programme and aims to develop a methodology for rigorous engineering of data analysis pipelines that can be adopted in practice. Our approach is pragmatic. Rather than chasing functional correctness, we hope to substantially reduce the incidence of errors in the wild. The research is structured in three overlapping chapters: a catalog of error patterns as well as a labeled dataset to be shared with other researchers, a methodology and tooling for developing data sciences codes with reduced error rates, evaluatation by conducting user studies and developing tools for automating deployment.
+
+This project is supported by the Czech Science Foundation under grand program GX23-07580X (excellence in research EXPRO).
+
 ## Evolving Language Ecosystems (ELE)
 
 The Evolving Language Ecosystems project explores the fundamental techniques and

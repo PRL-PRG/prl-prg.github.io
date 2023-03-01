@@ -3,20 +3,6 @@ layout: people
 title: People
 people:
   - type: researcher
-    name: Jan Vitek
-    photo: jan_vitek.jpg
-    title: Professor
-    email: j.vitek@neu.edu
-    web: http://janvitek.org
-    bio:
-    - Joined Czech Technical University, 2016
-    - Joined Northeastern, 2014
-    - Joined Purdue, 1999
-    - PhD, University of Geneva, 1999
-    - MSc, University of Victoria, 1995
-    note: "I work on the design and implementation of programming languages. I led the implementation of the first real-time Java virtual machine to be flight-tested. With Noble and Potter, I proposed what became known as Ownership Types.  I tried to understand JavaScript by dynamic analysis and am now looking at supporting scalable data analysis in R."
-
-  - type: researcher
     name: Christoph Kirsch
     photo: christoph_kirsch.jpg
     title: Professor
@@ -32,6 +18,20 @@ people:
     - Postdoc at UC Berkeley, 1999-2004
     - Dr.Ing. from Saarland University while at the Max Planck Institute for CS in Saarbrücken, 1999
     note: "I am interested in programming languages and systems, in particular concurrent programming and memory management. I also care about formal methods, especially bit-precise reasoning through symbolic execution and bounded model checking. People in computer science know me for co-inventing logical execution time and the embedded programming language Giotto which by now have made their way into modern cars around the world."
+
+  - type: researcher
+    name: Jan Vitek
+    photo: jan_vitek.jpg
+    title: Professor
+    email: j.vitek@neu.edu
+    web: http://janvitek.org
+    bio:
+    - Joined Czech Technical University, 2016
+    - Joined Northeastern, 2014
+    - Joined Purdue, 1999
+    - PhD, University of Geneva, 1999
+    - MSc, University of Victoria, 1995
+    note: "I work on the design and implementation of programming languages. I led the implementation of the first real-time Java virtual machine to be flight-tested. With Noble and Potter, I proposed what became known as Ownership Types.  I tried to understand JavaScript by dynamic analysis and am now looking at supporting scalable data analysis in R."
 
   - type: researcher
     name: Tomáš Kalibera
@@ -191,13 +191,13 @@ people:
     - MSc, Ecole Polytechnique
     note: "I am interested in programming languages, and in computer architecture. I am currently working on extending contextual dispatch in the Ř compiler."
 
-  - type: researcher
+  - type: alumni
     name: Andrew Kvapil
     photo: andrew-kvapil.jpg
     title: Master's student
     email: viluon@pm.me
     bio:
-    - Joined Czech Technical University, 2017
+    - 2021 - 2022
     note: "I am interested in purely functional programming and programming language semantics. I currently work on dynamic tracing of Haskell programs."
 
   - type: alumni
@@ -206,7 +206,7 @@ people:
     title: Research Intern
     email: stefanie.muroya@ucsp.edu.pe
     bio:
-    - Joined Czech Technical University, 2021
+    - 2021 - 2022
     note: "Currently, I do research on how to mitigate bias of GitHub datasets that researchers use to test various hypothesis."
     
   - type: researcher
@@ -357,12 +357,22 @@ people:
     - October 2016 - May 2017
 #    note: ""
 
-  - type: admin
+  - type: alumni
     name: Lucie Lerch
     photo: lucie_lerch.jpg
     title: Project Manager
     email: lucieler@fit.cvut.cz
     bio:
-    - Joined Czech Technical University, 2016
-    note: "I am the first point of contact for any issues or discrepancies arising from anywhere. My work is to prepare, coordinate, control such matters as budget, reports and various issues linked to the project. My goal is to give others as much space as possible to concentrate on their research work."
+    - 2016 - December 2022
+    # note: "I am the first point of contact for any issues or discrepancies arising from anywhere. My work is to prepare, coordinate, control such matters as budget, reports and various issues linked to the project. My goal is to give others as much space as possible to concentrate on their research work."
+
+  - type: admin
+    name: Dana Tomášková 
+    photo: dana_tomaskova.jpg
+    title: Bursar and Project Manager
+    email: dana.tomaskova@fit.cvut.cz
+    bio:
+    - Joined Czech Technical University, 2019
+    - Joined the Faculty of Information Technology, 2020
+    note: "I'm your first contact with the lab. I am responsible for management, projects, budget, finance and administration. Just everything so that my colleagues can focus on their research work undisturbed."
 ---
