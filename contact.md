@@ -3,7 +3,7 @@ layout: default
 title: Contact
 ---
 
-For general inquiries email: [j.vitek@neu.edu](mailto:j.vitek@neu.edu)
+For general inquiries email: [dana.tomaskova@fit.cvut.cz](mailto:dana.tomaskova@fit.cvut.cz)
 
 **Location:**
 

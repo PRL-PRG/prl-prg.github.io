@@ -2,6 +2,46 @@
 layout: videos
 title: Presentations and Conference Talks
 videos:
+  - title:   "Deoptless: Speculation with Dispatched On-Stack Replacement and Specialized Continuations"
+    speaker: "Olivier Flückiger"
+    youtube: 69FAjHqESTQ
+    link:    "https://youtu.be/69FAjHqESTQ"
+    venue:   "PLDI 2022"
+    date:    "15 June 2022"
+    place:   "San Diego, USA" 
+
+  - title:   "What we Eval in the Shadows"
+    speaker: "Aviral Goel"
+    youtube: aEPd8ijSHuI
+    link:    "https://youtu.be/aEPd8ijSHuI"
+    venue:   "OOPSLA 2021"
+    date:    "21 October 2021"
+    place:   "Chicago, USA" 
+
+  - title:   "Promises Are Made to be Broken: Migrating R to Strict Semantics"
+    speaker: "Aviral Goel"
+    youtube: 8L_a7mhYdyM
+    link:    "https://youtu.be/8L_a7mhYdyM"
+    venue:   "OOPSLA 2021"
+    date:    "21 October 2021"
+    place:   "Chicago, USA" 
+
+  - title:   "Type Stability in Julia: Avoiding Performance Pathologies in JIT Compilation "
+    speaker: "Artem Pelenitsyn"
+    youtube: XnUDdPonKlU
+    link:    "https://youtu.be/XnUDdPonKlU"
+    venue:   "OOPSLA 2021"
+    date:    "21 October 2021"
+    place:   "Chicago, USA" 
+
+  - title:   "Formally Verified Speculation and Deoptimization in a JIT Compiler"
+    speaker: "Aurèle Barrière"
+    youtube: 1W1LQWBVfz4
+    link:    "https://youtu.be/1W1LQWBVfz4"
+    venue:   "POPL 2021"
+    date:    "20 January 2021"
+    place:   "Virtual POPL" 
+
   - title:   "The Current State and Future Prospects of Encoding Support in R"
     speaker: "Tomaš Kalibera"
     youtube: J9lraMP1ono
