@@ -33,7 +33,7 @@ people:
     - MSc, University of Victoria, 1995
     note: "I work on the design and implementation of programming languages. I led the implementation of the first real-time Java virtual machine to be flight-tested. With Noble and Potter, I proposed what became known as Ownership Types.  I tried to understand JavaScript by dynamic analysis and am now looking at supporting scalable data analysis in R."
 
-  - type: researcher
+  - type: alumni
     name: Tomáš Kalibera
     photo: tomas_kalibera.jpg
     title: Researcher
@@ -82,20 +82,6 @@ people:
     - PhD, Poznań University of Technology, 2017
     note: "I am interested in contributing to programming language research, which is a new field to me. I have a background in distributed computing, concurrency, and transactional memory. I am currently exploring the R language, its compilation, tracing, and static analysis."
     
-  - type: researcher
-    name: Alexander Kovalenko
-    photo: alexander_kovalenko.jpg
-    title: Post-doctoral researcher
-    email: kovalale@fit.cvut.cz
-    web:
-    bio:
-    - Joined Czech Technical University, 2019
-    - Post-doc at Johannes Kepler University, 2018
-    - Post-doc at NOVA University Lisbon, 2016
-    - Post-doc at Jaume I University, 2013
-    - Post-doc at Brno University of Technology, 2012
-    - Ph.D., Czech Technical University, 2012
-    note: "Being a curious person, I am fascinated by the new Machine Learning techniques, that can bring an additional value of intelligence to nearly every field in our lives. My current goal is to implement Machine Learning methods in the project."
 
   - type: researcher
     name: Pierre Donat-Bouillud
@@ -218,6 +204,21 @@ people:
     bio:
     - Joined Czech Technical University, 2021
     note: " I am interested in the runtimes of programming languages."
+
+  - type: researcher
+    name: Alexander Kovalenko
+    photo: alexander_kovalenko.jpg
+    title: Post-doctoral researcher
+    email: kovalale@fit.cvut.cz
+    web:
+    bio:
+    - Joined Czech Technical University, 2019
+    - Post-doc at Johannes Kepler University, 2018
+    - Post-doc at NOVA University Lisbon, 2016
+    - Post-doc at Jaume I University, 2013
+    - Post-doc at Brno University of Technology, 2012
+    - Ph.D., Czech Technical University, 2012
+    note: "Being a curious person, I am fascinated by the new Machine Learning techniques, that can bring an additional value of intelligence to nearly every field in our lives. My current goal is to implement Machine Learning methods in the project."
 
   - type: alumni
     name: Guido Chari

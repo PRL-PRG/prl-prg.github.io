@@ -15,6 +15,13 @@ A dynamic tracing framework for R. It instruments the execution of R code with c
 
 More information at [https://github.com/PRL-PRG/R-dyntrace](https://github.com/PRL-PRG/R-dyntrace)
 
+# sxpdb
+
+A database to store R values.
+
+More information at [https://github.com/PRL-PRG/sxpdb](https://github.com/PRL-PRG/sxpdb)
+
+
 ## Genthat
 
 A framework for automated unit tests generation for R.

@@ -118,23 +118,6 @@ It should be possible to navigate the state of an analysis depending on where it
 - [NI-APR course](https://courses.fit.cvut.cz/NI-APR/)
 - [D3.js](https://d3js.org/)
 
-# Symbolic execution for R
-
-_with Pierre Donat-Bouillud_
-
-Symbolic execution is a program analysis technique that explores all the paths of a program and solve the various conditions along the paths using a SMT solver. It can create concrete examples of what leads to a particular path, what leads to some bug. 
-
-Building a symbolic execution engine is usually along and complex endeavour. However, in "Prototyping symbolic execution engines for interpreted languages", Bucur et al. 2014, authors present a simple but powerful idea that enabled them to implement symbolic execution for Python and Lua in respectively 5 and 3 days. 
-
-The idea is to use an existing symbolic execution engine for binary code, and to run it on the interpreter of the targeted language, e.g. the Python interpreter. It also requires to make the symbolic execution aware of the high-level CFG of the program. To get acceptable performance, the Python/Lua interpreter also has to be unoptimized!
-
-The goal will be to use the same approach for the R language. 
-
-**Interests:** R, symbolic execution
-
-**Links:**
-
-- [Prototyping symbolic execution engines for interpreted languages](https://dl.acm.org/doi/abs/10.1145/2654822.2541977)
 
 ## Interpreter Design and Implementation
 
@@ -168,18 +151,3 @@ results on each commit of a system. Track performance and memory footprint, as
 well as other health indicators.
 
 **Interests:** Scripting, System programming, JavaScript
-
-## Semantics Specification
-  
-Write down the formal semantics of a subset of the R language using a
-lightweight semantic specification tool such as Redex. Define the semantics of
-features such as objects and lazy evaluation. Implement a test suite that
-validates the correctness of the semantics.
-
-**Interests:** programming languages
-
-**Links:**
-- [https://redex.racket-lang.org](https://redex.racket-lang.org)
-- [https://link.springer.com/chapter/10.1007%2F978-3-642-31057-7_6](https://link.springer.com/chapter/10.1007%2F978-3-642-31057-7_6)
-- [https://github.com/reactorlabs/core-r/blob/master/core-r.rkt](https://github.com/reactorlabs/core-r/blob/master/core-r.rkt)
-    
