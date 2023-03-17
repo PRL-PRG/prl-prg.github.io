@@ -13,6 +13,34 @@ publications:
 ##### 2022 #####
 
  - year: 2022
+   title: "signatr: A Data-Driven Fuzzing Tool for R"
+   authors: "Alexi Turcotte, Pierre Donat-Bouillud, Filip Křikava, Jan Vitek"
+   publication: "ACM SIGPLAN International Conference on Software Language Engineering"
+   short_publication: "SLE'22"
+   badges:
+   - "acm_artifact_available"
+   - "acm_artifact_evaluated_reusable"
+   links:
+   - text: PDF
+     link: https://dl.acm.org/doi/pdf/10.1145/3567512.3567530
+   - text: Artifact
+     link: https://dl.acm.org/do/10.5281/zenodo.7342082/full/
+   grants:
+   - ELE
+   - BC
+
+ - year: 2022
+   title: "Linear Self-attention Approximation via Trainable Feedforward Kernel"
+   authors: "Uladzislau Yorsh, Alexander Kovalenko"
+   publication: "31st International Conference on Artificial Neural Networks"
+   short_publication: "ICANN'22"
+   links:
+   - text: PDF
+     link: https://arxiv.org/pdf/2211.04076.pdf
+   grants:
+   - BC
+
+ - year: 2022
    title: "Deoptless: Speculation with Dispatched On-Stack Replacement and Specialized Continuations"
    authors: "Olivier Flückiger, Jan Ječmen, Sebastián Krynski, Jan Vitek"
    publication: "ACM SIGPLAN Conference on Programming Language Design and Implementation"
@@ -29,6 +57,17 @@ publications:
    - BC
 
 ##### 2021 #####
+
+ - year: 2021
+   title: "Dynamic Neural Diversification: Path to Computationally Sustainable Neural Networks"
+   authors: "Alexander Kovalenko, Pavel Kordík, Magda Friedjungová"
+   publication: "Artificial Neural Networks and Machine Learning"
+   short_publication: "ICANN'21"
+   links:
+   - text: DOI
+     link: https://doi.org/10.1007/978-3-030-86340-1_19
+   grants:
+   - BC
 
  - year: 2021
    title: "Last-use Opacity: A Strong Safety Property for Transactional Memory with Prerelease Support"
