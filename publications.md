@@ -13,6 +13,17 @@ publications:
 ##### 2022 #####
 
  - year: 2022
+   title: "Composable Sequence Macros for Fast Iteration"
+   authors: "Anna Bolotina, Ryan Culpepper"
+   publication: "ACM SIGPLAN International Conference on Generative Programming: Concepts and Experiences"
+   short_publication: "GPCE'22"
+   links:
+   - text: PDF
+     link: https://dl.acm.org/doi/pdf/10.1145/3564719.3568696
+   grants:
+   - ELE
+
+ - year: 2022
    title: "signatr: A Data-Driven Fuzzing Tool for R"
    authors: "Alexi Turcotte, Pierre Donat-Bouillud, Filip Křikava, Jan Vitek"
    publication: "ACM SIGPLAN International Conference on Software Language Engineering"
