@@ -13,6 +13,18 @@ publications:
 ##### 2022 #####
 
  - year: 2022
+   title: "JEDI: These aren’t the JSON documents you’re looking for..."
+   authors: "Thomas Hütter, Nikolaus Augsten, Christoph M. Kirsch, Michael J. Carey, Chen Li"
+   publication: "ACM SIGMOD International Conference on Management of Data"
+   short_publication: "SIGMOD'22"
+   links:
+   - text: PDF
+     link: https://ckirsch.github.io/publications/conferences/SIGMOD22-Jedi.pdf
+   grants:
+   - ELE
+   - BC
+
+ - year: 2022
    title: "Composable Sequence Macros for Fast Iteration"
    authors: "Anna Bolotina, Ryan Culpepper"
    publication: "ACM SIGPLAN International Conference on Generative Programming: Concepts and Experiences"
