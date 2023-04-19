@@ -62,7 +62,7 @@ people:
   - type: researcher
     name: Filip Křikava
     photo: filip_krikava.jpg
-    title: Post-doctoral researcher
+    title: Associate professor
     email: filip.krikava@fit.cvut.cz
     web: http://fikovnik.net
     bio:
