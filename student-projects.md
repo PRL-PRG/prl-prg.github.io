@@ -5,6 +5,14 @@ title: Student projects
 
 Here are some suggestions of projects from us. If you have another idea related to programming language research, and especially, targetting our main language of interests, i.e. Javascript, R, Julia or Racket, we encourage you to contact us.
 
+## Fast and robust data-analysis pipelines
+
+**Level:** PhD
+
+Data analysis is typically performed by composing a series of discrete tools and libraries into a data analysis pipeline. These pipelines are at the core of data-driven science that has been central to most disciplines and today see an explosion in the widespread use of computational methods and available data. As the number of tools and size of data keep growing, we face problems with the scalability of the pipelines and the trustworthiness of their results.
+
+The goal of this work is to research ways to make data analysis pipelines scalable (accommodate growing data and computational needs) and trustworthy (facilitate auditing of the analysis result). The research will go along two axes. The first will focus on extending the R programming language with transparent horizontal and vertical scaling. The second will study a combination of static and dynamic program analysis techniques to gain insight into the nature and severity of programming errors in the code of data-analysis pipelines, and propose algorithms for their detection and possible automated repair.
+
 ## A framework for the visualization of runtime internals
 
 _with Konrad Siek_
@@ -19,8 +27,8 @@ designed to be user readable. So this is messy and tedious.
 The idea for this project is to create a framework for visualizing the
 internals of virtual machines: the heap, operand and frame stacks, registers,
 and the code vector. The framework would show the current state of the runtime
-in as it is debugged in a clear and human readable fashion. 
-The first runtime we would like to do this for is the GNU R interpreter and the 
+in as it is debugged in a clear and human readable fashion.
+The first runtime we would like to do this for is the GNU R interpreter and the
 Ř bytecode developed in our lab, but the goal is to implement the framework
 robustly and allow for extensions to eventually make it work with other
 runtimes.
@@ -31,7 +39,7 @@ runtimes.
 
 _with Filip Křikava_
 
-Implement support for Debug Adapter Protocol  for the R programming language. Test in VS code and vim (neovim).
+Implement support for Debug Adapter Protocol for the R programming language. Test in VS code and vim (neovim).
 
 **Interests:** R, Typescript, Vim
 
@@ -39,17 +47,31 @@ Implement support for Debug Adapter Protocol  for the R programming language. Te
 
 - [https://microsoft.github.io/debug-adapter-protocol/](https://microsoft.github.io/debug-adapter-protocol/)
 
-## Ahead-of-time compiler for microC
+## Language Server Protocol for Simple Object Machine (LSP4SOM)
+
+with Filip Křikava
+
+Implement a language server protocol for the Simple Object Machine (a small dialect of Smalltalk) programming language.
+
+Interests: Programming languages, runtime systems
+
+Links:
+
+- [SOM](https://som-st.github.io/)
+- [LSP](https://microsoft.github.io/language-server-protocol/)
+
+## Debug Adapter Protocol for Simple Object Machine (DAP4SOM)
 
 _with Filip Křikava_
 
-Implement an optimizing compiler for microC, the language used at NI-APR course.
+Implement a debug adapter protocol for the Simple Object Machine (a small dialect of Smalltalk) programming language.
 
-**Interests:** compilation, program analysis
+Interests: Programming languages, runtime systems
 
-**Links:**
+Links:
 
-- [Ni-APR course](https://courses.fit.cvut.cz/NI-APR/)
+- [SOM](https://som-st.github.io/)
+- [DAP](https://microsoft.github.io/debug-adapter-protocol/)
 
 ## Haskell debugger for Intellij IDEA
 
@@ -62,44 +84,6 @@ Implement a support for debugging for the Haskell plugin for Intellij IDEA.
 **Links:**
 
 - [Intellij plugin development](https://plugins.jetbrains.com/docs/intellij/getting-started.html)
-
-## Extend a runtime for an agent-oriented language with transparent concurrency features
-
-_with Konrad Siek_
-
-
-The agent oriented paradigm is a lesser-known approach to computing, where a
-the software system is written as a set of software agents interacting on the
-state of the program.  Each agent has a set of procedures which they execute to
-bring them closer to attaining some goal. The agent observes the state of the
-program and fires specific procedures if the conditions to use that procedure
-become met. Multiple agents share the state of the program and interact with
-other agents by message passing. There are a few agent-oriented programming
-languages that do this: AgentSpeak(L)/Jason, GOAL, and ASTRA.
-The idea for this project involves augmenting a runtime for an agent-oriented
-language with a transparent concurrency layer. Since multi-agent systems have
-independently operating agents, these could be implemented with separate
-threads to achieve parallelism of execution. However, since the agents touch
-shared data they are susceptible to race conditions if they are implemented
-with separate threads. Furthermore, since the order of execution of their
-procedures is dependent on the state of the program, using classical mechanisms
-like locks makes agents susceptible to deadlocks. The goal of this project is to 
-construct a layer of concurrency control that would co-ordinate the execution
-of procedures to remove races (and deadlocks) automatically à la transactions
-or universal constructions.
-
-
-**Interests:** Java (most of these languages are implemented in Java), a fearlessness of
-concurrency, a love for niche technology
-
-**Links:**
-
-  - [http://www.sarl.io/](http://www.sarl.io/)
-  - [https://goalapl.atlassian.net/wiki/](https://goalapl.atlassian.net/wiki/)
-  - [https://sourceforge.net/projects/jason/](https://sourceforge.net/projects/jason/)
-  - [http://astralanguage.com/wordpress/astra-user-guide/](http://astralanguage.com/wordpress/astra-user-guide/)
-
-
 
 # Interactive Visualisation of Program Analysis Algorithms
 
@@ -114,10 +98,9 @@ It should be possible to navigate the state of an analysis depending on where it
 
 **Links:**
 
-- [https://algorithm-visualizer.org]( https://algorithm-visualizer.org) and [https://visualgo.net/en](https://visualgo.net/en)
+- [https://algorithm-visualizer.org](https://algorithm-visualizer.org) and [https://visualgo.net/en](https://visualgo.net/en)
 - [NI-APR course](https://courses.fit.cvut.cz/NI-APR/)
 - [D3.js](https://d3js.org/)
-
 
 ## Interpreter Design and Implementation
 
@@ -127,7 +110,8 @@ multi-level stack-based intermediate representation called RIR.
 
 **Interests:** low-level C++ programming
 
-**Links:** 
+**Links:**
+
 - [http://trac.webkit.org/changeset/108309](http://trac.webkit.org/changeset/108309)
 - [https://www.jilp.org/vol5/v5paper12.pdf](https://www.jilp.org/vol5/v5paper12.pdf)
 
@@ -140,12 +124,12 @@ efficient versions of short code snippets.
 
 **Interests:** assembly language, language implementation
 
-**Links:** 
+**Links:**
+
 - [https://github.com/StanfordPL/stoke](https://github.com/StanfordPL/stoke)
 
-
 ## Design of a Regression Benchmark Framework
-  
+
 Engineer a framework for running regression benchmarks, and visualize the
 results on each commit of a system. Track performance and memory footprint, as
 well as other health indicators.
