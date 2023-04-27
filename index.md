@@ -9,7 +9,7 @@ news:
   - date: 'October 2022'
     blurb: '**Christoph Kirsch** has become the Head of the Programming Research Laboratory.'
   - date: 'October 2022'
-    blurb: 'An application for Symbolic Execution of 64-bit RISC-V Machine Code with Eager Path Merging registration has been has been filed with the United States Patent and Trademark Office.'
+    blurb: 'An application for Symbolic Execution of 64-bit RISC-V Machine Code with Eager Path Merging registration has been filed with the United States Patent and Trademark Office.'
   - date: 'September 2022'
     blurb: 'An application for Symbolic Execution in Testing Software registration has been filed with the United States Patent and Trademark Office.'
   - date: 'March 2021'
