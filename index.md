@@ -2,6 +2,16 @@
 layout: index
 title: Home
 news:
+  - date: 'January 2023'
+    blurb: '**Pierre Donat- Bouillud** has received a two-year fellowhip in OPJAK MSCA FELLOWSHIPS CZ program.'
+  - date: 'November 2022'
+    blurb: '**Jan Vitek** has received a grant for the RiGiD project within the prestigious EXPRO projects announced by the Grant Agency of the Czech Republic.'
+  - date: 'October 2022'
+    blurb: '**Christoph Kirsch** has become the Head of the Programming Research Laboratory.'
+  - date: 'October 2022'
+    blurb: 'An application for Symbolic Execution of 64-bit RISC-V Machine Code with Eager Path Merging registration has been has been filed with the United States Patent and Trademark Office.'
+  - date: 'September 2022'
+    blurb: 'An application for Symbolic Execution in Testing Software registration has been filed with the United States Patent and Trademark Office.'
   - date: 'March 2021'
     blurb: '**Pierre Donat-Bouillud** is awarded the **[Seal of Excellence](https://ec.europa.eu/info/research-and-innovation/funding/funding-opportunities/seal-excellence/receiving-seal-excellence_en#marie-skodowska-curie-actions-msca-in-horizon-2020)** for its [MSCA Fellowship](https://ec.europa.eu/research/mariecurieactions/actions/individual-fellowships_en) proposal: _DataBugs:  Finding Bugs in Data Science Codes_'
 
@@ -71,15 +81,15 @@ news:
 
 Programming languages are the interface between people and the machines that
 carry out computation on their behalf. As such, programming languages are
-fundemantal tools of computing science. 
+fundemantal tools of computing science.
 
 Therefore, we believe that existing languages should be studied deeply, to
 understand their applications, design process, and their impact on both the
-programming ecosystem, as well as the programmers' way of thinking. 
+programming ecosystem, as well as the programmers' way of thinking.
 
 Armed with this knowledge we strive to improve programming languages and
 develop their ecosystems to be efficient at their tasks, ergonomic, and
-well-suited to their domains. 
+well-suited to their domains.
 
 We do this using a multi-faceted approach incorporating elements of design,
 mathematics, experimental science, and engineering.
@@ -93,7 +103,7 @@ make areas of computing faster and easier.
 ## Join the lab
 
 If you are interested in programming languages and would like to try your hand
-at programming language research, we encourage you to contact us at
+at programming language research, we encourage you to contact us at [ck@cs.uni-salzburg.at](mailto:ck@cs.uni-salzburg.at) or
 [j.vitek@neu.edu](mailto:j.vitek@neu.edu).
 
 We are constantly looking for smart and enthusiastic people, and may have
@@ -104,4 +114,3 @@ You can find more details regarding interesting project ideas
 would like to work on.
 
 ## News
-
