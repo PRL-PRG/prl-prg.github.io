@@ -134,12 +134,12 @@ people:
   - type: researcher
     name: Jan Ječmen
     photo: jan_jecmen.jpg
-    title: PhD student
+    title: Research assistant
     email: jan.jecmen@gmail.com
     web: https://janjecmen.github.io
     bio:
       - Joined Czech Technical University, 2016
-    note: "I am a PhD student at FIT CTU. I am interested in implementation of programming languages. I work currently on R."
+    note: "I enjoy learning about and working on programming languages, especially their implementation and optimization. I have worked on an optimizing compiler for R most of my time here which has proven both challenging and rewarding."
 
   - type: researcher
     name: Petr Maj
