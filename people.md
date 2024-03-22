@@ -131,20 +131,11 @@ people:
       - MSc, Buenos Aires University, 2014
     note: "I am interested in object-oriented, dynamically typed reflective programming languages in the tradition of Smalltalk, Self and Newspeak. I am currently working on the R language implementation. I am also working on my PhD thesis directed by Dr. Gilad Bracha."
 
-  - type: researcher
-    name: Jan Ječmen
-    photo: jan_jecmen.jpg
-    title: Research assistant
-    email: jan.jecmen@gmail.com
-    web: https://janjecmen.github.io
-    bio:
-      - Joined Czech Technical University, 2016
-    note: "I enjoy learning about and working on programming languages, especially their implementation and optimization. I have worked on an optimizing compiler for R most of my time here which has proven both challenging and rewarding."
-
+ 
   - type: researcher
     name: Petr Maj
     photo: petr_maj.jpg
-    title: PhD student
+    title: Assistant professor
     email: majpetr@fit.cvut.cz
     web: https://peta.bitbucket.io
     bio:
@@ -156,6 +147,35 @@ people:
     note: "I used to work professionally on PS3 and PS Vita compilers and toolchains. I am interested in design, analysis and optimization of programming languages (mostly dynamic), big code & synthesis and embedded systems. Currently I am working on large scale analysis of code on Github (mostly JavaScript)."
 
   - type: researcher
+    name: Petr Adámek
+    photo: petr_adamek.jpg
+    title: Graduate
+    email: adamep10@fit.cvut.cz
+    bio:
+      - Joined Czech Technical University, 2018
+    note: " I am particularly interested in program sandboxing and applying my knowledge from computer security to new areas. Currently I am working on the dependency tracker of the R4R tool."
+
+  - type: researcher
+    name: Filip Říha
+    photo: filip_riha.jpg
+    title: Graduate
+    email: rihafili@fit.cvut.cz
+    bio:
+      - Joined Czech Technical University, 2019
+    note: "I am most interested in virtual machines and their various aspects. My most recent work has been implementing an object-oriented programming language in purely functional language."
+
+   - type: alumni
+    name: Jan Ječmen
+    photo: jan_jecmen.jpg
+    title: Research assistant
+    email: jan.jecmen@gmail.com
+    web: https://janjecmen.github.io
+    bio:
+      - Joined Czech Technical University, 2016
+    note: "I enjoy learning about and working on programming languages, especially their implementation and optimization. I have worked on an optimizing compiler for R most of my time here which has proven both challenging and rewarding."
+
+
+  - type: alumni
     name: Jan Sliacky
     photo: jan_sliacky.jpg
     title: Graduate
