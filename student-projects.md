@@ -13,28 +13,6 @@ Data analysis is typically performed by composing a series of discrete tools and
 
 The goal of this work is to research ways to make data analysis pipelines scalable (accommodate growing data and computational needs) and trustworthy (facilitate auditing of the analysis result). The research will go along two axes. The first will focus on extending the R programming language with transparent horizontal and vertical scaling. The second will study a combination of static and dynamic program analysis techniques to gain insight into the nature and severity of programming errors in the code of data-analysis pipelines, and propose algorithms for their detection and possible automated repair.
 
-## A framework for the visualization of runtime internals
-
-_with Konrad Siek_
-
-Working with runtimes, be it hacking on the runtime internals themselves, or
-their associated byte code interpreters, often requires peering into the
-machine and figuring out what its state is (and why its going boing at any
-given time). Usually this is done with a debugger and developers accumulate
-useful expressions and functions to look at the state of a particular runtime
-structure. These structures can be convoluted, unintuitive, and definitely not
-designed to be user readable. So this is messy and tedious.
-The idea for this project is to create a framework for visualizing the
-internals of virtual machines: the heap, operand and frame stacks, registers,
-and the code vector. The framework would show the current state of the runtime
-in as it is debugged in a clear and human readable fashion.
-The first runtime we would like to do this for is the GNU R interpreter and the
-Ř bytecode developed in our lab, but the goal is to implement the framework
-robustly and allow for extensions to eventually make it work with other
-runtimes.
-
-**Interests:** Rust, C, C++
-
 ## Debug Adapter Protocol for the R programming language
 
 _with Filip Křikava_

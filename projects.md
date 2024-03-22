@@ -4,6 +4,12 @@ title: Projects
 projects:
 ---
 
+## R4R
+
+R4R (Reproducibility for R) aims at making R notebooks reproducible by detecting sources of non-determinism in the notebook, and creating artifacts from the detected dependencies.
+
+This project has received funding from the European Union's Horizon Europe research and innovation program, ERC PoC 2022, under grant agreement No. 101081989.
+
 ## Rigorous Engineering of Data Analysis Pipelines (RiGiD)
 
 
