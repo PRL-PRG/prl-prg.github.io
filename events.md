@@ -3,7 +3,8 @@ layout: default
 title: Events
 ---
 <div class="container">
-          <div class="row">
+
+    <div class="row">
         <div class="col-sm-2 badge-container">
             <img src="images/pliss-logo-small.png" alt="PLISS logo" style="margin-top:20px;"/>
         </div>
@@ -35,6 +36,11 @@ title: Events
     <div class="row">
         <hr/>
     </div>	
+
+    <div class="row">
+        <div class="col-sm-2 badge-container">
+            <img src="images/pliss-logo-small.png" alt="PLISS logo" style="margin-top:20px;"/>
+        </div>
 
         <div class="col-sm-9">
 

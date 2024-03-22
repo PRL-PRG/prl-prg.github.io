@@ -164,7 +164,7 @@ people:
       - Joined Czech Technical University, 2019
     note: "I am most interested in virtual machines and their various aspects. My most recent work has been implementing an object-oriented programming language in purely functional language."
 
-   - type: alumni
+  - type: alumni
     name: Jan Ječmen
     photo: jan_jecmen.jpg
     title: Research assistant
