@@ -2,6 +2,8 @@
 layout: publications
 title: Publications
 displayed_years:
+ - 2024
+ - 2023
  - 2022
  - 2021
  - 2020
@@ -9,6 +11,33 @@ displayed_years:
  - 2018
  - 2017
 publications:
+
+##### 2024 #####
+  - year: 2024
+    title: "Decidable Subtyping of Existential Types for Julia"
+    authors: "Julia Belyakova, Benjamin Chung, Ross Tate, Jan Vitek"
+    publication: "ACM SIGPLAN Conference on Programming Language Design and Implementation"
+    short_publication: "PLDI'24"
+    links:
+    - text: PDF
+      link: "https://julbinb.github.io/files/papers/pldi2024_dec-julia-sub_extended.pdf"
+    grants:
+    - ELE
+    - BC
+
+##### 2023 #####
+  - year: 2023
+    title: "Reusing Just-in-Time Compiled Code"
+    authors: "Meetesh Kalpesh Mehta, Sebastián Krynski, Hugo Musso Gualandi, Manas Thakur, Jan Vitek"
+    publication: "Proc. ACM SIGPLAN Conference on Systems, Programming, Languages, and Applications: Software for Humanity"
+    short_publication: "OOPSLA'23"
+    links:
+    - text: PDF
+      link: "https://dl.acm.org/doi/10.1145/3622839"
+    grants:
+    - ELE
+    - BC
+
 
 ##### 2022 #####
 
