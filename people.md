@@ -84,13 +84,14 @@ people:
   - type: researcher
     name: Pierre Donat-Bouillud
     photo: pierre_donat-bouillud.jpg
-    title: Post-doctoral researcher
+    title: Assistant professor
     email: donatpie@fit.cvut.cz
     web: https://www.pdonatbouillud.com
     bio:
       - Ph.D., Sorbonne Université, 2019
       - Joined Czech Technical University, 2020
-    note: "My research interests include real time systems, multimedia systems and programming languages. Most recently, I have been working on the R language."
+      - Asssistant professor at Czech Technical University, 2024
+    note: "My research interests revolves around programming languages and data science. Most recently, I have been working on the R language."
 
   - type: alumni
     name: Colette Kerr
@@ -146,7 +147,7 @@ people:
       - Erasmus Scholarship at University of Bristol, UK, 2006-2007
     note: "I used to work professionally on PS3 and PS Vita compilers and toolchains. I am interested in design, analysis and optimization of programming languages (mostly dynamic), big code & synthesis and embedded systems. Currently I am working on large scale analysis of code on Github (mostly JavaScript)."
 
-  - type: researcher
+  - type: alumni
     name: Petr Adámek
     photo: petr_adamek.jpg
     title: Graduate

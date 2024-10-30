@@ -35,6 +35,12 @@ bundle exec jekyll build
 open _site/index.html
 ```
 
+If you have permission problems with `bundle install`, try to do that before:
+
+```bash
+export BUNDLE_PATH=~/.gems
+```
+
 ## Updates
 
 Please test locally and then create a PR.
