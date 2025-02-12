@@ -2,8 +2,9 @@
 layout: index
 title: Home
 news:
-  - date: 'January 2024'
-    blurb: '**Christoph Kirsch** has become responsible for Scalable Symbolic Execution through Bounded Model Checking in RA12 Scalable formal methods in robotics and production that is part of WP1 of the [ROBOPROX project]( https://www.ciirc.cvut.cz/roboprox/)'
+  - 
+  - date: 'September 2024'
+    blurb: '**Christoph Kirsch** co-organizes [MPLR 2024](https://conf.researchr.org/home/issta-ecoop-2024/mplr-2024)'
   - date: 'October 2023' 
     blurb: '**Jan Vitek** has received an ERC grant Proof-of-Concept, *R4R*'
   - date: 'January 2023'
