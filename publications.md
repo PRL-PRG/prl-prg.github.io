@@ -17,7 +17,7 @@ publications:
    title: Reducing Feedback Pollution
    authors: "Sebastián Krynski, Michal Štěpánek, Filip Říha, Filip Křikava, Jan Vitek"
    publication: "Proc. of the 16th ACM SIGPLAN International Workshop on Virtual Machines and Intermediate Languages"
-   short_publication: "VLMIR'24"
+   short_publication: "VMIL'24"
    links:
    - text: PDF
      link: https://dl.acm.org/doi/pdf/10.1145/3689490.3690404
