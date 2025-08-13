@@ -14,6 +14,19 @@ publications:
 
 ##### 2024 #####
  - year: 2024
+   title: "The Fault in Our Stars: Designing Reproducible Large-scale Code Analysis Experiments"
+   authors: "Petr Maj, Stefanie Muroya, Konrad Siek, Luca Di grazia, Jan Vitek"
+   publication: "38th European Conference on Object-Oriented Programming"
+   short_publication: "ECOOP'24"
+   links:
+   - text: PDF
+     link: https://doi.org/10.4230/LIPIcs.ECOOP.2024.27
+   grants:
+   - ELE
+   - BC
+   - EXPRO
+  
+ - year: 2024
    title: Reducing Feedback Pollution
    authors: "Sebastián Krynski, Michal Štěpánek, Filip Říha, Filip Křikava, Jan Vitek"
    publication: "Proc. of the 16th ACM SIGPLAN International Workshop on Virtual Machines and Intermediate Languages"
