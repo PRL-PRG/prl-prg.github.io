@@ -49,7 +49,7 @@ publications:
   
  - year: 2025
    title: "Toward a Typed Intermediate Language for R"
-   authors: "Pierre Donat-Bouillud, Filip Křikava, Jan Vitek"
+   authors: "Mickaël Laurent, Jakob Hain, Filip Křikava, Sebastián Krynski, Jan Vitek"
    publication: "MoreVMs, Companion Proceedings of the 9th International Conference on the Art, Science, and Engineering of Programming (Programming 2025)"
    short_publication: "MoreVMs'25"
    links:
