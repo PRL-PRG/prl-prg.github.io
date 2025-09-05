@@ -29,12 +29,24 @@ publications:
    title: "R4R: Reproducibility for R"
    authors: "Pierre Donat-Bouillud, Filip Křikava, Sebastián Krynski, Jan Vitek"
    publication: "2025 ACM Conference on Reproducibility and Replicability"
-   short_publication: "PREP'2025"
+   short_publication: "REP'2025"
    links:
    - text: PDF
      link: https://doi.org/10.1145/3736731.3746156
    grants:
    - EXPRO
+  
+ - year: 2025
+   title: "R4R: Reproducibility for R"
+   authors: "Pierre Donat-Bouillud, Filip Křikava, Sebastián Krynski, Jan Vitek"
+   publication: "The R User Conference"
+   publication_note: Talk
+   short_publication: "useR!'2025"
+   links:
+   - text: slides
+     link: https://docs.google.com/presentation/d/1o6nokVX1wnFL_lUvHc6FtbteWYGTolr17is7i9iXceQ/edit?usp=sharing
+   grants:
+   - R4R
 
  - year: 2025
    title: "Comparing R bytecode compilers written in R, Java, and Rust"
