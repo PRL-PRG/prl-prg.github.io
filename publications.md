@@ -2,6 +2,7 @@
 layout: publications
 title: Publications
 displayed_years:
+ - 2025
  - 2024
  - 2023
  - 2022
@@ -11,6 +12,51 @@ displayed_years:
  - 2018
  - 2017
 publications:
+
+##### 2025 #####
+ - year: 2025
+   title: "Copy-and-Patch Just-in-Time Compiler for R"
+   authors: "Matěj Kocourek, Filip Křikava, Jan Vitek"
+   publication: "Proceedings of the 17th Workshop on Virtual Machines and Language Implementations (VMIL) co-located with ICFP/SPLASH 2025"
+   short_publication: "VMIL'25"
+   links:
+   - text: PDF
+     link: https://doi.org/10.1145/3759548.3763370
+   grants:
+   - EXPRO
+
+ - year: 2025
+   title: "R4R: Reproducibility for R"
+   authors: "Pierre Donat-Bouillud, Filip Křikava, Sebastián Krynski, Jan Vitek"
+   publication: "2025 ACM Conference on Reproducibility and Replicability"
+   short_publication: "PREP'2025"
+   links:
+   - text: PDF
+     link: https://doi.org/10.1145/3736731.3746156
+   grants:
+   - EXPRO
+
+ - year: 2025
+   title: "Comparing R bytecode compilers written in R, Java, and Rust"
+   authors: "Pierre Donat-Bouillud, Filip Křikava, Jakob Hain, Adam Plodek, Jan Vitek"
+   publication: "MoreVMs, Companion Proceedings of the 9th International Conference on the Art, Science, and Engineering of Programming (Programming 2025)"
+   short_publication: "MoreVMs'25"
+   links:
+   - text: PDF
+     link: https://doi.org/10.4230/OASIcs.Programming.2025.3
+   grants:
+   - EXPRO
+  
+ - year: 2025
+   title: "Toward a Typed Intermediate Language for R"
+   authors: "Pierre Donat-Bouillud, Filip Křikava, Jan Vitek"
+   publication: "MoreVMs, Companion Proceedings of the 9th International Conference on the Art, Science, and Engineering of Programming (Programming 2025)"
+   short_publication: "MoreVMs'25"
+   links:
+   - text: PDF
+     link: https://doi.org/10.4230/OASIcs.Programming.2025.5
+   grants:
+   - EXPRO
 
 ##### 2024 #####
  - year: 2024
