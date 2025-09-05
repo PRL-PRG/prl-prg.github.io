@@ -39,7 +39,7 @@ publications:
  - year: 2025
    title: "Comparing R bytecode compilers written in R, Java, and Rust"
    authors: "Pierre Donat-Bouillud, Filip Křikava, Jakob Hain, Adam Plodek, Jan Vitek"
-   publication: "MoreVMs, Companion Proceedings of the 9th International Conference on the Art, Science, and Engineering of Programming (Programming 2025)"
+   publication: "Proceedings of the 9th International Workshop on Modern Language Runtimes, Ecosystems, and VMs, Companion Proceedings of the 9th International Conference on the Art, Science, and Engineering of Programming (Programming 2025)"
    short_publication: "MoreVMs'25"
    links:
    - text: PDF
@@ -50,8 +50,8 @@ publications:
  - year: 2025
    title: "Toward a Typed Intermediate Language for R"
    authors: "Mickaël Laurent, Jakob Hain, Filip Křikava, Sebastián Krynski, Jan Vitek"
-   publication: "MoreVMs, Companion Proceedings of the 9th International Conference on the Art, Science, and Engineering of Programming (Programming 2025)"
-   short_publication: "MoreVMs'25"
+   publication: "Proceedings of the 4th Workshop on Value Independence in Modern Programming Languages, Companion Proceedings of the 9th International Conference on the Art, Science, and Engineering of Programming (Programming 2025)"
+   short_publication: "VIMPL'25"
    links:
    - text: PDF
      link: https://doi.org/10.4230/OASIcs.Programming.2025.5
