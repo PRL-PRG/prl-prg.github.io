@@ -55,7 +55,7 @@ publications:
    short_publication: "MoreVMs'25"
    links:
    - text: PDF
-     link: https://doi.org/10.4230/OASIcs.Programming.2025.3
+     link: https://doi.org/10.4230/OASIcs.Programming.2025.1
    grants:
    - EXPRO
   
@@ -66,7 +66,7 @@ publications:
    short_publication: "VIMPL'25"
    links:
    - text: PDF
-     link: https://doi.org/10.4230/OASIcs.Programming.2025.5
+     link: https://doi.org/10.4230/OASIcs.Programming.2025.24
    grants:
    - EXPRO
 
