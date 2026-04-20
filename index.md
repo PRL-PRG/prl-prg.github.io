@@ -2,9 +2,17 @@
 layout: index
 title: Home
 news:
-  - 
+  -
+  - date: 'April 2026'
+    blurb: '**[Tomáš Kalibera](tomas-kalibera.html)** (1978&ndash;2026), member of R Core and long-time colleague, passed away on April 1, 2026, in Prague. [In memoriam](tomas-kalibera.html).'
+  - date: 'May 2026'
+    blurb: '**We** organize the **[Programming Language Implementation Summer School 2026](https://pliss.org/2026/)** in Bertinoro, Italy.'
+  - date: 'May 2025'
+    blurb: '**We** organize the **[Programming Language Implementation Summer School 2025](https://pliss.org/2025/)** in Bertinoro, Italy.'
   - date: 'September 2024'
     blurb: '**Christoph Kirsch** co-organizes [MPLR 2024](https://conf.researchr.org/home/issta-ecoop-2024/mplr-2024)'
+  - date: '2023'
+    blurb: '**Petr Maj** is awarded a PhD from FIT CTU for his thesis *[Analyzing Large Scale Code Repositories](https://janvitek.org/pubs/peta-phd23.pdf)*.'
   - date: 'October 2023' 
     blurb: '**Jan Vitek** has received an ERC grant Proof-of-Concept, *R4R*'
   - date: 'January 2023'
@@ -104,18 +112,5 @@ in their respective fields of web programming and data science, whose
 performance affects millions of users. We also have an interest in new and
 up-comming languages like Julia, which can become stars in their fields and
 make areas of computing faster and easier.
-
-## Join the lab
-
-If you are interested in programming languages and would like to try your hand
-at programming language research, we encourage you to contact us at [ck@cs.uni-salzburg.at](mailto:ck@cs.uni-salzburg.at) or
-[j.vitek@neu.edu](mailto:j.vitek@neu.edu).
-
-We are constantly looking for smart and enthusiastic people, and may have
-openings for Bachelor, Master, PhD students, and Post-Doc researchers.
-
-You can find more details regarding interesting project ideas
-[here](student-projects.html), or let us know if you have a PL project you
-would like to work on.
 
 ## News
