@@ -214,15 +214,16 @@ people:
       - 2021 - 2022
     note: "Currently, I do research on how to mitigate bias of GitHub datasets that researchers use to test various hypothesis."
 
-  - type: alumni
+  - type: researcher
     name: Oliver Tušla
     photo: oliver_tusla.jpg
-    title: BSc Student
+    title: Master's student
     email:
     web:
     bio:
       - Joined Czech Technical University, 2021
-    note: " I am interested in the runtimes of programming languages."
+      - Returned to the lab, 2026
+    note: "I am interested in programming language design and in the tools built around it. Compilers and type systems know far more than they tell us, and I work on ways to surface that knowledge interactively and visually."
 
   - type: alumni
     name: Alexander Kovalenko
