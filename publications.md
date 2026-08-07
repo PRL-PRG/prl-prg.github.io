@@ -2,6 +2,7 @@
 layout: publications
 title: Publications
 displayed_years:
+ - 2026
  - 2025
  - 2024
  - 2023
@@ -12,6 +13,29 @@ displayed_years:
  - 2018
  - 2017
 publications:
+
+##### 2026 #####
+ - year: 2026
+   title: "Type Inference for Functional and Imperative Dynamic Languages"
+   authors: "Mickaël Laurent, Jan Vitek"
+   publication: "Proc. ACM SIGPLAN Conference on Systems, Programming, Languages, and Applications: Software for Humanity"
+   short_publication: "OOPSLA'26"
+   links:
+   - text: PDF
+     link: https://ch-rigid.github.io/publications/laurent_type_inference_imp_2025.pdf
+   grants:
+   - EXPRO
+
+ - year: 2026
+   title: "A Typed Intermediate Representation for Dynamic Languages"
+   authors: "Mickaël Laurent, Jakob Hain, Filip Křikava, Sebastián Krynski, Jan Vitek"
+   publication: "ACM Transactions on Programming Languages and Systems"
+   short_publication: "TOPLAS"
+   links:
+   - text: PDF
+     link: https://ch-rigid.github.io/publications/laurent_typed_ir_2025.pdf
+   grants:
+   - EXPRO
 
 ##### 2025 #####
  - year: 2025
@@ -804,6 +828,28 @@ publications:
    - ELE
 
  - year: 2018
+   title: "You Can Program What You Want but You Cannot Compute What You Want"
+   authors: "Alireza S. Abyaneh, Christoph M. Kirsch"
+   publication: "Principles of Modeling"
+   links:
+   - text: DOI
+     link: https://doi.org/10.1007/978-3-319-95246-8_1
+   grants:
+   - ELE
+
+ - year: 2018
+   title: "On the self in selfie"
+   authors: "Christoph M. Kirsch"
+   publication: "Proc. Workshop on Virtual Machines and Intermediate Languages"
+   short_publication: "VMIL'18"
+   publication_note: "Invited Talk"
+   links:
+   - text: DOI
+     link: https://doi.org/10.1145/3281287.3281288
+   grants:
+   - ELE
+
+ - year: 2018
    title: "Dynamic deoptimization for the R language"
    authors: "Jan Ječmen"
    publication: "Technical Report TR-FIT-19-05"
@@ -1092,6 +1138,28 @@ publications:
      link: http://drops.dagstuhl.de/opus/volltexte/2017/7139
    - text: DOI
      link: http://dx.doi.org/10.4230/DARTS.3.1.1
+
+ - year: 2017
+   title: "Selfie and the Basics"
+   authors: "Christoph M. Kirsch"
+   publication: "Onward!"
+   short_publication: "Onward!'17"
+   links:
+   - text: DOI
+     link: https://doi.org/10.1145/3133850.3133857
+   grants:
+   - ELE
+
+ - year: 2017
+   title: "Work-in-Progress: Adaptive Scheduling with Approximate Computing for Audio Graphs"
+   authors: "Pierre Donat-Bouillud, Christoph M. Kirsch"
+   publication: "Real-Time Systems Symposium"
+   short_publication: "RTSS'17"
+   links:
+   - text: DOI
+     link: https://doi.org/10.1109/RTSS.2017.00045
+   grants:
+   - ELE
 
  - year: 2017
    title: "Making Android Run on Time"

@@ -10,7 +10,7 @@ R4R (Reproducibility for R) aims at making R notebooks reproducible by detecting
 
 This project has received funding from the European Union's Horizon Europe research and innovation program, ERC PoC 2022, under grant agreement No. 101081989.
 
-## Rigorous Engineering of Data Analysis Pipelines (RiGiD)
+## Rigorous Engineering of Data Analysis Pipelines
 
 
 The RiGiD project lays the groundwork for this research programme and aims to develop a methodology for rigorous engineering of data analysis pipelines that can be adopted in practice. Our approach is pragmatic. Rather than chasing functional correctness, we hope to substantially reduce the incidence of errors in the wild. The research is structured in three overlapping chapters: a catalog of error patterns as well as a labeled dataset to be shared with other researchers, a methodology and tooling for developing data sciences codes with reduced error rates, evaluatation by conducting user studies and developing tools for automating deployment.

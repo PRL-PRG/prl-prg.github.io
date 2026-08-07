@@ -2,6 +2,14 @@
 layout: videos
 title: Presentations and Conference Talks
 videos:
+  - title:   "Prof. Strangelove. Or: How I learned to stop worrying and love dynamic languages"
+    speaker: "Jan Vitek"
+    youtube: I6ypm3FU-yY
+    link:    "https://youtu.be/I6ypm3FU-yY"
+    venue:   "DLS 2023 Keynote"
+    date:    "23 October 2023"
+    place:   "Cascais, Portugal"
+
   - title:   "Deoptless: Speculation with Dispatched On-Stack Replacement and Specialized Continuations"
     speaker: "Olivier Flückiger"
     youtube: 69FAjHqESTQ
@@ -34,6 +42,14 @@ videos:
     date:    "21 October 2021"
     place:   "Chicago, USA" 
 
+  - title:   "On the design and foundations of dynamic languages for scientific computing"
+    speaker: "Jan Vitek"
+    youtube: LT4AP7CUMAw
+    link:    "https://youtu.be/LT4AP7CUMAw"
+    venue:   "JuliaCon 2021 Keynote"
+    date:    "28 July 2021"
+    place:   "Virtual"
+
   - title:   "Formally Verified Speculation and Deoptimization in a JIT Compiler"
     speaker: "Aurèle Barrière"
     youtube: 1W1LQWBVfz4
@@ -41,6 +57,22 @@ videos:
     venue:   "POPL 2021"
     date:    "20 January 2021"
     place:   "Virtual POPL" 
+
+  - title:   "Fitzcarraldo or How to Hack Academia to Build Stuff"
+    speaker: "Jan Vitek"
+    youtube: LaaUKWXHpNs
+    link:    "https://youtu.be/LaaUKWXHpNs"
+    venue:   "SPLASH 2020 (Dahl-Nygaard Senior Prize Talk)"
+    date:    "18 November 2020"
+    place:   "Virtual SPLASH"
+
+  - title:   "R Melts Brains, or: How I Learned to Love Failing at Compiling R"
+    speaker: "Jan Vitek"
+    youtube: VdD0nHbcyk4
+    link:    "https://youtu.be/VdD0nHbcyk4"
+    venue:   "WhyR? 2020"
+    date:    "24 September 2020"
+    place:   "Virtual"
 
   - title:   "The Current State and Future Prospects of Encoding Support in R"
     speaker: "Tomaš Kalibera"
@@ -65,6 +97,46 @@ videos:
     venue:   "e-Rum 2020"
     date:    "18 June 2020"
     place:   "Milan, Italy"  
+
+  - title:   "Getting everything wrong without doing anything right!"
+    speaker: "Jan Vitek"
+    youtube: ePCpq0AMyVk
+    link:    "https://youtu.be/ePCpq0AMyVk"
+    venue:   "CurryOn 2019"
+    date:    "16 July 2019"
+    place:   "London, UK"
+
+  - title:   "On the Design, Implementation and Use of Laziness in R"
+    speaker: "Aviral Goel"
+    youtube: qLxz9HPP6wI
+    link:    "https://youtu.be/qLxz9HPP6wI"
+    venue:   "OOPSLA 2019"
+    date:    "23 October 2019"
+    place:   "Athens, Greece"
+
+  - title:   "Scala Implicits are Everywhere"
+    speaker: "Filip Křikava"
+    youtube: g9KtbKoDTLo
+    link:    "https://youtu.be/g9KtbKoDTLo"
+    venue:   "OOPSLA 2019"
+    date:    "23 October 2019"
+    place:   "Athens, Greece"
+
+  - title:   "R Melts Brains: An IR for First-Class Environments and Lazy Effectful Arguments"
+    speaker: "Olivier Flückiger"
+    youtube: I9GIdWsm_u8
+    link:    "https://youtu.be/I9GIdWsm_u8"
+    venue:   "DLS 2019"
+    date:    "20 October 2019"
+    place:   "Athens, Greece"
+
+  - title:   "Julia's efficient algorithm for subtyping unions and covariant tuples"
+    speaker: "Benjamin Chung"
+    youtube: 1FD-sRAiyh4
+    link:    "https://youtu.be/1FD-sRAiyh4"
+    venue:   "ECOOP 2019"
+    date:    "15 July 2019"
+    place:   "London, UK"
 
   - title:   "Everything you ever wanted to know about Scala Implicits, but weren't sure how to ask"
     speaker: "Filip Křikava"
