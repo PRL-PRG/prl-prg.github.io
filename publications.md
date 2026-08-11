@@ -16,6 +16,29 @@ publications:
 
 ##### 2026 #####
  - year: 2026
+   title: "Revisiting Row Polymorphism for Set-Theoretic Types"
+   authors: "Mickaël Laurent, Pierre Donat-Bouillud, Filip Křikava, Jan Vitek"
+   publication: "Proceedings of the ACM on Programming Languages, Volume 10, Issue OOPSLA2"
+   short_publication: "OOPSLA'26"
+   publication_note: "to appear"
+   links:
+   - text: PDF
+     link: https://www.pdonatbouillud.com/publication/laurent-2026-row-polymorphism/laurent-revisiting-row-poly-oopsla-2026.pdf
+   grants:
+   - EXPRO
+
+ - year: 2026
+   title: "Leveraging Copy-and-Patch JIT for Low-Overhead Dynamic Program Analysis"
+   authors: "Matěj Kocourek, Filip Křikava, Pierre Donat-Bouillud, Jan Vitek"
+   publication: "Proceedings of the 23rd ACM SIGPLAN International Conference on Managed Programming Languages and Runtimes"
+   short_publication: "MPLR'26"
+   links:
+   - text: PDF
+     link: https://www.pdonatbouillud.com/publication/kocourek-2026-copy-and-patch/kocourek-copy-and-patch-mplr-2026.pdf
+   grants:
+   - EXPRO
+
+ - year: 2026
    title: "Type Inference for Functional and Imperative Dynamic Languages"
    authors: "Mickaël Laurent, Jan Vitek"
    publication: "Proc. ACM SIGPLAN Conference on Systems, Programming, Languages, and Applications: Software for Humanity"
