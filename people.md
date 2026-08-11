@@ -159,11 +159,11 @@ people:
   - type: researcher
     name: Filip Říha
     photo: filip_riha.jpg
-    title: Graduate
+    title: PhD student
     email: rihafili@fit.cvut.cz
     bio:
       - Joined Czech Technical University, 2019
-    note: "I am most interested in virtual machines and their various aspects. My most recent work has been implementing an object-oriented programming language in purely functional language."
+    note: "I am most interested in JIT compilers and their various aspects. Currently I am working on crossing the foreign-function barrier in dynamic languages."
 
   - type: alumni
     name: Jan Ječmen
