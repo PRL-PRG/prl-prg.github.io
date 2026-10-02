@@ -53,10 +53,11 @@ publications:
    authors: "Mickaël Laurent, Pierre Donat-Bouillud, Filip Křikava, Jan Vitek"
    publication: "Proceedings of the ACM on Programming Languages, Volume 10, Issue OOPSLA2"
    short_publication: "OOPSLA'26"
-   publication_note: "to appear"
    links:
    - text: PDF
      link: https://www.pdonatbouillud.com/publication/laurent-2026-row-polymorphism/laurent-revisiting-row-poly-oopsla-2026.pdf
+   - text: DOI
+     link: https://doi.org/10.1145/3839505
    grants:
    - EXPRO
 
