@@ -161,6 +161,7 @@ people:
     photo: filip_riha.jpg
     title: PhD student
     email: rihafili@fit.cvut.cz
+    web: https://rihafilip.github.io
     bio:
       - Joined Czech Technical University, 2019
     note: "I am most interested in JIT compilers and their various aspects. Currently I am working on crossing the foreign-function barrier in dynamic languages."
